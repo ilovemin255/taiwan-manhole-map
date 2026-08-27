@@ -1,5 +1,5 @@
 {
-  "version": "1.39.21",
+  "version": "1.39.22",
   "generated": "2026-08-28",
   "catalog_records": 60,
   "official_visual_reference_count": 30,
@@ -99,7 +99,10 @@
     "降低GitHub Pages對JSON fetch的依賴",
     "新增63筆獨立HTML靜態卡片fallback",
     "JS成功才切換至動態卡片",
-    "GitHub Pages不再可能因JS失敗整片空白"
+    "GitHub Pages不再可能因JS失敗整片空白",
+    "修正動態/靜態卡片同時顯示",
+    "靜態備援預設隱藏",
+    "啟動失敗才切換備援"
   ],
   "hotfixes": [
     "修正 app.js 照片篩選函式缺少右括號的 SyntaxError",
