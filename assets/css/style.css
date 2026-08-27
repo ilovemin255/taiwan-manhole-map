@@ -475,3 +475,35 @@ footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:
   border-radius:14px;
   color:#4f5b5f;
 }
+
+/* V1.39.21 GitHub Pages guaranteed fallback */
+.staticCards{
+  display:grid!important;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr))!important;
+  gap:16px!important;
+  width:100%!important;
+  min-height:300px!important;
+  margin-bottom:24px!important;
+}
+.staticFallbackCard{
+  display:block!important;
+  visibility:visible!important;
+  opacity:1!important;
+}
+.staticFallbackCard .coverWrap{
+  width:100%!important;
+  aspect-ratio:1/1!important;
+  overflow:hidden!important;
+  background:transparent!important;
+}
+.staticFallbackCard .coverWrap.roundCover{
+  border-radius:50%!important;
+}
+.staticFallbackCard .coverWrap img{
+  display:block!important;
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  object-position:center!important;
+}
+.dynamicCards[hidden], .staticCards[hidden]{display:none!important}

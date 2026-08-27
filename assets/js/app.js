@@ -282,6 +282,15 @@ function pictogramStrip(d) {
 }
 
 
+function activateDynamicCardsIfReady() {
+  const dynamic = document.getElementById("cards");
+  const fallback = document.getElementById("staticCards");
+  if (dynamic && dynamic.children.length > 0) {
+    dynamic.hidden = false;
+    if (fallback) fallback.hidden = true;
+  }
+}
+
 function renderCards(list) {
   const el = $("#cards");
   if (!el) return;
