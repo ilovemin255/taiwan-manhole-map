@@ -38,6 +38,30 @@ async function fetchJSON(name) {
   return response.json();
 }
 
+
+function showStaticFallback(reason) {
+  const dynamic = document.getElementById("cards");
+  const fallback = document.getElementById("staticCards");
+  if (dynamic) dynamic.hidden = true;
+  if (fallback) fallback.hidden = false;
+  console.warn("Using static fallback:", reason || "unknown");
+}
+
+function activateDynamicCardsIfReady() {
+  const dynamic = document.getElementById("cards");
+  const fallback = document.getElementById("staticCards");
+  if (dynamic && dynamic.children.length > 0) {
+    dynamic.hidden = false;
+    if (fallback) fallback.hidden = true;
+    window.__MANHOLE_APP_READY__ = true;
+  }
+}
+
+window.__MANHOLE_APP_READY__ = false;
+window.setTimeout(() => {
+  if (!window.__MANHOLE_APP_READY__) showStaticFallback("startup timeout");
+}, 2500);
+
 async function load() {
   try {
     const bundled = window.MANHOLE_DATA || null;
@@ -92,7 +116,7 @@ async function load() {
     }
   } catch (error) {
     console.error(error);
-    showFatal(error.message || String(error));
+    showStaticFallback("fatal load error");
   }
 }
 
@@ -342,6 +366,8 @@ function renderCards(list) {
       </article>
     `;
   }).join("");
+
+  activateDynamicCardsIfReady();
 }
 
 
