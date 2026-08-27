@@ -462,3 +462,16 @@ footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:
   object-fit:contain!important;
   object-position:50% 50%!important;
 }
+
+.mapFallback{
+  height:100%;
+  min-height:360px;
+  display:grid;
+  place-items:center;
+  align-content:center;
+  text-align:center;
+  padding:30px;
+  background:#eef0ee;
+  border-radius:14px;
+  color:#4f5b5f;
+}
