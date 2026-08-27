@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "coordinate_policy": {
+    "exact_marker_requires": [
+      "official thematic-map point or equivalent point evidence",
+      "matching official GIS record",
+      "district/road/type consistency"
+    ],
+    "area_or_landmark_is_not_exact": true
+  },
+  "taipei": {
+    "stormwater_sources": [
+      "taipei-storm-csv",
+      "taipei-storm-xml"
+    ],
+    "sewer_source": "taipei-sewer-csv",
+    "thematic_map_source": "taipei-live-map",
+    "exact_verified": [],
+    "status": "source_stack_ready_point_extraction_pending",
+    "notes": [
+      "官方主題地圖頁存在，但本輪公開索引未提供每個My Maps點的可機器讀取座標。",
+      "雨水CSV與雨水XML可提供候選GIS點；不能僅因位於同區就判定為特色孔蓋。",
+      "第一期另有5座污水特色孔蓋，因此污水人孔CSV納入驗證來源。"
+    ]
+  }
+}

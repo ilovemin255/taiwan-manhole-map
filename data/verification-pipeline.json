@@ -1,0 +1,40 @@
+{
+  "version": "1.5",
+  "rules": [
+    {
+      "level": "design",
+      "label": "官方設計已確認",
+      "marker": false
+    },
+    {
+      "level": "landmark_area",
+      "label": "官方地標/場域已確認",
+      "marker": "nearby_navigation_only"
+    },
+    {
+      "level": "gis_candidate",
+      "label": "GIS候選點",
+      "marker": false
+    },
+    {
+      "level": "exact_verified",
+      "label": "官方地圖+GIS交叉驗證精確點",
+      "marker": true
+    }
+  ],
+  "taipei": {
+    "official_first_phase_count": 25,
+    "official_first_phase_designs": 8,
+    "official_local_feature_count": 20,
+    "official_sewer_replacement_count": 5,
+    "named_landmark_areas": [
+      "中正紀念堂",
+      "龍山寺",
+      "永樂市場",
+      "南港轉運站"
+    ],
+    "gis_dataset_updated": "2026-06-29",
+    "exact_verified_count": 0,
+    "status": "cross_validation_pipeline_ready"
+  }
+}

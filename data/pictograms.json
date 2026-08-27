@@ -1,0 +1,157 @@
+[
+  {
+    "id": "flower",
+    "label": "花",
+    "icon": "assets/icons/pictograms/flower.svg"
+  },
+  {
+    "id": "tree",
+    "label": "木",
+    "icon": "assets/icons/pictograms/tree.svg"
+  },
+  {
+    "id": "bird",
+    "label": "鳥",
+    "icon": "assets/icons/pictograms/bird.svg"
+  },
+  {
+    "id": "fish",
+    "label": "魚",
+    "icon": "assets/icons/pictograms/fish.svg"
+  },
+  {
+    "id": "animal",
+    "label": "動物",
+    "icon": "assets/icons/pictograms/animal.svg"
+  },
+  {
+    "id": "insect",
+    "label": "昆蟲",
+    "icon": "assets/icons/pictograms/insect.svg"
+  },
+  {
+    "id": "fruit",
+    "label": "水果",
+    "icon": "assets/icons/pictograms/fruit.svg"
+  },
+  {
+    "id": "vegetable",
+    "label": "蔬菜",
+    "icon": "assets/icons/pictograms/vegetable.svg"
+  },
+  {
+    "id": "specialty",
+    "label": "名物品",
+    "icon": "assets/icons/pictograms/specialty.svg"
+  },
+  {
+    "id": "sight",
+    "label": "觀光名所",
+    "icon": "assets/icons/pictograms/sight.svg"
+  },
+  {
+    "id": "rail",
+    "label": "鐵道",
+    "icon": "assets/icons/pictograms/rail.svg"
+  },
+  {
+    "id": "vehicle",
+    "label": "交通工具",
+    "icon": "assets/icons/pictograms/vehicle.svg"
+  },
+  {
+    "id": "festival",
+    "label": "祭典",
+    "icon": "assets/icons/pictograms/festival.svg"
+  },
+  {
+    "id": "event",
+    "label": "活動",
+    "icon": "assets/icons/pictograms/event.svg"
+  },
+  {
+    "id": "sport",
+    "label": "運動",
+    "icon": "assets/icons/pictograms/sport.svg"
+  },
+  {
+    "id": "person",
+    "label": "歷史人物",
+    "icon": "assets/icons/pictograms/person.svg"
+  },
+  {
+    "id": "literature",
+    "label": "文學史",
+    "icon": "assets/icons/pictograms/literature.svg"
+  },
+  {
+    "id": "folktale",
+    "label": "傳說童話",
+    "icon": "assets/icons/pictograms/folktale.svg"
+  },
+  {
+    "id": "character",
+    "label": "角色",
+    "icon": "assets/icons/pictograms/character.svg"
+  },
+  {
+    "id": "advertising",
+    "label": "廣告宣傳",
+    "icon": "assets/icons/pictograms/advertising.svg"
+  },
+  {
+    "id": "fuji",
+    "label": "富士山",
+    "icon": "assets/icons/pictograms/fuji.svg"
+  },
+  {
+    "id": "castle",
+    "label": "城堡",
+    "icon": "assets/icons/pictograms/castle.svg"
+  },
+  {
+    "id": "bridge",
+    "label": "橋梁",
+    "icon": "assets/icons/pictograms/bridge.svg"
+  },
+  {
+    "id": "historic",
+    "label": "歷史建築",
+    "icon": "assets/icons/pictograms/historic.svg"
+  },
+  {
+    "id": "geometry",
+    "label": "幾何圖案",
+    "icon": "assets/icons/pictograms/geometry.svg"
+  },
+  {
+    "id": "sea",
+    "label": "海",
+    "icon": "assets/icons/pictograms/sea.svg"
+  },
+  {
+    "id": "mountain",
+    "label": "山",
+    "icon": "assets/icons/pictograms/mountain.svg"
+  },
+  {
+    "id": "river",
+    "label": "河川",
+    "icon": "assets/icons/pictograms/river.svg"
+  },
+  {
+    "id": "lake",
+    "label": "湖沼",
+    "icon": "assets/icons/pictograms/lake.svg"
+  },
+  {
+    "id": "heritage",
+    "label": "世界遺產",
+    "icon": "assets/icons/pictograms/heritage.svg"
+  },
+  {
+    "id": "other",
+    "label": "其他",
+    "icon": "assets/icons/pictograms/other.svg"
+  }
+]

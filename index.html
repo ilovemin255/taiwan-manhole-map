@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>台灣特色人孔蓋地圖 V1.39</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header><div class="nav"><div class="brand">🇹🇼 台灣特色人孔蓋地圖<small>TAIWAN MANHOLE COVER MAP · V1.39</small></div><div class="navActions" aria-label="主要功能"><a class="btn ghost" href="missions.html">📷 外拍任務</a> <a class="btn ghost" href="backup.html">🗄️ Backup</a> <a class="btn primary" href="#explore" onclick="setTimeout(()=>window.scrollTo({top:document.getElementById('explore').offsetTop-70,behavior:'smooth'}),0)">探索地圖</a></div></div></header>
+<section class="hero"><div class="heroBox"><h1>從「設計資料庫」走向真正可逛的地圖</h1><p>V1.39 新增官方範圍圖、來源面板、可信度標示與區域導航。精確 GPS 未逐點驗證前，仍不會用猜測座標冒充實際孔蓋位置。</p></div><div class="notice"><strong>座標原則：</strong>「官方設計已確認」不等於「精確 GPS 已確認」。橘色範圍與區域中心只是按官方探索圖建立的導覽層。</div></section>
+<main id="explore">
+<div class="stats"><div class="stat"><div class="num" id="total">0</div>已盤點設計</div><div class="stat"><div class="num" id="shown">0</div>目前顯示</div><div class="stat"><div class="num" id="zonesCount">0</div>官方範圍區</div><div class="stat"><div class="num" id="exact">0</div>精確GPS點</div></div>
+<div class="tools"><input id="q" class="field" placeholder="🔍 搜尋名稱、縣市、行政區或主題"><select id="city" class="field"></select><select id="theme" class="field"></select><select id="photo" class="field"><option value="">全部照片狀態</option><option value="official">已實裝官方真實視覺</option><option value="missing">尚待照片實裝</option></select><button id="executeSearch" class="primary executeSearchBtn" type="button">🔎 搜尋</button><button id="reset" class="ghost" type="button">清除</button></div>
+<div class="layout"><div id="map"></div><aside class="panel"><h3>資料來源</h3><div id="sources"></div><h3>可導航的官方確認場域</h3><div id="sites"></div></aside></div>
+<section class="notice"><strong>V1.39 臺北定位驗證流程</strong><br>① 官方設計 → ② 官方主題地圖 → ③ 臺北雨水人孔 GIS（X/Y、人孔編號、道路、蓋型）→ ④ 交叉吻合後才升級為精確 Marker。第一期官方確認 25 座；目前不把地標中心當作人孔蓋 GPS。</section><section class="notice"><strong>V1.39 精確定位資料棧已完成</strong><br>V1.39 已把官方視覺來源直接接到每張卡片：臺北24款可前往官方設計頁，臺南Part2四款可前往官方探索圖，臺中兩款可前往市府實體照片來源。真正可打包的本地圖片仍只在取得原始檔與使用權確認後替換。</section><section class="notice"><strong>V1.39 新增臺中與彰化</strong><br>
+臺中：太平「鳥榕頭」與水湳主題已接入市府官方正上方實拍。彰化：新增「扇形車庫與火車頭」污水人孔設計紀錄；扇形車庫目前只標為設計靈感地標，不冒充人孔精確位置。</section><section class="notice"><strong>V1.39 臺南正式擴充</strong><br>
+依2026年最新官方資料，臺南「十二花神」12款已全數完成；連同普濟殿、永樂市場、蝸牛巷既有13款，目前官方已確認25款特色孔蓋。網站新增四個官方尋訪區，沒有單座證據的位置仍不冒充精確GPS。</section><section class="auditNote"><strong>V1.39 查核升級</strong><br>
+臺南資料已校正為官方25款，並為25款加入「官方真實照片頁」狀態；彰化扇形車庫保留為已確認設計、待逐座定位；高雄完成第一輪官方盤點，但目前找到的是防滑規範與智慧監測人孔，尚不足以當作特色彩繪孔蓋，因此不灌入假資料。</section><section class="auditNote"><strong>V1.39 彰化暫定 Marker</strong><br>
+彰化「扇形車庫」特色污水孔蓋已先以彰化扇形車庫座標作為暫定尋訪點。地圖 Popup 會明確標示「⚠️ 暫定位置／實際孔蓋位置待補」，不把地標座標冒充成孔蓋精確 GPS。高雄維持「照片/地點可分開補」規則；尚未查到可核實為地方特色孔蓋的官方照片時，不使用一般防滑或智慧孔蓋照片冒充。</section><section class="auditNote"><strong>V1.39 真實照片修圖規格正式套用</strong><br>
+已實裝的官方真實視覺全部統一使用「正圓裁切＋淺灰背景」顯示；臺南25款均已找到市府官方實拍來源。只有能確認為真實孔蓋的照片才列為合格，側拍、來源不明或無法辨識款式的圖片不收。尚未取得可安全打包原始檔的照片會保留官方來源按鈕，不以AI圖代替。</section><section class="auditNote"><strong>V1.39 全臺擴充：桃園加入</strong><br>
+新增桃園「中壢在地人文特色污水人孔蓋」：桃園市水務局官方已確認設計納入中壢在地人文特色，且官方頁面附人孔照片。精確設置點目前仍待補，因此先以中壢區作尋訪範圍。本輪也再查新北、嘉義、宜蘭、花蓮、屏東；沒有足夠官方證據的款式不硬塞進資料庫。</section><section class="auditNote"><strong>V1.39 全臺盤點＋資料可信度</strong><br>
+本版再查新竹、基隆、南投、苗栗、雲林。新竹市2026議會紀錄已出現「參考臺北人孔蓋地圖化」的公共設施美學提案，因此列入未來追蹤；基隆與南投目前官方資料仍以孔蓋減量、更新維護為主，沒有把一般孔蓋誤列成特色款。每張卡片現在也直接標示「照片狀態」與「位置精度」。</section><section class="auditNote"><strong>V1.39 雲林重大新增</strong><br>
+找到雲林縣政府官方污水孔蓋徵圖資料：北港金獎「獅守」以媽祖廟前石獅為意象；虎尾金獎「特色虎尾」融入布袋戲、糖廠小火車與玉米。兩款先列為「官方設計已確認／街頭實裝待驗證」，不把設計圖冒充現場照片，也不亂放精確GPS。</section><section class="auditNote"><strong>V1.39 實地尋蓋模式</strong><br>
+臺南25款現在不只顯示行政區：卡片直接加入官方確認的尋訪街區。普濟殿七角頭可沿郡緯街、海安路、成功路、國華街周邊找；十二花神12款共40處，集中北華街、裕民街、長北街及周邊。彰化扇形車庫仍保留「暫定尋訪」警告。這版開始把資料庫往真正可以帶著手機找孔蓋的方向推進。</section><section class="auditNote"><strong>V1.39 圖片攻堅版</strong><br>
+這次不只整理來源：已把可直接取得的官方真實視覺下載到專案內，實際輸出成 900×900 WebP，套用完整圓形遮罩與統一淺灰底，共處理 <strong>0 張</strong>。桃園中壢官方照片因為是斜側拍，依收錄規則拒絕實裝；臺南牛塭堀角官方實拍通過角度審核，列為下一個原圖實裝候選。所有判定都寫入 image audit。</section><section class="auditNote"><strong>V1.39 圖片連動地圖</strong><br>
+現在點下方任何特色人孔蓋圖片，頁面會自動回到上方地圖並放大到街道層級（Zoom 16），方便直接查看該孔蓋尋訪點周邊約 10 條街道。若已有座標會優先使用；只有官方尋訪範圍時，則移到範圍中心並明確標示「非精確孔蓋 GPS」。</section><section class="auditNote"><strong>V1.39 搜尋操作更新</strong><br>
+現在先選擇地區、風格與照片狀態，再按「🔎 搜尋」才會執行篩選；搜尋完成後頁面會直接滑到下方人孔蓋圖案結果。關鍵字欄位按 Enter 也能直接搜尋。按「清除」會恢復全部資料。</section><section class="auditNote"><strong>V1.39 手機導覽列</strong><br>
+手機或較窄視窗時，最上方的「外拍任務／探索」功能列改成可左右滑動，不會再被擠掉或換行卡住。按鈕維持完整尺寸，手指直接左右滑即可切換。</section><section class="auditNote"><strong>V1.39 Backup 資料來源中心</strong><br>
+主頁卡片不再顯示資料來源文字與來源按鈕，畫面更乾淨。所有官方來源、查核連結與關聯孔蓋都集中到頂部的「🗄️ Backup」頁面；手機版這顆按鈕也會跟外拍任務、探索一起左右滑動。</section><section class="auditNote"><strong>V1.39 日本マンホールカード式「設計元素」</strong><br>
+每張特色孔蓋下方新增32種設計元素。符合現有官方名稱或設計說明的元素會彩色顯示；沒有足夠證據的維持灰色。分類參考日本GKPマンホールカード現行32類，但圖示採本站自己的Emoji/文字呈現，不直接複製官方圖標。</section><section class="auditNote"><strong>V1.39 元素分類顯示修正</strong><br>
+上一版元素資料已存在，但前端漏掉載入 pictograms.json，所以沒有顯示。這版已修正；每張孔蓋下方都會看到「🎨 圖案元素分類」，彩色＝符合、灰色＝未確認，可左右滑動查看全部。</section>
+<section class="auditNote"><strong>V1.39 自繪可愛元素圖示</strong><br>
+已改用 GKP 官方 31 類分類，所有圖示都是本站重新繪製的 SVG。風格依你圈選的版本：例如動物用小熊、昆蟲用瓢蟲、水果用草莓、蔬菜用白蘿蔔、鐵道用新幹線、交通工具用小汽車、海用鯨魚、山用綠色山峰。分類列平常隱藏；電腦滑鼠移到卡片才顯示，手機在卡片上左右滑動才展開。</section><section class="auditNote"><strong>V1.39 互動簡化</strong><br>
+點特色人孔蓋圖片現在不會再跳到上方地圖。圖案元素分類仍只在電腦滑鼠移入卡片或手機水平滑動時展開；展開後只顯示「符合」的彩色元素，未符合／未確認的分類完全隱藏，不再顯示灰色圖示。</section><section class="auditNote"><strong>V1.39 臺北蓋水 24 款官方校正版</strong><br>
+臺北24款已逐款改用「臺北蓋水」官方 /caps/ 詳情頁校正：官方名稱、行政區、設計說明與每款獨立 Google My Maps 地理位置均寫入資料。元素分類也不再猜圖，改用官方設計文字重新判定；卡片新增「📍 查看官方地理位置」。</section><section class="auditNote"><strong>V1.39 卡片標題統一</strong><br>
+所有城市的人孔蓋圖片下方現在固定顯示「行政區／縣市」＋「孔蓋題目」，不只臺北。圖片儲存也新增本地化狀態：已在專案裡的標示 local；目前仍由官方 CDN 提供的圖片列為待本地化，之後取得可用原始檔就直接放進 assets/images。</section><section class="auditNote"><strong>V1.39 臺北蓋水官方圖＋位置實裝規則</strong><br>
+臺北24款全部以臺北市水利處「臺北蓋水」詳情頁為 canonical source：每款官方圖片、題目、行政區、設計說明與官方 Google My Maps 位置均綁定。卡片會標示「✓ 臺北蓋水官方圖片・官方位置」。CDN 能本地打包的圖片使用專案檔；被官方 CDN 阻擋直接下載的款式，不再用錯圖替代，保留官方詳情頁作為 canonical fallback。</section><section class="auditNote"><strong>V1.39 臺北24款圖片顯示修正版</strong><br>
+臺北24款全部改用「臺北蓋水」官方填色圖頁可正常讀取的 PNG，不再使用前一批容易失效的 WebP。卡片會自動裁切官方圖紙右側的圓形孔蓋圖案，所以每一款臺北卡片都應該能看到真正的官方設計圖；官方題目、行政區與官方地理位置全部保留。</section><section class="auditNote"><strong>V1.39 臺北彩色圖＋置中修正</strong><br>
+V1.32 使用的是官方填色紙，所以才是黑白線稿；這版改回每款「臺北蓋水 /caps/ 詳情頁」裡的彩色官方孔蓋圖。也取消右側硬裁切，全部改成 50%/50% 正中央、object-fit: contain、圓形淺灰底，避免孔蓋歪向一邊。</section><section class="auditNote"><strong>V1.39 臺北缺圖4張修復</strong><br>
+已針對「松山之詩 日篇／夜篇、百年浴場 北投獅吼、穿越北投 百年納涼」改接臺北市政府工務局水利工程處官方 www-ws.gov.taipei PNG 備援圖源。四張仍保留在臺北24款中，並使用正中央 contain 顯示，不再依賴原先失效的臺北蓋水 CDN 連結。</section><section class="auditNote"><strong>V1.39 臺中＋臺南官方資料校正版</strong><br>
+沿用臺北處理規則：官方名稱、行政區、設計概念、圖片來源、位置來源分開驗證。臺中先以市府＋Plain Design交叉確認「豐原・集散地／水湳・飛行歷史與經貿未來／太平・鳥榕頭」；臺南改以市府水利局官方系列資料校正6款、普濟殿新增4款與北區十二花神。圖片失效不刪資料，沒有官方精確點位時也不以行政區中心冒充實際位置。</section><section class="auditNote"><strong>V1.39 圖片驗收修正版</strong><br>
+這版把「找到官方來源」和「卡片真的有圖」分開。臺中豐原／水湳／太平三款已直接改用臺中市政府彩色照片；臺南仍沒有取得可直接嵌入的原圖檔者，不再假裝已實裝，會保留官方圖片頁／官方PDF證據，直到真正取得圖片檔才切換卡片圖片。</section><section class="auditNote"><strong>V1.39 臺中3款＋圓形去背景＋北到南排序</strong><br>
+臺中「豐原・集散地／水湳／太平・鳥榕頭」三款重新指定官方圖片；圖片卡片只保留人孔蓋最外圈圓形，照片周圍道路背景不顯示。所有城市結果也改成固定由北往南排列，不會再出現臺中、高雄、臺南、又臺中的跳序。</section><section class="auditNote"><strong>V1.39 臺中／臺南圖片實裝修正版</strong><br>
+臺中目前5筆資料全部改成可取得的實際照片來源：豐原、水湳、太平、綠川、草悟道。圓形孔蓋只保留金屬外圈，地磚／道路背景以裁切方式移除；草悟道實物是方形，所以保留真實方形。臺南目前能取得可直接嵌入圖片網址的款式也全部實裝，其餘仍誠實標記待取得原圖。</section><section class="auditNote"><strong>V1.39 圖片重新校正＋桃園／高雄</strong><br>
+臺中與上一版新增的臺南照片全部取消過度放大：圓形孔蓋必須保留360度完整黑色最外圈。臺南本廟邊角改找較正面的來源。桃園資料改成水務局已確認的楊梅、百吉、龜山、小烏來、大溪系統；高雄則加入官方文件明確確認的新崛江街區新式美化孔蓋。找不到可靠正面照片的項目不拿錯圖硬補。</section><h2 id="resultsHeading">📚 特色人孔蓋資料庫</h2><div id="cards" class="grid"></div>
+</main>
+<footer>台灣特色人孔蓋地圖 · V1.39 · 官方資料優先 · 精確位置逐點核驗中</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/app.js"></script>
+</body></html>

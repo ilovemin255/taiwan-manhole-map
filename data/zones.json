@@ -1,0 +1,120 @@
+[
+  {
+    "id": "TN-P2-A",
+    "city": "臺南市",
+    "district": "中西區",
+    "design_name": "大廠口角",
+    "zone_label": "A",
+    "verification": "official_scope_map",
+    "streets": [
+      "西門路三段45巷",
+      "海安路三段",
+      "成功路",
+      "西門路三段"
+    ],
+    "center": [
+      23.0032,
+      120.1991
+    ],
+    "bounds": [
+      [
+        22.9998,
+        120.1965
+      ],
+      [
+        23.0063,
+        120.2022
+      ]
+    ],
+    "source_id": "tainan-part2",
+    "note": "中心點與矩形僅作網站區域導覽；不是單一孔蓋精確座標。"
+  },
+  {
+    "id": "TN-P2-B",
+    "city": "臺南市",
+    "district": "中西區",
+    "design_name": "十八洞角",
+    "zone_label": "B",
+    "verification": "official_scope_map",
+    "streets": [
+      "國華街三段",
+      "國華街三段25巷",
+      "西門路二段",
+      "成功路"
+    ],
+    "center": [
+      22.9985,
+      120.1985
+    ],
+    "bounds": [
+      [
+        22.9968,
+        120.1968
+      ],
+      [
+        23.0003,
+        120.2005
+      ]
+    ],
+    "source_id": "tainan-part2",
+    "note": "中心點與矩形僅作網站區域導覽；不是單一孔蓋精確座標。"
+  },
+  {
+    "id": "TN-P2-C",
+    "city": "臺南市",
+    "district": "中西區",
+    "design_name": "頂粗糠崎",
+    "zone_label": "C",
+    "verification": "official_scope_map",
+    "streets": [
+      "西門路二段",
+      "普濟殿周邊",
+      "國華街三段"
+    ],
+    "center": [
+      22.9968,
+      120.1976
+    ],
+    "bounds": [
+      [
+        22.9952,
+        120.1959
+      ],
+      [
+        22.9983,
+        120.1994
+      ]
+    ],
+    "source_id": "tainan-part2",
+    "note": "中心點與矩形僅作網站區域導覽；不是單一孔蓋精確座標。"
+  },
+  {
+    "id": "TN-P2-D",
+    "city": "臺南市",
+    "district": "中西區",
+    "design_name": "牛塭堀角",
+    "zone_label": "D",
+    "verification": "official_scope_map",
+    "streets": [
+      "海安路二段",
+      "國華街三段",
+      "郡緯街"
+    ],
+    "center": [
+      22.9987,
+      120.1952
+    ],
+    "bounds": [
+      [
+        22.9965,
+        120.1929
+      ],
+      [
+        23.001,
+        120.197
+      ]
+    ],
+    "source_id": "tainan-part2",
+    "note": "中心點與矩形僅作網站區域導覽；不是單一孔蓋精確座標。"
+  }
+]

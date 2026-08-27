@@ -1,0 +1,47 @@
+{
+  "version": "1.15",
+  "searched_at": "2026-08-26",
+  "scope": "Taiwan-wide official-government-first search",
+  "confirmed_sources": [
+    {
+      "city": "臺北市",
+      "status": "official visuals already installed",
+      "count": 17,
+      "note": "臺北蓋水官方設計視覺。"
+    },
+    {
+      "city": "臺中市",
+      "status": "official real photos/designs confirmed",
+      "note": "臺中市政府確認豐原、水湳、太平三款地方特色彩繪人孔蓋。"
+    },
+    {
+      "city": "臺南市",
+      "status": "official real photos confirmed",
+      "count": 25,
+      "note": "2026年官方確認25款；官方新聞頁含相關圖片。"
+    },
+    {
+      "city": "彰化縣",
+      "status": "design confirmed, photo/exact location pending",
+      "note": "扇形車庫意象已由縣府施政報告確認；暫定尋訪點為扇形車庫。"
+    },
+    {
+      "city": "高雄市",
+      "status": "no decorative-cover record added",
+      "note": "目前官方檢索主要為防滑/智慧人孔資料，不能冒充特色彩繪孔蓋。"
+    }
+  ],
+  "rejected_image_rules": [
+    "側面角度明顯",
+    "孔蓋不完整",
+    "來源不明",
+    "無法對應款式",
+    "AI生成或模擬圖"
+  ],
+  "processing_rules": [
+    "圓形裁切",
+    "統一淺灰背景",
+    "保留孔蓋完整圖騰",
+    "不改變原設計內容"
+  ]
+}

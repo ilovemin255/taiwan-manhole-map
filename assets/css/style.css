@@ -1,0 +1,464 @@
+
+:root{--bg:#f6f1e7;--ink:#233238;--muted:#6b777c;--brand:#a7332b;--gold:#dd9a3b;--line:#e5dacb;--card:#fff;--green:#33704b}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,"Noto Sans TC","Microsoft JhengHei",sans-serif}
+header{position:sticky;top:0;z-index:1200;background:#fffffff2;border-bottom:1px solid var(--line);backdrop-filter:blur(12px)}
+.nav{max-width:1450px;margin:auto;padding:13px 22px;display:flex;align-items:center;justify-content:space-between;gap:12px}.brand{font-weight:950}.brand small{display:block;font-size:10px;color:#788}
+button,.btn{font:inherit;border:0;border-radius:11px;padding:10px 15px;cursor:pointer;text-decoration:none}.primary{background:var(--brand);color:#fff;font-weight:800}.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.hero,main{max-width:1450px;margin:auto;padding:24px 22px}.heroBox{border-radius:26px;padding:42px;background:linear-gradient(135deg,#9e2f28,#e2a047);color:#fff;box-shadow:0 16px 40px #0002}.hero h1{font-size:clamp(34px,5vw,58px);margin:0 0 8px}.hero p{max-width:850px;line-height:1.8}
+.notice{margin-top:16px;background:#fff8e8;border:1px solid #efd59c;border-radius:14px;padding:14px 16px;line-height:1.7}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:17px}.stat{background:#fff;border:1px solid var(--line);border-radius:17px;padding:17px}.num{font-size:28px;font-weight:950;color:var(--brand)}
+.tools{display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:9px;margin-bottom:13px}.field{width:100%;padding:12px;border:1px solid var(--line);border-radius:12px;background:#fff;font:inherit}
+.layout{display:grid;grid-template-columns:minmax(0,2fr) minmax(300px,.9fr);gap:16px}#map{height:625px;border:1px solid var(--line);border-radius:20px;overflow:hidden;background:#ddd}
+.panel{background:#fff;border:1px solid var(--line);border-radius:20px;padding:18px;max-height:625px;overflow:auto}.panel h3{margin-top:0}.source{padding:13px 0;border-bottom:1px solid #eee}.source:last-child{border:0}.source a{color:var(--brand);font-weight:800;text-decoration:none}
+.legend{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.pill,.tag{display:inline-block;border-radius:999px;padding:5px 9px;font-size:12px}.pill{background:#edf5ef;color:var(--green)}.tag{background:#f0e8dd;margin:2px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;transition:.2s}.card:hover{transform:translateY(-2px);box-shadow:0 12px 30px #0001}.card h3{margin:10px 0 5px}.muted{font-size:13px;color:var(--muted);line-height:1.7}.ok{font-size:12px;color:var(--green);font-weight:850}.pending{font-size:12px;color:#8b6500;font-weight:850}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.mini{padding:8px 10px;font-size:12px}
+.zone-card{border-left:4px solid var(--gold);padding-left:12px;margin:12px 0}.zone-card strong{display:block}
+footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:28px 20px}
+@media(max-width:1000px){.layout{grid-template-columns:1fr}.panel{max-height:none}.tools{grid-template-columns:1fr 1fr}.grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.stats{grid-template-columns:repeat(2,1fr)}.tools{grid-template-columns:1fr}.grid{grid-template-columns:1fr}#map{height:500px}.heroBox{padding:28px 20px}}
+
+.coverWrap{background:#e8eaec;border-radius:16px;padding:14px;margin:-4px -4px 12px;display:grid;place-items:center;aspect-ratio:1/1;overflow:hidden}
+.coverWrap img{width:100%;height:100%;object-fit:contain;border-radius:50%}.photoCard{overflow:hidden}
+
+.loadError{
+  margin:12px 0 18px;
+  padding:16px;
+  border:1px solid #d9534f;
+  background:#fff2f1;
+  color:#7e2420;
+  border-radius:14px;
+  line-height:1.6;
+}
+.emptyState{
+  grid-column:1/-1;
+  text-align:center;
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:36px 20px;
+}
+#map{min-height:520px}
+@supports not (backdrop-filter: blur(10px)){
+  header{background:#fff}
+}
+
+.coverWrap{
+  background:#e7e9eb !important;
+  border-radius:18px;
+  padding:18px;
+}
+.coverWrap.realInstalled img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  border-radius:50%;
+  filter:none;
+}
+.coverWrap.realInstalled{
+  background:#e8eaec !important;
+}
+.visualMeta{
+  margin-top:8px;
+  font-size:11px;
+  color:#748087;
+  line-height:1.5;
+}
+.imageFailed{
+  outline:2px dashed #c7aa75;
+}
+
+.officialFound{margin-top:9px;color:#176b45;font-weight:800;font-size:13px}
+.auditNote{margin:16px 0;padding:15px 17px;background:#fff;border:1px solid var(--line);border-radius:14px;line-height:1.65}
+
+/* V1.15 unified manhole photo treatment */
+.coverWrap{
+  width:100%;
+  aspect-ratio:1/1;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+  background:#e4e6e8 !important;
+  border-radius:18px;
+  padding:28px !important;
+}
+.coverWrap img{
+  width:100% !important;
+  height:100% !important;
+  aspect-ratio:1/1;
+  object-fit:cover !important;
+  border-radius:50% !important;
+  clip-path:circle(50% at 50% 50%);
+  background:#dfe2e4;
+}
+.coverWrap.pendingImage img{opacity:.45}
+.coverWrap.realInstalled img{opacity:1}
+.photoSourceBadge{
+  margin-top:8px;
+  padding:7px 9px;
+  border-radius:9px;
+  background:#eef7f1;
+  font-size:12px;
+  color:#245c3c;
+}
+
+.dataQuality{display:flex;gap:6px;flex-wrap:wrap;margin:9px 0}
+.dataQuality span{font-size:11px;background:#f2eee7;border:1px solid #e2d8ca;border-radius:999px;padding:5px 8px;color:#5e676b}
+
+.huntArea{margin:9px 0;padding:9px 11px;border-radius:10px;background:#f4f6f3;border:1px solid #dfe5dd;font-size:12px;line-height:1.55}
+.huntArea small{color:#69746c}
+
+/* V1.21 photo → map interaction */
+.coverMapButton{position:relative;border:0;width:100%;cursor:pointer;font:inherit;text-align:inherit}
+.coverMapButton:focus-visible{outline:3px solid currentColor;outline-offset:3px}
+.mapJumpHint{
+  position:absolute;left:50%;bottom:12px;transform:translateX(-50%);
+  white-space:nowrap;padding:7px 11px;border-radius:999px;
+  background:rgba(255,255,255,.92);border:1px solid rgba(0,0,0,.12);
+  font-size:12px;font-weight:700;color:#394247;
+}
+@media (hover:hover) and (pointer:fine){
+  .coverMapButton:hover .mapJumpHint{transform:translateX(-50%) translateY(-2px)}
+}
+#map.mapFocused{outline:4px solid rgba(70,95,80,.28);outline-offset:3px}
+
+.executeSearchBtn{min-width:108px;min-height:44px}
+#resultsHeading:focus{outline:0}
+@media(max-width:1100px){
+  .tools{grid-template-columns:1fr 1fr 1fr}
+  .executeSearchBtn,#reset{min-height:46px}
+}
+@media(max-width:700px){
+  .tools{grid-template-columns:1fr}
+  .executeSearchBtn,#reset{width:100%}
+}
+
+/* V1.23 horizontally scrollable mobile header actions */
+.navActions{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  flex:0 0 auto;
+  min-width:0;
+}
+.navActions .btn{
+  flex:0 0 auto;
+  white-space:nowrap;
+  min-height:44px;
+}
+@media(max-width:700px){
+  .nav{
+    gap:10px;
+    overflow:hidden;
+  }
+  .brand{
+    flex:1 1 auto;
+    min-width:115px;
+  }
+  .navActions{
+    max-width:58%;
+    overflow-x:auto;
+    overflow-y:hidden;
+    overscroll-behavior-x:contain;
+    -webkit-overflow-scrolling:touch;
+    scrollbar-width:none;
+    padding:3px 2px 5px;
+    scroll-snap-type:x proximity;
+  }
+  .navActions::-webkit-scrollbar{display:none}
+  .navActions .btn{
+    scroll-snap-align:start;
+  }
+}
+@media(max-width:420px){
+  .brand{font-size:16px}
+  .brand small{font-size:9px}
+  .navActions{max-width:55%}
+}
+
+/* V1.25 GKP-inspired 32-category design-element strip */
+.pictogramBlock{margin-top:12px;padding-top:10px;border-top:1px solid #ece5dc}
+.pictogramTitle{font-size:11px;font-weight:800;color:#697176;margin-bottom:7px}
+.pictogramStrip{display:flex;gap:5px;overflow-x:auto;padding:2px 1px 7px;scrollbar-width:thin}
+.picto{flex:0 0 auto;width:48px;min-height:49px;border-radius:9px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid #dedede;font-size:10px;line-height:1.15}
+.pictoIcon{font-size:19px;filter:grayscale(1);opacity:.35}
+.pictoLabel{margin-top:3px;white-space:nowrap;transform:scale(.9)}
+.picto.inactive{background:#f2f2f2;color:#aaa}
+.picto.active{background:#fff7e5;color:#31383b;border-color:#e5bd68;box-shadow:0 1px 5px rgba(0,0,0,.06)}
+.picto.active .pictoIcon{filter:none;opacity:1}
+@media(max-width:700px){.pictogramStrip{-webkit-overflow-scrolling:touch}.picto{width:46px}}
+
+.pictogramBlock{display:block!important;width:100%;margin:14px 0 4px!important;padding:12px!important;border:1px solid #ded3c4!important;border-radius:13px!important;background:#fffdf8!important}
+.pictogramHeader{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pictogramTitle{font-size:13px!important;font-weight:900!important;color:#343b3f!important}
+.pictogramCount{font-size:11px;font-weight:800;background:#eee8df;padding:4px 7px;border-radius:999px;white-space:nowrap}
+.pictogramHint{font-size:10px;color:#7b8387;margin:5px 0 8px}
+.pictogramStrip{display:flex!important;overflow-x:auto!important;-webkit-overflow-scrolling:touch}
+.picto.active{background:#fff1c7!important;border:2px solid #d69b27!important;color:#222!important;opacity:1!important}
+.picto.inactive{background:#ededed!important;border:1px solid #d6d6d6!important;color:#999!important;opacity:.72!important}
+.picto.active .pictoIcon{filter:none!important;opacity:1!important}
+.picto.inactive .pictoIcon{filter:grayscale(1)!important;opacity:.32!important}
+
+/* V1.27 custom pictograms: hidden until card interaction */
+.pictogramBlock{
+  display:none!important;
+  opacity:0;
+  max-height:0;
+  overflow:hidden;
+  transition:opacity .18s ease,max-height .22s ease;
+}
+@media (hover:hover) and (pointer:fine){
+  .photoCard:hover .pictogramBlock,
+  .photoCard:focus-within .pictogramBlock{
+    display:block!important;
+    opacity:1;
+    max-height:150px;
+    overflow:visible;
+  }
+}
+.photoCard.showPictograms .pictogramBlock{
+  display:block!important;
+  opacity:1;
+  max-height:150px;
+  overflow:visible;
+}
+.pictoIcon{
+  width:28px!important;
+  height:28px!important;
+  display:grid!important;
+  place-items:center!important;
+}
+.pictoIcon img{
+  width:28px!important;
+  height:28px!important;
+  object-fit:contain!important;
+  border-radius:0!important;
+  clip-path:none!important;
+  background:transparent!important;
+}
+.picto.inactive .pictoIcon img{
+  filter:grayscale(1)!important;
+  opacity:.28!important;
+}
+.picto.active .pictoIcon img{
+  filter:none!important;
+  opacity:1!important;
+}
+
+/* V1.28: image is visual only; no map jump */
+.coverWrap{cursor:default!important}
+.coverMapButton,.mapJumpHint{display:none!important}
+
+/* Only matched pictograms are rendered. */
+.pictogramNone{
+  font-size:11px;
+  color:#8a9296;
+  padding:6px 0 2px;
+}
+.pictogramStrip .picto{
+  opacity:1!important;
+}
+
+.officialMapAction{margin:9px 0}
+.officialMapAction a{display:inline-flex;align-items:center;min-height:36px;padding:7px 10px;border-radius:9px;background:#eef5ff;border:1px solid #cbdcf5;text-decoration:none;color:#285f9d;font-size:12px;font-weight:800}
+
+/* V1.30 title + district directly below every cover image */
+.coverCaption{
+  margin:10px 2px 9px;
+  min-width:0;
+}
+.coverCaptionArea{
+  font-size:12px;
+  font-weight:750;
+  color:#8b5147;
+  line-height:1.35;
+}
+.coverCaptionTitle{
+  margin-top:3px;
+  font-size:18px;
+  font-weight:900;
+  line-height:1.35;
+  color:var(--ink);
+  overflow-wrap:anywhere;
+}
+.legacyCardTitle{
+  position:absolute!important;
+  width:1px!important;
+  height:1px!important;
+  padding:0!important;
+  margin:-1px!important;
+  overflow:hidden!important;
+  clip:rect(0,0,0,0)!important;
+  white-space:nowrap!important;
+  border:0!important;
+}
+@media(max-width:700px){
+  .coverCaptionTitle{font-size:17px}
+  .coverCaptionArea{font-size:12px}
+}
+
+.officialVerified{display:inline-block;margin-top:5px;padding:3px 7px;border-radius:999px;background:#edf7ef;color:#39764a;font-size:10px;font-weight:800}
+
+/* V1.32 Taipei official coloring-sheet crop: focus the right-side circular manhole art */
+.coverWrap.taipeiSheetCrop{
+  padding:18px!important;
+  background:#e8eaec!important;
+}
+.coverWrap.taipeiSheetCrop img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:83% 50%!important;
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+  transform:scale(1.12);
+}
+
+/* V1.33 Taipei colored detail images — centered, no sheet crop */
+.coverWrap.taipeiSheetCrop img{transform:none!important;object-position:50% 50%!important}
+.coverWrap:has(img[src*="1920w.webp"]){
+  padding:20px!important;
+  background:#e8eaec!important;
+}
+.coverWrap:has(img[src*="1920w.webp"]) img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  object-position:50% 50%!important;
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+  transform:none!important;
+}
+
+/* V1.34 official HEO fallback PNGs */
+.coverWrap img[src*="www-ws.gov.taipei"]{
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  object-position:50% 50%!important;
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+  transform:none!important;
+  background:transparent!important;
+}
+
+/* V1.36 Taichung official color photos */
+.coverWrap img[src*="taichung.gov.tw/media/"]{
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  object-position:50% 50%!important;
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+  transform:none!important;
+  background:transparent!important;
+}
+
+/* V1.37 — show only the circular manhole cover, no photo background */
+.coverWrap{
+  background:transparent!important;
+  padding:10px!important;
+}
+.coverWrap.realInstalled{
+  background:transparent!important;
+}
+.coverWrap img{
+  display:block!important;
+  margin:auto!important;
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:50% 50%!important;
+  border-radius:50%!important;
+  clip-path:circle(49% at 50% 50%)!important;
+  background:transparent!important;
+}
+/* Taichung top-down photos: enlarge slightly so pavement disappears outside the iron ring */
+.coverWrap img[src*="375212"],
+.coverWrap img[src*="375213"]{
+  transform:scale(1.12)!important;
+}
+/* Fengyuan official field photo is wider/oblique; crop tighter around the cover */
+.coverWrap img[src*="1025453"]{
+  transform:scale(1.72)!important;
+  object-position:50% 72%!important;
+}
+
+/* V1.38 final cover-only treatment */
+.coverWrap.coverOnly{
+  position:relative!important;
+  padding:0!important;
+  background:transparent!important;
+  overflow:hidden!important;
+}
+.coverWrap.coverOnly.roundCover{
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+}
+.coverWrap.coverOnly.roundCover img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:var(--cover-pos-x) var(--cover-pos-y)!important;
+  transform:scale(var(--cover-scale))!important;
+  transform-origin:center center!important;
+  border-radius:0!important;
+  clip-path:none!important;
+  background:transparent!important;
+}
+.coverWrap.coverOnly.squareCover{
+  border-radius:14px!important;
+  clip-path:inset(0 round 14px)!important;
+}
+.coverWrap.coverOnly.squareCover img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:var(--cover-pos-x) var(--cover-pos-y)!important;
+  transform:scale(var(--cover-scale))!important;
+  transform-origin:center center!important;
+  border-radius:0!important;
+  clip-path:none!important;
+  background:transparent!important;
+}
+/* neutralize older URL-specific transforms */
+.coverWrap.coverOnly img[src*="taichung.gov.tw"],
+.coverWrap.coverOnly img[src*="wikitravel.org"],
+.coverWrap.coverOnly img[src*="learnin.tw"],
+.coverWrap.coverOnly img[src*="dcard.tw"]{
+  transform:scale(var(--cover-scale))!important;
+  object-position:var(--cover-pos-x) var(--cover-pos-y)!important;
+}
+
+/* V1.39 full-ring rule: preserve the entire 360° black metal rim */
+.coverWrap.coverOnly.roundCover{
+  overflow:hidden!important;
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+  background:transparent!important;
+  padding:0!important;
+}
+.coverWrap.coverOnly.roundCover img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  object-position:50% 50%!important;
+  transform:none!important;
+  transform-origin:center center!important;
+  background:transparent!important;
+  border-radius:50%!important;
+  clip-path:none!important;
+}
+/* Override all older Taichung/Tainan zoom rules that could cut the outer rim */
+.coverWrap.coverOnly img[src*="taichung.gov.tw"],
+.coverWrap.coverOnly img[src*="wikitravel.org"],
+.coverWrap.coverOnly img[src*="learnin.tw"],
+.coverWrap.coverOnly img[src*="merit-times.com"],
+.coverWrap.coverOnly img[src*="housefun.com.tw"],
+.coverWrap.coverOnly img[src*="ltn.com.tw"],
+.coverWrap.coverOnly img[src*="tainan.gov.tw"]{
+  transform:none!important;
+  object-fit:contain!important;
+  object-position:50% 50%!important;
+}

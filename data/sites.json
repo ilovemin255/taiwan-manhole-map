@@ -1,0 +1,252 @@
+[
+  {
+    "id": "TC-FY-PARK",
+    "city": "臺中市",
+    "district": "豐原區",
+    "name": "豐南兒童公園",
+    "design_ids": [
+      "TC-001"
+    ],
+    "site_type": "official_installation_venue",
+    "precision": "venue",
+    "source_id": "taichung-47",
+    "query": "豐南兒童公園 台中",
+    "note": "官方明確列為彩繪人孔蓋增設場域之一。"
+  },
+  {
+    "id": "TC-TP-CIVIC",
+    "city": "臺中市",
+    "district": "太平區",
+    "name": "市民大道一段",
+    "design_ids": [
+      "TC-002"
+    ],
+    "site_type": "official_installation_corridor",
+    "precision": "street",
+    "source_id": "taichung-47",
+    "query": "市民大道一段 太平 台中",
+    "note": "官方明確列為彩繪人孔蓋增設場域之一。"
+  },
+  {
+    "id": "TC-YIXIN",
+    "city": "臺中市",
+    "district": "太平區",
+    "name": "宜欣國民小學人行道",
+    "design_ids": [
+      "TC-002"
+    ],
+    "site_type": "official_installation_venue",
+    "precision": "venue",
+    "source_id": "taichung-47",
+    "query": "宜欣國民小學 台中",
+    "note": "官方明確列為彩繪人孔蓋增設場域之一。"
+  },
+  {
+    "id": "TC-CAOWU",
+    "city": "臺中市",
+    "district": "西區",
+    "name": "草悟道（經國綠園道）沿線",
+    "design_ids": [
+      "TC-004"
+    ],
+    "site_type": "official_installation_corridor",
+    "precision": "corridor",
+    "source_id": "taichung-caowudao",
+    "query": "草悟道 台中",
+    "note": "官方確認沿線設置27處彩繪孔蓋。"
+  },
+  {
+    "id": "TP-LM-CKS",
+    "city": "臺北市",
+    "district": "中正區",
+    "name": "中正紀念堂周邊",
+    "precision": "landmark_area",
+    "verification": "official_landmark_verified",
+    "query": "中正紀念堂 台北",
+    "source_id": "taipei-first25",
+    "note": "官方第一期新聞稿明確列為5座換置污水特色孔蓋的地標周邊之一；非單座GPS。"
+  },
+  {
+    "id": "TP-LM-LS",
+    "city": "臺北市",
+    "district": "萬華區",
+    "name": "龍山寺周邊",
+    "precision": "landmark_area",
+    "verification": "official_landmark_verified",
+    "query": "龍山寺 台北",
+    "source_id": "taipei-first25",
+    "note": "官方第一期新聞稿明確列為特色孔蓋落腳地標周邊之一；非單座GPS。"
+  },
+  {
+    "id": "TP-LM-YL",
+    "city": "臺北市",
+    "district": "大同區",
+    "name": "永樂市場周邊",
+    "precision": "landmark_area",
+    "verification": "official_landmark_verified",
+    "query": "永樂市場 台北",
+    "source_id": "taipei-first25",
+    "note": "官方第一期新聞稿明確列為特色孔蓋落腳地標周邊之一；非單座GPS。"
+  },
+  {
+    "id": "TP-LM-NG",
+    "city": "臺北市",
+    "district": "南港區",
+    "name": "南港轉運站周邊",
+    "precision": "landmark_area",
+    "verification": "official_landmark_verified",
+    "query": "南港轉運站 台北",
+    "source_id": "taipei-first25",
+    "note": "官方第一期新聞稿明確列為特色孔蓋落腳地標周邊之一；非單座GPS。"
+  },
+  {
+    "id": "CH-ROUNDHOUSE",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "name": "彰化扇形車庫－特色孔蓋暫定尋訪點",
+    "design_ids": [
+      "CH-001"
+    ],
+    "site_type": "temporary_search_marker",
+    "precision": "temporary",
+    "source_id": "changhua-roundhouse",
+    "query": "彰化扇形車庫",
+    "note": "⚠️ 暫定尋訪位置。官方已確認扇形車庫為彰化市污水人孔設計圖案，但尚未確認特色孔蓋實際設置點；之後需補精確地點。",
+    "lat": 24.085948,
+    "lng": 120.54017,
+    "needs_exact_location": true
+  },
+  {
+    "id": "TC-SHUEINAN",
+    "city": "臺中市",
+    "district": "西屯區",
+    "name": "水湳地區",
+    "design_ids": [
+      "TC-005"
+    ],
+    "site_type": "official_design_area",
+    "precision": "area",
+    "source_id": "taichung-2018-three",
+    "query": "水湳 台中",
+    "note": "官方確認水湳主題特色人孔蓋設計；逐座精確位置仍待驗證。"
+  },
+  {
+    "id": "TN-PUJI",
+    "city": "臺南市",
+    "district": "中西區",
+    "name": "普濟殿七角頭尋訪區",
+    "design_ids": [
+      "TN-001",
+      "TN-PJ-02",
+      "TN-003",
+      "TN-010",
+      "TN-011",
+      "TN-012",
+      "TN-013"
+    ],
+    "site_type": "official_search_area",
+    "precision": "area",
+    "query": "普濟殿 台南",
+    "note": "郡緯街、海安路、成功路、國華街周邊巷弄；官方確認為七角頭特色孔蓋分布區。",
+    "source_id": "tainan-17-2026"
+  },
+  {
+    "id": "TN-YONGLE",
+    "city": "臺南市",
+    "district": "中西區",
+    "name": "永樂市場特色孔蓋尋訪區",
+    "design_ids": [
+      "TN-004",
+      "TN-005",
+      "TN-006"
+    ],
+    "site_type": "official_search_area",
+    "precision": "area",
+    "query": "永樂市場 台南",
+    "note": "永樂市場周邊巷弄，官方確認可尋見三款特色污水孔蓋。",
+    "source_id": "tainan-17-2026"
+  },
+  {
+    "id": "TN-SNAIL",
+    "city": "臺南市",
+    "district": "中西區",
+    "name": "蝸牛巷特色孔蓋尋訪區",
+    "design_ids": [
+      "TN-007",
+      "TN-008",
+      "TN-009"
+    ],
+    "site_type": "official_search_area",
+    "precision": "area",
+    "query": "蝸牛巷 台南",
+    "note": "蝸牛巷一帶歷史街區，官方確認設置三款主題孔蓋。",
+    "source_id": "tainan-17-2026"
+  },
+  {
+    "id": "TN-FLOWER",
+    "city": "臺南市",
+    "district": "北區",
+    "name": "三老爺宮十二花神尋訪區",
+    "design_ids": [
+      "TN-014",
+      "TN-015",
+      "TN-016",
+      "TN-017",
+      "TN-018",
+      "TN-019",
+      "TN-020",
+      "TN-021",
+      "TN-022",
+      "TN-023",
+      "TN-024",
+      "TN-025"
+    ],
+    "site_type": "official_search_area",
+    "precision": "area",
+    "query": "三老爺宮 台南",
+    "note": "12款共40處，官方確認分布於北華街、裕民街、長北街及周邊巷弄。",
+    "source_id": "tainan-flowers-2026"
+  },
+  {
+    "id": "TY-ZHONGLI",
+    "city": "桃園市",
+    "district": "中壢區",
+    "name": "中壢特色污水人孔尋訪區（位置待細化）",
+    "design_ids": [
+      "TY-001"
+    ],
+    "site_type": "official_district_area",
+    "precision": "area",
+    "source_id": "taoyuan-zhongli-local-cover",
+    "query": "中壢區 桃園",
+    "note": "官方確認中壢污水BOT人孔框蓋具在地人文特色；目前尚未取得逐座設置座標。"
+  },
+  {
+    "id": "YL-BEIGANG",
+    "city": "雲林縣",
+    "district": "北港鎮",
+    "name": "北港特色孔蓋設計追蹤區",
+    "design_ids": [
+      "YL-BG-001"
+    ],
+    "site_type": "design_followup_area",
+    "precision": "area",
+    "source_id": "yunlin-huwei-beigang-cover-contest",
+    "query": "北港鎮 雲林",
+    "note": "官方已確認「獅守」金獎設計；實際安裝狀態與位置待補。"
+  },
+  {
+    "id": "YL-HUWEI",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "name": "虎尾特色孔蓋設計追蹤區",
+    "design_ids": [
+      "YL-HW-001"
+    ],
+    "site_type": "design_followup_area",
+    "precision": "area",
+    "source_id": "yunlin-huwei-beigang-cover-contest",
+    "query": "虎尾鎮 雲林",
+    "note": "官方已確認「特色虎尾」金獎設計；實際安裝狀態與位置待補。"
+  }
+]

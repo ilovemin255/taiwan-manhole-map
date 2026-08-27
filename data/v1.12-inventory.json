@@ -1,0 +1,16 @@
+{
+  "version": "1.12",
+  "verified_at": "2026-08-26",
+  "tainan": {
+    "current_official_design_count": 25,
+    "earlier_areas": {
+      "普濟殿七角頭": 7,
+      "永樂市場": 3,
+      "蝸牛巷": 3
+    },
+    "twelve_flower_goddesses": 12,
+    "flower_installations": 40,
+    "official_total_installations_note": "臺南市政府2025年資料另曾提17款170座；2026-06十二花神全數完成後，官方稱黃偉哲任內已完成25款特色孔蓋。",
+    "precision_policy": "街區/巷弄官方範圍可導航；未取得單座證據前不標Exact GPS。"
+  }
+}

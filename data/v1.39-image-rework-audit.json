@@ -1,0 +1,114 @@
+{
+  "version": "1.39",
+  "image_rule": "圓形孔蓋必須保留360度完整黑色金屬最外圈；禁止為了去地磚而放大到切掉外圈。",
+  "taichung": [
+    {
+      "name": "綠川水岸品牌",
+      "image": "https://image-cdn.learnin.tw/bnextmedia/image/album/2017-09/img-1505792736-38218.jpg?output=webp&w=1600",
+      "scale": 1.0,
+      "rule": "full_outer_ring_360"
+    },
+    {
+      "name": "太平・鳥榕頭",
+      "image": "https://www.taichung.gov.tw/media/375213/%E5%A4%AA%E5%B9%B3.jpg?height=900",
+      "scale": 1.0,
+      "rule": "full_outer_ring_360"
+    },
+    {
+      "name": "草悟道孔蓋彩繪",
+      "image": "https://megapx-assets.dcard.tw/images/a2617853-4101-4fa1-b4a7-ee1c6cb934a8/1280.jpeg",
+      "scale": 1.0,
+      "rule": "full_outer_ring_360"
+    },
+    {
+      "name": "水湳・飛行歷史與經貿未來",
+      "image": "https://www.taichung.gov.tw/media/375212/%E6%B0%B4%E6%B9%B3.jpg?height=900",
+      "scale": 1.0,
+      "rule": "full_outer_ring_360"
+    },
+    {
+      "name": "豐原・集散地",
+      "image": "https://wikitravel.org/upload/shared/9/9c/Manhole_cover_001%2C_Fengyuan_District%2C_Taichung%2C_Taiwan.JPG",
+      "scale": 1.0,
+      "rule": "full_outer_ring_360"
+    }
+  ],
+  "tainan_reprocessed": [
+    {
+      "name": "下粗糠崎",
+      "image": "https://wikitravel.org/upload/shared/f/ff/Manhole_cover_003%2C_West_Central_District%2C_Tainan%2C_Taiwan.JPG",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "保西宮",
+      "image": "https://img.ltn.com.tw/Upload/art/page/800/2023/07/17/4366490_1.jpg",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "本廟邊角",
+      "image": "https://news.housefun.com.tw/images/news/2020/12/28/160912580075282403.jpg",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "沙淘宮",
+      "image": "https://assets.st-note.com/production/uploads/images/248141910/rectangle_large_type_2_23fa6b6958d991a4efef2b7982db8c72.jpeg?fit=bounds&height=2000&quality=85&width=2000",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "牛塭堀角",
+      "image": "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/8798155/b7a77fc3-26ff-4c02-9d72-fd460af5da2c.jpg",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "葉石濤－宮古座",
+      "image": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20230725/15_070109276348.jpg",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    },
+    {
+      "name": "試經口",
+      "image": "https://www.merit-times.com.tw/news_pic/20201227/1481413_1048317.jpg",
+      "scale": 1.0,
+      "status": "verified_web_photo"
+    }
+  ],
+  "taoyuan": [
+    {
+      "name": "大溪系統－老街意象",
+      "district": "大溪區",
+      "status": "source_verified_pending_direct_photo"
+    },
+    {
+      "name": "百吉系統－百吉隧道",
+      "district": "大溪區",
+      "status": "source_verified_pending_direct_photo"
+    },
+    {
+      "name": "小烏來系統－新溪口吊橋與原民圖騰",
+      "district": "復興區",
+      "status": "source_verified_pending_direct_photo"
+    },
+    {
+      "name": "楊梅系統－楊梅與牧場",
+      "district": "楊梅區",
+      "status": "source_verified_pending_direct_photo"
+    },
+    {
+      "name": "龜山系統－酒廠與壽山巖觀音寺",
+      "district": "龜山區",
+      "status": "source_verified_pending_direct_photo"
+    }
+  ],
+  "kaohsiung": [
+    {
+      "name": "新崛江街區新式美化孔蓋",
+      "district": "新興區",
+      "status": "official_existence_verified_photo_pending"
+    }
+  ]
+}

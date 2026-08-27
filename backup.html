@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Backup｜台灣特色人孔蓋地圖</title>
+<link rel="stylesheet" href="assets/css/backup.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <strong>🗄️ Backup</strong>
+    <nav class="actions" aria-label="頁面導覽">
+      <a class="btn" href="index.html">🗺️ 主地圖</a>
+      <a class="btn" href="missions.html">📷 外拍任務</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+  <section class="hero">
+    <h1>資料來源與查核備份</h1>
+    <p>主頁保持乾淨；所有政府官方來源、查核連結、來源類型與關聯孔蓋集中放在這裡。</p>
+  </section>
+  <section class="stats">
+    <div class="stat"><div class="num" id="total">0</div>全部來源</div>
+    <div class="stat"><div class="num" id="shown">0</div>目前顯示</div>
+    <div class="stat"><div class="num" id="linked">0</div>來源關聯紀錄</div>
+  </section>
+  <div class="tools">
+    <input id="q" class="field" placeholder="搜尋來源、城市或孔蓋名稱">
+    <select id="type" class="field"></select>
+  </div>
+  <div id="grid" class="grid"></div>
+</main>
+<script src="assets/js/backup.js"></script>
+</body>
+</html>

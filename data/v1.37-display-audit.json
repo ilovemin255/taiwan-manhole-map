@@ -1,0 +1,46 @@
+{
+  "version": "1.37",
+  "taichung_expected_visible": 3,
+  "taichung_images": [
+    {
+      "name": "豐原・集散地",
+      "url": "https://www.taichung.gov.tw/media/1025453/%E8%B1%90%E5%8E%9F%E5%8D%80%E6%B1%A1%E6%B0%B4%E5%BD%A9%E7%B9%AA%E5%AD%94%E8%93%8B.jpg?height=900",
+      "display": "circle-only; photo background cropped"
+    },
+    {
+      "name": "水湳・飛行歷史與經貿未來",
+      "url": "https://www.taichung.gov.tw/media/375212/%E6%B0%B4%E6%B9%B3.jpg?height=900",
+      "display": "circle-only; photo background cropped"
+    },
+    {
+      "name": "太平・鳥榕頭",
+      "url": "https://www.taichung.gov.tw/media/375213/%E5%A4%AA%E5%B9%B3.jpg?height=900",
+      "display": "circle-only; photo background cropped"
+    }
+  ],
+  "display_order": [
+    "臺北市",
+    "新北市",
+    "基隆市",
+    "桃園市",
+    "新竹市",
+    "新竹縣",
+    "苗栗縣",
+    "臺中市",
+    "彰化縣",
+    "南投縣",
+    "雲林縣",
+    "嘉義市",
+    "嘉義縣",
+    "臺南市",
+    "高雄市",
+    "屏東縣",
+    "宜蘭縣",
+    "花蓮縣",
+    "臺東縣",
+    "澎湖縣",
+    "金門縣",
+    "連江縣"
+  ],
+  "rule": "Search results and initial cards are ordered north-to-south by city; within city by district then title."
+}

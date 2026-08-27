@@ -1,0 +1,41 @@
+{
+  "version": "1.16",
+  "searched_at": "2026-08-26",
+  "method": "official-government-first web inventory; no AI-generated cover images accepted",
+  "new_verified_records": [
+    {
+      "city": "桃園市",
+      "design": "中壢在地人文特色污水人孔蓋",
+      "evidence": "桃園市水務局明確記載中壢BOT人孔框蓋納入中壢地區在地人文特色，官方頁附人孔照片。",
+      "source_id": "taoyuan-zhongli-local-cover"
+    }
+  ],
+  "searched_no_new_decorative_record": [
+    {
+      "city": "新北市",
+      "result": "本輪官方結果以污水GIS、人孔套繪及一般框蓋資料為主，未新增特色款。"
+    },
+    {
+      "city": "嘉義市/縣",
+      "result": "本輪未取得足以建立特色款的官方設計+照片證據。"
+    },
+    {
+      "city": "宜蘭縣",
+      "result": "本輪未取得足以建立特色款的官方設計+照片證據。"
+    },
+    {
+      "city": "花蓮縣",
+      "result": "本輪未取得足以建立特色款的官方設計+照片證據。"
+    },
+    {
+      "city": "屏東縣",
+      "result": "本輪未取得足以建立特色款的官方設計+照片證據。"
+    }
+  ],
+  "acceptance_rules": [
+    "官方政府來源優先",
+    "照片必須可對應到具地方特色的人孔設計",
+    "側拍/不完整/來源不明不作為實裝照片",
+    "精確位置無證據時只標行政區或待補"
+  ]
+}

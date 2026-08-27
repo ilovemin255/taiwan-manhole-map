@@ -1,0 +1,38 @@
+[
+  {
+    "city": "新竹市",
+    "status": "future_candidate",
+    "evidence": "2026市議會已有提案要求參考臺北人孔蓋地圖化與日本寶可夢人孔蓋，發展公共設施美學。",
+    "action": "追蹤市府是否形成正式特色孔蓋計畫。"
+  },
+  {
+    "city": "新竹縣",
+    "status": "no_verified_decorative_design",
+    "evidence": "官方結果主要是側溝孔蓋規格與一般人孔安全管理。",
+    "action": "暫不新增特色款。"
+  },
+  {
+    "city": "基隆市",
+    "status": "no_verified_decorative_design",
+    "evidence": "官方路平資料重點為人手孔減量/下地。",
+    "action": "暫不新增特色款。"
+  },
+  {
+    "city": "南投縣",
+    "status": "no_verified_decorative_design",
+    "evidence": "115年度官方資料為雨污水人孔蓋更新工程。",
+    "action": "暫不新增特色款。"
+  },
+  {
+    "city": "苗栗縣",
+    "status": "research_pending",
+    "evidence": "本輪未找到足以核對設計、照片與官方來源的特色款。",
+    "action": "繼續搜尋地方公所/水務/觀光資料。"
+  },
+  {
+    "city": "雲林縣",
+    "status": "research_pending",
+    "evidence": "本輪未找到足以核對設計、照片與官方來源的特色款。",
+    "action": "繼續搜尋地方公所/水務/觀光資料。"
+  }
+]

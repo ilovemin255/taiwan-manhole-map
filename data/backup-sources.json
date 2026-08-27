@@ -1,0 +1,1776 @@
+[
+  {
+    "id": "taipei-main",
+    "name": "臺北市政府工務局水利工程處－臺北蓋水",
+    "url": "https://heo.gov.taipei/cp.aspx?n=CD21FF15F4CFE815",
+    "type": "official",
+    "note": "官方主題頁。說明臺北12行政區特色孔蓋計畫與主題地圖。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taipei-25",
+    "name": "臺北蓋水地圖－25座特色人孔蓋",
+    "url": "https://heo.gov.taipei/News_Content.aspx?n=1FE45A3FEA3D194E&s=A347AF3590C5EBC7&sms=72544237BBE4C5F6",
+    "type": "official",
+    "note": "第一期8款設計、25座特色人孔蓋，並提及53座101主題彩繪人孔蓋。",
+    "linked_designs": []
+  },
+  {
+    "id": "tainan-part2",
+    "name": "臺南市政府水利局－在地人文特色孔蓋探索地圖 Part2",
+    "url": "https://www.tainan.gov.tw/news_content.aspx?n=13371&s=8722165",
+    "type": "official",
+    "note": "4款特色污水孔蓋、共40處；官方PDF提供範圍略圖與點位分布示意。",
+    "linked_designs": [
+      {
+        "id": "TN-011",
+        "name": "十八洞角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-012",
+        "name": "大廠口角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-010",
+        "name": "牛塭堀角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-013",
+        "name": "頂粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "taichung-color-2024",
+    "name": "臺中市政府－山城屯區污水人孔蓋彩繪美化",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/2567161",
+    "type": "official",
+    "note": "官方確認豐原、太平等地特色彩繪人孔蓋；豐原與太平以「集散地」與「鳥榕頭」概念創作，相關工程累計47處。",
+    "linked_designs": [
+      {
+        "id": "TC-002",
+        "name": "太平・鳥榕頭",
+        "city": "臺中市",
+        "district": "太平區"
+      },
+      {
+        "id": "TC-001",
+        "name": "豐原・集散地",
+        "city": "臺中市",
+        "district": "豐原區"
+      }
+    ]
+  },
+  {
+    "id": "taichung-greenriver",
+    "name": "臺中市政府－綠川專屬品牌人孔蓋",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/1001326",
+    "type": "official",
+    "note": "綠川水岸品牌LOGO應用於周邊人行步道地下道人孔蓋。",
+    "linked_designs": [
+      {
+        "id": "TC-003",
+        "name": "綠川水岸品牌",
+        "city": "臺中市",
+        "district": "中區"
+      }
+    ]
+  },
+  {
+    "id": "taichung-huludun",
+    "name": "臺中市政府－葫蘆墩圳特色孔蓋",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/1124542",
+    "type": "official",
+    "note": "豐原葫蘆墩圳工程設計品牌LOGO及特色孔蓋，以木材集散地歷史為主題。",
+    "linked_designs": [
+      {
+        "id": "TC-001",
+        "name": "豐原・集散地",
+        "city": "臺中市",
+        "district": "豐原區"
+      }
+    ]
+  },
+  {
+    "id": "taoyuan-zhongli",
+    "name": "桃園市政府水務局－中壢污水人孔在地特色",
+    "url": "https://wrb.tycg.gov.tw/News_Content.aspx?n=10829&s=1062334",
+    "type": "official",
+    "note": "官方說明中壢污水下水道BOT人孔框蓋納入中壢地區在地人文特色。",
+    "linked_designs": []
+  },
+  {
+    "id": "taoyuan-special",
+    "name": "桃園市政府－桃園特有污水人孔蓋創意拓印",
+    "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1149099",
+    "type": "official",
+    "note": "官方稱桃園市具有特有污水人孔蓋，並於平鎮新勢公園舉辦拓印活動。",
+    "linked_designs": []
+  },
+  {
+    "id": "kaohsiung-xinjuejiang",
+    "name": "高雄市政府水利局－新崛江街區新式孔蓋美化紀錄",
+    "url": "https://cissearch.kcc.gov.tw/Upload/Attachment/BusinessReport/1275/1a67caa0-2705-4faa-a7d7-ac14a28de836.pdf",
+    "type": "official_record",
+    "note": "高雄市政府執行情形記錄指出，107年間已於新崛江街區試辦新式孔蓋美化。",
+    "linked_designs": [
+      {
+        "id": "KH-001",
+        "name": "新崛江街區新式美化孔蓋",
+        "city": "高雄市",
+        "district": "新興區"
+      }
+    ]
+  },
+  {
+    "id": "hsinchu-plan",
+    "name": "新竹市議會－城市意象與人孔蓋地圖化建議",
+    "url": "https://www.hsinchu-cc.gov.tw/upload/79/2026060208510458682%E6%96%B0%E7%AB%B9%E5%B8%82%E8%AD%B0%E6%9C%83--%E7%AC%AC11%E5%B1%86%E7%AC%AC19%E6%AC%A1%E8%87%A8%E6%99%82%E6%9C%83--4%E6%A0%A1.pdf",
+    "type": "official_record",
+    "note": "2026議會提案建議參考臺北與日本案例推動人孔蓋地圖化；屬規劃線索，不視為已完成特色孔蓋。",
+    "linked_designs": []
+  },
+  {
+    "id": "taipei-live-map",
+    "name": "臺北蓋水－官方主題地圖",
+    "url": "https://www.gorgeouscovers.taipei/map",
+    "type": "official_map",
+    "note": "官方主題地圖頁面，更新日期2025-06-09。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taipei-open-data",
+    "name": "臺北市水利處雨水下水道人孔資料",
+    "url": "https://data.taipei/dataset/detail?id=3e62c860-0753-4c79-8fe1-bcb3e0243534",
+    "type": "official_open_data",
+    "note": "CSV於2026-06-29更新，含人孔編號、X/Y坐標、行政區、道路名稱、人孔蓋型式等欄位。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taichung-47",
+    "name": "臺中市政府－山城屯區47處彩繪人孔蓋",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/2567161",
+    "type": "official",
+    "note": "明確公布豐原區豐南兒童公園、太平區市民大道一段及宜欣國小人行道，陸續增設47處彩繪人孔蓋。",
+    "linked_designs": []
+  },
+  {
+    "id": "taichung-caowudao",
+    "name": "臺中市建設局－草悟道孔蓋彩繪27處",
+    "url": "https://www.construction.taichung.gov.tw/3224402/post",
+    "type": "official",
+    "note": "2026官方資料確認「草悟道孔蓋彩繪」已於草悟道（經國綠園道）沿線設置27處。",
+    "linked_designs": [
+      {
+        "id": "TC-004",
+        "name": "草悟道孔蓋彩繪",
+        "city": "臺中市",
+        "district": "西區"
+      }
+    ]
+  },
+  {
+    "id": "taipei-first25",
+    "name": "臺北蓋水地圖－第一期25座特色人孔蓋",
+    "url": "https://heo.gov.taipei/News_Content.aspx?n=1FE45A3FEA3D194E&s=A347AF3590C5EBC7&sms=72544237BBE4C5F6",
+    "type": "official",
+    "note": "官方確認第一期8款設計、共25座；20座地方特色孔蓋加5座污水孔蓋，後者位於中正紀念堂、龍山寺、永樂市場、南港轉運站等地標周邊。",
+    "linked_designs": []
+  },
+  {
+    "id": "taipei-storm-csv",
+    "name": "臺北市水利處雨水下水道人孔資料（CSV）",
+    "url": "https://data.taipei/dataset/detail?id=3e62c860-0753-4c79-8fe1-bcb3e0243534",
+    "type": "official_open_data",
+    "note": "2026-06-29更新，欄位含人孔編號、X/Y坐標、行政區、道路名稱、人孔蓋型式、人孔種類等。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taipei-storm-xml",
+    "name": "臺北市公共管線圖資－雨水系統人手孔（XML）",
+    "url": "https://data.taipei/dataset/detail?id=dbbf48bd-80ad-40d1-93d0-67458e9893bf",
+    "type": "official_open_data",
+    "note": "2026資料，包含geometry、人手孔編號、孔蓋種類、孔蓋型態、使用狀態等，可作第二層幾何交叉驗證。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taipei-sewer-csv",
+    "name": "臺北市污水下水道人孔（CSV）",
+    "url": "https://data.taipei/dataset/detail?id=e858ba08-52d5-4afb-bc6e-ed1cd9a27a3b",
+    "type": "official_open_data",
+    "note": "含污水人孔編號及X/Y資料，用於第一期5座污水特色孔蓋候選點驗證。",
+    "linked_designs": []
+  },
+  {
+    "id": "taichung-2018-three",
+    "name": "臺中市政府－人孔蓋新美學：豐原、水湳、太平三款",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/1105682/",
+    "type": "official",
+    "note": "官方確認豐原「集散地」、水湳飛行歷史/經貿未來、太平「鳥榕頭」三款特色人孔蓋設計。",
+    "linked_designs": [
+      {
+        "id": "TC-002",
+        "name": "太平・鳥榕頭",
+        "city": "臺中市",
+        "district": "太平區"
+      },
+      {
+        "id": "TC-005",
+        "name": "水湳・飛行歷史與經貿未來",
+        "city": "臺中市",
+        "district": "西屯區"
+      }
+    ]
+  },
+  {
+    "id": "changhua-report",
+    "name": "彰化縣政府施政報告－污水人孔蓋意象票選",
+    "url": "https://planning.chcg.gov.tw/getFile.aspx?did=16611&file=2&file_id=135470&type=2",
+    "type": "official_report",
+    "note": "官方施政報告記載彰化市污水人孔蓋意象票選選出「扇形車庫」作為工程污水人孔圖案。",
+    "linked_designs": [
+      {
+        "id": "CH-001",
+        "name": "扇形車庫與火車頭",
+        "city": "彰化縣",
+        "district": "彰化市"
+      }
+    ]
+  },
+  {
+    "id": "changhua-roundhouse",
+    "name": "交通部觀光署－彰化扇形車庫",
+    "url": "https://www.taiwan.net.tw/m1.aspx?id=A12-00401&sNo=0001016",
+    "type": "official_landmark",
+    "note": "扇形車庫官方景點資料；地址彰化市彰美路一段1號。此地標是孔蓋設計意象來源，不代表孔蓋精確設置點。",
+    "linked_designs": [
+      {
+        "id": "CH-001",
+        "name": "扇形車庫與火車頭",
+        "city": "彰化縣",
+        "district": "彰化市"
+      }
+    ]
+  },
+  {
+    "id": "tainan-17-2026",
+    "name": "臺南市政府－17款特色污水孔蓋探索古都",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "type": "official",
+    "note": "2026-02官方整理：普濟殿7款、永樂市場3款、蝸牛巷3款，並介紹三老爺宮首批4款花神。",
+    "linked_designs": [
+      {
+        "id": "TN-003",
+        "name": "下粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-004",
+        "name": "佛頭港",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-007",
+        "name": "保西宮",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-011",
+        "name": "十八洞角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-005",
+        "name": "外觀帝港",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-012",
+        "name": "大廠口角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-PJ-02",
+        "name": "本廟邊角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-008",
+        "name": "沙淘宮",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-010",
+        "name": "牛塭堀角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-006",
+        "name": "看西街教會",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-009",
+        "name": "葉石濤－宮古座",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-001",
+        "name": "試經口",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-013",
+        "name": "頂粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "tainan-flowers-2026",
+    "name": "臺南市政府－十二花神特色孔蓋全數亮相",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
+    "type": "official",
+    "note": "2026-06-17官方確認十二花神全12款完成，共40處，分布北華街、裕民街、長北街及周邊。",
+    "linked_designs": []
+  },
+  {
+    "id": "tainan-part2-map",
+    "name": "臺南市水利局－113年度特色孔蓋範圍略圖 Part2",
+    "url": "https://wrb1.tainan.gov.tw/News_Content.aspx?n=5234&s=8722165",
+    "type": "official_map",
+    "note": "提供大廠口角、十八洞角、頂粗糠崎、牛塭堀角四款A/B/C/D官方探索範圍。",
+    "linked_designs": []
+  },
+  {
+    "id": "kaohsiung-cover-safety-2026",
+    "name": "高雄市政府－人孔蓋防滑新制",
+    "url": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=7E88DAB4BCE0843B",
+    "type": "official",
+    "note": "2026年高雄官方人孔蓋資料，重點為50 BPN防滑與孔蓋減量；目前不足以證明特色彩繪孔蓋款式。",
+    "linked_designs": []
+  },
+  {
+    "id": "kaohsiung-smart-covers",
+    "name": "高雄市水利局－智慧型人孔蓋傳感器",
+    "url": "https://wrb.kcg.gov.tw/ActivitiesDetailC001100.aspx?Cond=a3c3e9b1-3891-4f01-9dc3-803abe3d34dd",
+    "type": "official",
+    "note": "官方確認鳳山、鳥松一帶有智慧型人孔蓋傳感器；屬監測設施，不列入特色彩繪孔蓋資料庫。",
+    "linked_designs": []
+  },
+  {
+    "id": "taoyuan-zhongli-local-cover",
+    "name": "桃園市水務局－中壢污水BOT人孔框蓋在地人文特色",
+    "url": "https://wrb.tycg.gov.tw/News_Content.aspx?n=10829&s=1062334",
+    "type": "official",
+    "note": "官方明確記載中壢污水BOT人孔框蓋納入中壢地區在地人文特色，頁面並附『人孔』照片。",
+    "linked_designs": []
+  },
+  {
+    "id": "taoyuan-manhole-printing",
+    "name": "桃園市政府－污水人孔蓋創意拓印",
+    "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1149099",
+    "type": "official",
+    "note": "官方稱桃園市有『本市特有的污水人孔蓋』，並以人孔蓋拓印及限定餅乾推廣。",
+    "linked_designs": []
+  },
+  {
+    "id": "hsinchu-city-future-cover-proposal",
+    "name": "新竹市議會－公共設施美學與人孔蓋地圖化提案",
+    "url": "https://www.hsinchu-cc.gov.tw/upload/79/2026060208510458682%E6%96%B0%E7%AB%B9%E5%B8%82%E8%AD%B0%E6%9C%83--%E7%AC%AC11%E5%B1%86%E7%AC%AC19%E6%AC%A1%E8%87%A8%E6%99%82%E6%9C%83--4%E6%A0%A1.pdf",
+    "type": "official_council_record",
+    "note": "2026議會紀錄建議參考日本寶可夢人孔蓋與臺北人孔蓋地圖化，長期規劃新竹城市意象與公共設施美學；屬未來規劃線索，非既有特色孔蓋證據。",
+    "linked_designs": []
+  },
+  {
+    "id": "keelung-cover-reduction",
+    "name": "基隆市政府－路平方案人孔蓋減量",
+    "url": "https://kct.klcg.gov.tw/KLLuPIng/",
+    "type": "official",
+    "note": "官方資料為道路人孔蓋減量與下地，未證實地方特色彩繪款。",
+    "linked_designs": []
+  },
+  {
+    "id": "nantou-cover-maintenance-2026",
+    "name": "南投縣政府－115年度雨污水人孔蓋更新工程",
+    "url": "https://www.nantou.gov.tw/big5/news_content.php?cid=1186&dptid=376480000&id=166883",
+    "type": "official",
+    "note": "官方工程資料確認雨污水人孔蓋更新維護，但未提供地方特色彩繪款證據。",
+    "linked_designs": []
+  },
+  {
+    "id": "yunlin-huwei-beigang-cover-contest",
+    "name": "雲林縣政府－虎尾/北港污水孔蓋圖案徵圖",
+    "url": "https://www.yunlin.gov.tw/News_Content.aspx?n=1244&s=216182",
+    "type": "official",
+    "note": "縣府官方確認北港金獎「獅守」與虎尾金獎「特色虎尾」，圖案融入在地文化意象；官方頁含金獎設計圖。",
+    "linked_designs": [
+      {
+        "id": "YL-BG-001",
+        "name": "獅守",
+        "city": "雲林縣",
+        "district": "北港鎮"
+      },
+      {
+        "id": "YL-HW-001",
+        "name": "特色虎尾",
+        "city": "雲林縣",
+        "district": "虎尾鎮"
+      }
+    ]
+  },
+  {
+    "id": "taipei-gorgeouscovers-24",
+    "name": "臺北蓋水－24款官方詳情頁",
+    "url": "https://www.gorgeouscovers.taipei/",
+    "type": "official_catalog",
+    "note": "臺北市政府工務局水利工程處官方網站；12行政區共24款，每款均有獨立詳情頁、設計說明、官方圖片與『查看地理位置』Google My Maps。",
+    "linked_designs": [
+      {
+        "id": "TP-006",
+        "name": "快樂。中山",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-005",
+        "name": "祈福。平安",
+        "city": "臺北市",
+        "district": "中山區"
+      },
+      {
+        "id": "TP-002",
+        "name": "有鳳來儀",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-001",
+        "name": "自由之風",
+        "city": "臺北市",
+        "district": "中正區"
+      },
+      {
+        "id": "TP-013",
+        "name": "四獸之境",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-014",
+        "name": "臺北曼哈頓",
+        "city": "臺北市",
+        "district": "信義區"
+      },
+      {
+        "id": "TP-020",
+        "name": "基地",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-019",
+        "name": "野餐",
+        "city": "臺北市",
+        "district": "內湖區"
+      },
+      {
+        "id": "TP-017",
+        "name": "百年浴場 北投獅吼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-018",
+        "name": "穿越北投 百年納涼",
+        "city": "臺北市",
+        "district": "北投區"
+      },
+      {
+        "id": "TP-022",
+        "name": "同心共創",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-021",
+        "name": "未來。新都。",
+        "city": "臺北市",
+        "district": "南港區"
+      },
+      {
+        "id": "TP-016",
+        "name": "Let's Blossom 陽明山的野櫻花",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-015",
+        "name": "Let's Fly 外雙溪的大白鷺",
+        "city": "臺北市",
+        "district": "士林區"
+      },
+      {
+        "id": "TP-003",
+        "name": "人生求解，癒見大稻埕",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-004",
+        "name": "摩登古意，趣遊臺北城",
+        "city": "臺北市",
+        "district": "大同區"
+      },
+      {
+        "id": "TP-010",
+        "name": "仰望學林",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-009",
+        "name": "向陽之森",
+        "city": "臺北市",
+        "district": "大安區"
+      },
+      {
+        "id": "TP-024",
+        "name": "動物們的探索旅程",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-023",
+        "name": "包種茶香與貓空邂逅",
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      {
+        "id": "TP-008",
+        "name": "松山之詩 夜篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-007",
+        "name": "松山之詩 日篇",
+        "city": "臺北市",
+        "district": "松山區"
+      },
+      {
+        "id": "TP-011",
+        "name": "萬華日夜巡",
+        "city": "臺北市",
+        "district": "萬華區"
+      },
+      {
+        "id": "TP-012",
+        "name": "轉動萬華",
+        "city": "臺北市",
+        "district": "萬華區"
+      }
+    ]
+  },
+  {
+    "id": "taichung-2018-beautiful-covers",
+    "name": "臺中市政府－人孔蓋新美學／腳下最美的風景",
+    "url": "https://www.taichung.gov.tw/8868/8872/9962/1105682",
+    "type": "official_government",
+    "note": "官方確認豐原、水湳、太平三款、三位插畫家、設計概念與相關圖檔。",
+    "linked_designs": [
+      {
+        "id": "TC-002",
+        "name": "太平・鳥榕頭",
+        "city": "臺中市",
+        "district": "太平區"
+      },
+      {
+        "id": "TC-005",
+        "name": "水湳・飛行歷史與經貿未來",
+        "city": "臺中市",
+        "district": "西屯區"
+      },
+      {
+        "id": "TC-001",
+        "name": "豐原・集散地",
+        "city": "臺中市",
+        "district": "豐原區"
+      }
+    ]
+  },
+  {
+    "id": "plain-design-beautiful-covers",
+    "name": "Plain Design－腳下最美的風景",
+    "url": "https://www.plaindesign.com.tw/portfolio/%E8%85%B3%E4%B8%8B%E6%9C%80%E7%BE%8E%E7%9A%84%E9%A2%A8%E6%99%AF/",
+    "type": "designer_portfolio",
+    "note": "策展／設計團隊作品頁，用於交叉確認三款設計概念與藝術家。",
+    "linked_designs": [
+      {
+        "id": "TC-002",
+        "name": "太平・鳥榕頭",
+        "city": "臺中市",
+        "district": "太平區"
+      },
+      {
+        "id": "TC-005",
+        "name": "水湳・飛行歷史與經貿未來",
+        "city": "臺中市",
+        "district": "西屯區"
+      },
+      {
+        "id": "TC-001",
+        "name": "豐原・集散地",
+        "city": "臺中市",
+        "district": "豐原區"
+      }
+    ]
+  },
+  {
+    "id": "tainan-humanistic-covers-2022",
+    "name": "臺南市政府－6款在地人文特色污水孔蓋",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7923526",
+    "type": "official_government",
+    "note": "官方確認本廟邊角、試經口、下粗糠崎、佛頭港、外觀帝港、看西街教會共6款60座。",
+    "linked_designs": [
+      {
+        "id": "TN-003",
+        "name": "下粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-004",
+        "name": "佛頭港",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-005",
+        "name": "外觀帝港",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-PJ-02",
+        "name": "本廟邊角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-006",
+        "name": "看西街教會",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-001",
+        "name": "試經口",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "tainan-humanistic-covers-part2",
+    "name": "臺南市政府水利局－在地人文特色孔蓋 Part2",
+    "url": "https://www.tainan.gov.tw/news_content.aspx?n=13371&s=8722165",
+    "type": "official_government",
+    "note": "官方確認牛塭堀角、十八洞角、大廠口角、頂粗糠崎4款，共40處，位於中西區郡緯街、海安路、成功路、國華街周邊。",
+    "linked_designs": [
+      {
+        "id": "TN-011",
+        "name": "十八洞角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-012",
+        "name": "大廠口角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-010",
+        "name": "牛塭堀角",
+        "city": "臺南市",
+        "district": "中西區"
+      },
+      {
+        "id": "TN-013",
+        "name": "頂粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "tainan-snail-alley-2023",
+    "name": "臺南市政府－蝸牛巷3款特色污水孔蓋",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
+    "type": "official_government",
+    "note": "官方確認蝸牛巷周邊另有3款在地人文特色孔蓋。",
+    "linked_designs": []
+  },
+  {
+    "id": "tainan-17-covers-2026",
+    "name": "臺南市政府水利局－17款特色污水孔蓋",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "type": "official_government",
+    "note": "官方2026年盤點：普濟殿、永樂市場、蝸牛巷、三老爺宮等地合計17款特色污水孔蓋。",
+    "linked_designs": [
+      {
+        "id": "TN-010",
+        "name": "牛塭堀角",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "tainan-12-flower-gods-2026",
+    "name": "臺南市政府－三老爺宮十二花神",
+    "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
+    "type": "official_government",
+    "note": "官方2026年6月確認十二花神全套12款、共40處，分布北華街、裕民街、長北街及周邊巷弄。",
+    "linked_designs": [
+      {
+        "id": "TN-016",
+        "name": "三月桃花－楊六郎",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-015",
+        "name": "二月杏花－楊貴妃",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-017",
+        "name": "四月薔薇－張麗華",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-020",
+        "name": "巧月鳳仙－石崇",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-021",
+        "name": "桂月桂花－綠珠",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-014",
+        "name": "正月梅花－柳夢梅",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-025",
+        "name": "臘月臘梅－老令婆",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-019",
+        "name": "荔月蓮花－西施",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-022",
+        "name": "菊月菊花－陶淵明",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-024",
+        "name": "葭月山茶－白樂天",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-018",
+        "name": "蒲月榴花－鍾馗",
+        "city": "臺南市",
+        "district": "北區"
+      },
+      {
+        "id": "TN-023",
+        "name": "陽月芙蓉－謝素秋",
+        "city": "臺南市",
+        "district": "北區"
+      }
+    ]
+  },
+  {
+    "id": "wikitravel-fengyuan-cover",
+    "name": "Wikitravel Shared－Fengyuan manhole cover",
+    "url": "https://wikitravel.org/shared/File:Manhole_cover_001,_Fengyuan_District,_Taichung,_Taiwan.JPG",
+    "type": "open_photo",
+    "note": "近正上方豐原孔蓋照片，用於補足臺中市政府較遠的現場照；設計本身另由臺中市政府官方資料驗證。",
+    "linked_designs": [
+      {
+        "id": "TC-001",
+        "name": "豐原・集散地",
+        "city": "臺中市",
+        "district": "豐原區"
+      }
+    ]
+  },
+  {
+    "id": "shoppingdesign-green-river-cover",
+    "name": "Shopping Design－綠川識別系統／孔蓋照片",
+    "url": "https://www.shoppingdesign.com.tw/post/view/1264",
+    "type": "design_media",
+    "note": "綠川識別系統相關孔蓋照片；綠川工程採彩色LOGO人孔蓋另有官方公共工程資料佐證。",
+    "linked_designs": [
+      {
+        "id": "TC-003",
+        "name": "綠川水岸品牌",
+        "city": "臺中市",
+        "district": "中區"
+      }
+    ]
+  },
+  {
+    "id": "dcard-calligraphy-greenway-cover",
+    "name": "Dcard－草悟道孔蓋照片",
+    "url": "https://www.dcard.tw/",
+    "type": "community_photo",
+    "note": "目前可直接取得的草悟道方形孔蓋照片來源；保留真實方形，不硬裁成圓形。",
+    "linked_designs": [
+      {
+        "id": "TC-004",
+        "name": "草悟道孔蓋彩繪",
+        "city": "臺中市",
+        "district": "西區"
+      }
+    ]
+  },
+  {
+    "id": "merit-times-tainan-shijingkou",
+    "name": "人間福報－試經口特色孔蓋照片",
+    "url": "https://www.merit-times.com.tw/",
+    "type": "news_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-001",
+        "name": "試經口",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "posu-tainan-benmiaobian",
+    "name": "臺南旅遊照片－本廟邊角特色孔蓋",
+    "url": "https://www.tainanoutlook.com/",
+    "type": "travel_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-PJ-02",
+        "name": "本廟邊角",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "wikitravel-tainan-xiacukangqi",
+    "name": "Wikitravel Shared－Tainan manhole cover",
+    "url": "https://wikitravel.org/",
+    "type": "open_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-003",
+        "name": "下粗糠崎",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "ltn-tainan-baoxigong",
+    "name": "自由時報－保西宮特色孔蓋照片",
+    "url": "https://art.ltn.com.tw/",
+    "type": "news_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-007",
+        "name": "保西宮",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "note-tainan-shataogong",
+    "name": "note－沙淘宮特色孔蓋照片",
+    "url": "https://note.com/",
+    "type": "community_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-008",
+        "name": "沙淘宮",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "owlting-tainan-yeshitao",
+    "name": "旅遊報導－葉石濤／宮古座特色孔蓋照片",
+    "url": "https://news.owlting.com/",
+    "type": "news_photo",
+    "note": null,
+    "linked_designs": [
+      {
+        "id": "TN-009",
+        "name": "葉石濤－宮古座",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "housefun-tainan-benmiaobian-straight",
+    "name": "好房網／聯合報－普濟殿本廟邊角孔蓋較正面照片",
+    "url": "https://news.housefun.com.tw/news/article/141866281520.html",
+    "type": "news_photo",
+    "note": "照片可完整辨識本廟邊角彩色孔蓋與黑色外圈。",
+    "linked_designs": [
+      {
+        "id": "TN-PJ-02",
+        "name": "本廟邊角",
+        "city": "臺南市",
+        "district": "中西區"
+      }
+    ]
+  },
+  {
+    "id": "taoyuan-local-covers-2020",
+    "name": "桃園特色污水孔蓋－楊梅、百吉、龜山、小烏來、大溪",
+    "url": "https://www.chinatimes.com/realtimenews/20201218005063-260421",
+    "type": "government_interview_news",
+    "note": "採訪桃園市政府水務局，確認各污水系統在地特色圖樣；含楊梅、百吉實拍說明。",
+    "linked_designs": [
+      {
+        "id": "TY-DX-001",
+        "name": "大溪系統－老街意象",
+        "city": "桃園市",
+        "district": "大溪區"
+      },
+      {
+        "id": "TY-BJ-001",
+        "name": "百吉系統－百吉隧道",
+        "city": "桃園市",
+        "district": "大溪區"
+      },
+      {
+        "id": "TY-XWL-001",
+        "name": "小烏來系統－新溪口吊橋與原民圖騰",
+        "city": "桃園市",
+        "district": "復興區"
+      },
+      {
+        "id": "TY-YM-001",
+        "name": "楊梅系統－楊梅與牧場",
+        "city": "桃園市",
+        "district": "楊梅區"
+      },
+      {
+        "id": "TY-GS-001",
+        "name": "龜山系統－酒廠與壽山巖觀音寺",
+        "city": "桃園市",
+        "district": "龜山區"
+      }
+    ]
+  },
+  {
+    "id": "moenv-baiji",
+    "name": "環境部－石門水庫上游集水區百吉地區",
+    "url": "https://water.moenv.gov.tw/PureStream/zh-TW/SiteIntro.aspx?id=037088AE-F3D2-49D6-8690-FB228CCA37AE",
+    "type": "official_government",
+    "note": "確認百吉地區工程由桃園市政府水務局主辦，行政區為大溪區。",
+    "linked_designs": [
+      {
+        "id": "TY-BJ-001",
+        "name": "百吉系統－百吉隧道",
+        "city": "桃園市",
+        "district": "大溪區"
+      }
+    ]
+  },
+  {
+    "id": "kaohsiung-xinjuejiang-2018",
+    "name": "高雄市議會／高雄市政府水利局－新崛江街區新式孔蓋美化",
+    "url": "https://cissearch.kcc.gov.tw/Upload/Attachment/ProposalReplyManager/96/f22c3368-3666-4688-a453-f4c21d415582.pdf",
+    "type": "official_government",
+    "note": "高市府水利局正式回覆：107年間已於新崛江街區試辦新式孔蓋美化。",
+    "linked_designs": [
+      {
+        "id": "KH-001",
+        "name": "新崛江街區新式美化孔蓋",
+        "city": "高雄市",
+        "district": "新興區"
+      }
+    ]
+  }
+]

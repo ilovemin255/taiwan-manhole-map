@@ -1,0 +1,27 @@
+{
+  "version": "1.18",
+  "searched_at": "2026-08-26",
+  "major_new_finding": {
+    "county": "雲林縣",
+    "official_designs": [
+      {
+        "district": "北港鎮",
+        "name": "獅守",
+        "motif": "媽祖廟前石獅",
+        "status": "official contest gold award; installation pending verification"
+      },
+      {
+        "district": "虎尾鎮",
+        "name": "特色虎尾",
+        "motif": "布袋偶戲、糖廠小火車、玉米",
+        "status": "official contest gold award; installation pending verification"
+      }
+    ]
+  },
+  "important_distinction": "官方徵圖金獎設計 ≠ 已確認街頭實裝。V1.18 收錄為設計資料，但不冒充實拍孔蓋，也不給假精確GPS。",
+  "next_checks": [
+    "追雲林水利處後續工程/竣工資料",
+    "找北港與虎尾實際安裝照片",
+    "若確認實裝，再做圓形去背景淺灰底版本"
+  ]
+}

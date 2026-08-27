@@ -1,0 +1,522 @@
+[
+  {
+    "design_id": "TP-001",
+    "name": "自由之風",
+    "city": "臺北市",
+    "district": "中正區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-002",
+    "name": "有鳳來儀",
+    "city": "臺北市",
+    "district": "中正區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-003",
+    "name": "人生求解，癒見大稻埕",
+    "city": "臺北市",
+    "district": "大同區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-004",
+    "name": "摩登古意，趣遊臺北城",
+    "city": "臺北市",
+    "district": "大同區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-005",
+    "name": "祈福。平安",
+    "city": "臺北市",
+    "district": "中山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-006",
+    "name": "快樂。中山",
+    "city": "臺北市",
+    "district": "中山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-007",
+    "name": "松山之詩 日篇",
+    "city": "臺北市",
+    "district": "松山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-008",
+    "name": "松山之詩 夜篇",
+    "city": "臺北市",
+    "district": "松山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-009",
+    "name": "向陽之森",
+    "city": "臺北市",
+    "district": "大安區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-010",
+    "name": "仰望學林",
+    "city": "臺北市",
+    "district": "大安區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-011",
+    "name": "萬華日夜巡",
+    "city": "臺北市",
+    "district": "萬華區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-012",
+    "name": "轉動萬華",
+    "city": "臺北市",
+    "district": "萬華區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-013",
+    "name": "四獸之境",
+    "city": "臺北市",
+    "district": "信義區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-014",
+    "name": "臺北曼哈頓",
+    "city": "臺北市",
+    "district": "信義區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-015",
+    "name": "Let's Fly 外雙溪的大白鷺",
+    "city": "臺北市",
+    "district": "士林區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-016",
+    "name": "Let's Blossom 陽明山的野櫻花",
+    "city": "臺北市",
+    "district": "士林區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-017",
+    "name": "百年浴場 北投獅吼",
+    "city": "臺北市",
+    "district": "北投區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-018",
+    "name": "穿越北投 百年納涼",
+    "city": "臺北市",
+    "district": "北投區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-019",
+    "name": "野餐",
+    "city": "臺北市",
+    "district": "內湖區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-020",
+    "name": "基地",
+    "city": "臺北市",
+    "district": "內湖區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-021",
+    "name": "未來。新都。",
+    "city": "臺北市",
+    "district": "南港區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-022",
+    "name": "同心共創",
+    "city": "臺北市",
+    "district": "南港區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-023",
+    "name": "包種茶香與貓空邂逅",
+    "city": "臺北市",
+    "district": "文山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TP-024",
+    "name": "動物們的探索旅程",
+    "city": "臺北市",
+    "district": "文山區",
+    "status": "official_design_reference_available",
+    "note": "臺北蓋水官方網站有設計/填色圖或電子書視覺參考；實拍正上方照片仍待補",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-001",
+    "name": "試經口",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-002",
+    "name": "本廟邊角",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-003",
+    "name": "下粗糠崎",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-004",
+    "name": "佛頭港",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-005",
+    "name": "外觀帝港",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-006",
+    "name": "看西街教會",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-007",
+    "name": "保西宮",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-008",
+    "name": "沙淘宮",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-009",
+    "name": "葉石濤－宮古座",
+    "city": "臺南市",
+    "district": "中西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-014",
+    "name": "正月梅花－柳夢梅",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-015",
+    "name": "二月杏花－楊貴妃",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-016",
+    "name": "三月桃花－楊六郎",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-017",
+    "name": "四月薔薇－張麗華",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-018",
+    "name": "蒲月榴花－鍾馗",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-019",
+    "name": "荔月蓮花－西施",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-020",
+    "name": "巧月鳳仙－石崇",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-021",
+    "name": "桂月桂花－綠珠",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-022",
+    "name": "菊月菊花－陶淵明",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-023",
+    "name": "陽月芙蓉－謝素秋",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-024",
+    "name": "葭月山茶－白樂天",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TN-025",
+    "name": "臘月臘梅－老令婆",
+    "city": "臺南市",
+    "district": "北區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TC-001",
+    "name": "豐原・集散地",
+    "city": "臺中市",
+    "district": "豐原區",
+    "status": "official_photo_available_review_needed",
+    "note": "臺中市政府頁面有實體孔蓋相關圖檔；需逐張確認是否足夠正上方",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TC-002",
+    "name": "太平・鳥榕頭",
+    "city": "臺中市",
+    "district": "太平區",
+    "status": "official_photo_available_review_needed",
+    "note": "臺中市政府頁面有實體孔蓋相關圖檔；需逐張確認是否足夠正上方",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TC-003",
+    "name": "綠川水岸品牌",
+    "city": "臺中市",
+    "district": "中區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TY-001",
+    "name": "中壢在地人文特色污水孔蓋",
+    "city": "桃園市",
+    "district": "中壢區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TY-002",
+    "name": "桃園特有污水人孔蓋",
+    "city": "桃園市",
+    "district": "平鎮區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "KH-001",
+    "name": "新崛江街區新式美化孔蓋",
+    "city": "高雄市",
+    "district": "新興區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  },
+  {
+    "design_id": "TC-004",
+    "name": "草悟道孔蓋彩繪",
+    "city": "臺中市",
+    "district": "西區",
+    "status": "needs_photo",
+    "note": "目前未確認到可直接採用且符合正上方規格的官方視覺",
+    "photo_requirement": "正上方、完整圓形、無腳/車/雜物遮擋、解析度建議1600px以上",
+    "copyright_policy": "僅使用權利狀態可確認的素材；裁切/去背不會消除原照片著作權。"
+  }
+]

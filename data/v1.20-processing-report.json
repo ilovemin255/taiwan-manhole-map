@@ -1,0 +1,116 @@
+{
+  "processed_local_count": 0,
+  "processed_ids": [],
+  "download_failures": [
+    {
+      "id": "TP-001",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E4%B8%AD%E6%AD%A3%28%E8%87%AA%E7%94%B1%E4%B9%8B%E9%A2%A8%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-002",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E4%B8%AD%E6%AD%A3%28%E6%9C%89%E9%B3%B3%E4%BE%86%E5%84%80%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-003",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A4%A7%E5%90%8C%28%E4%BA%BA%E7%94%9F%E6%B1%82%E8%A7%A3-%E7%99%92%E8%A6%8B%E5%A4%A7%E7%A8%BB%E5%9F%95%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-004",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A4%A7%E5%90%8C%28%E6%91%A9%E7%99%BB%E5%8F%A4%E6%84%8F-%E8%B6%A3%E9%81%8A%E8%87%BA%E5%8C%97%E5%9F%8E%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-006",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E4%B8%AD%E5%B1%B1%28%E5%BF%AB%E6%A8%82-%E4%B8%AD%E5%B1%B1%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-009",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A4%A7%E5%AE%89%28%E5%90%91%E9%99%BD%E4%B9%8B%E6%A3%AE%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-010",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A4%A7%E5%AE%89%28%E4%BB%B0%E6%9C%9B%E5%AD%B8%E6%9E%97%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-012",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E8%90%AC%E8%8F%AF%28%E8%BD%89%E5%8B%95%E8%90%AC%E8%8F%AF%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-013",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E4%BF%A1%E7%BE%A9%28%E5%9B%9B%E7%8D%B8%E4%B9%8B%E5%A2%83%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-014",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E4%BF%A1%E7%BE%A9%28%E8%87%BA%E5%8C%97%E6%9B%BC%E5%93%88%E9%A0%93%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-015",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A3%AB%E6%9E%97%28Let-sFly%E5%A4%96%E9%9B%99%E6%BA%AA%E7%9A%84%E5%A4%A7%E7%99%BD%E9%B7%BA%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-016",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%A3%AB%E6%9E%97%28Let-sBlossom%E9%99%BD%E6%98%8E%E5%B1%B1%E7%9A%84%E9%87%8E%E6%AB%BB%E8%8A%B1%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-019",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%85%A7%E6%B9%96%28%E9%87%8E%E9%A4%90%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-020",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%85%A7%E6%B9%96%28%E5%9F%BA%E5%9C%B0%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-021",
+      "url": "https://lirp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%8D%97%E6%B8%AF%28%E6%9C%AA%E4%BE%86-%E6%96%B0%E9%83%BD-%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-022",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E5%8D%97%E6%B8%AF%28%E5%90%8C%E5%BF%83%E5%85%B1%E5%89%B5%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TP-024",
+      "url": "https://irp.cdn-website.com/02d57c49/dms3rep/multi/opt/%E6%96%87%E5%B1%B1%28%E5%8B%95%E7%89%A9%E5%80%91%E7%9A%84%E6%8E%A2%E7%B4%A2%E6%97%85%E7%A8%8B%29-1920w.webp",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TC-002",
+      "url": "https://www.taichung.gov.tw/media/375213/%E5%A4%AA%E5%B9%B3.jpg?height=250",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "id": "TC-005",
+      "url": "https://www.taichung.gov.tw/media/375212/%E6%B0%B4%E6%B9%B3.jpg?height=250",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  ],
+  "rules": [
+    "官方/可信來源優先",
+    "只接受正上方或近正上方",
+    "孔蓋完整可辨識",
+    "圓形遮罩",
+    "統一淺灰背景",
+    "不做AI重建",
+    "斜側拍拒絕"
+  ],
+  "new_findings": {
+    "tainan": "牛塭堀角官方實拍符合角度；十二花神全12款已於2026-06完成，官方頁有相關圖片。",
+    "taoyuan": "中壢官方照片已確認，但現有官方圖為斜側角度，依規則不實裝。",
+    "yunlin": "獅守/特色虎尾官方設計存在，但仍缺已實裝街頭正上方照片。",
+    "taichung": "官方再次確認豐原、水湳、太平三款特色彩繪人孔蓋。"
+  }
+}

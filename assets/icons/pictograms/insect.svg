@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="昆蟲">
+    <g stroke="#36454f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="32" cy="34" rx="16" ry="19" fill="#f05b62"/><path d="M32 16v37M18 30h28" fill="none"/><circle cx="25" cy="26" r="3" fill="#263238" stroke="none"/><circle cx="39" cy="26" r="3" fill="#263238" stroke="none"/><circle cx="25" cy="40" r="3" fill="#263238" stroke="none"/><circle cx="39" cy="40" r="3" fill="#263238" stroke="none"/><circle cx="32" cy="15" r="7" fill="#263238"/><path d="M28 10l-5-5m13 5 5-5" fill="none"/></g>
+    </svg>

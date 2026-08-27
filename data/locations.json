@@ -1,0 +1,689 @@
+[
+  {
+    "id": "TP-001-PENDING",
+    "design_id": "TP-001",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-002-PENDING",
+    "design_id": "TP-002",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-003-PENDING",
+    "design_id": "TP-003",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-004-PENDING",
+    "design_id": "TP-004",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-005-PENDING",
+    "design_id": "TP-005",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-006-PENDING",
+    "design_id": "TP-006",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-007-PENDING",
+    "design_id": "TP-007",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-008-PENDING",
+    "design_id": "TP-008",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-009-PENDING",
+    "design_id": "TP-009",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-010-PENDING",
+    "design_id": "TP-010",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-011-PENDING",
+    "design_id": "TP-011",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-012-PENDING",
+    "design_id": "TP-012",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-013-PENDING",
+    "design_id": "TP-013",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-014-PENDING",
+    "design_id": "TP-014",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-015-PENDING",
+    "design_id": "TP-015",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-016-PENDING",
+    "design_id": "TP-016",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-017-PENDING",
+    "design_id": "TP-017",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-018-PENDING",
+    "design_id": "TP-018",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-019-PENDING",
+    "design_id": "TP-019",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-020-PENDING",
+    "design_id": "TP-020",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-021-PENDING",
+    "design_id": "TP-021",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-022-PENDING",
+    "design_id": "TP-022",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-023-PENDING",
+    "design_id": "TP-023",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TP-024-PENDING",
+    "design_id": "TP-024",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "taipei-main"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-001-PENDING",
+    "design_id": "TN-001",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-002-PENDING",
+    "design_id": "TN-002",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-003-PENDING",
+    "design_id": "TN-003",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-004-PENDING",
+    "design_id": "TN-004",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-005-PENDING",
+    "design_id": "TN-005",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-006-PENDING",
+    "design_id": "TN-006",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-007-PENDING",
+    "design_id": "TN-007",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-008-PENDING",
+    "design_id": "TN-008",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-009-PENDING",
+    "design_id": "TN-009",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-010-PENDING",
+    "design_id": "TN-010",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "tainan-part2"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-011-PENDING",
+    "design_id": "TN-011",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "tainan-part2"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-012-PENDING",
+    "design_id": "TN-012",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "tainan-part2"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-013-PENDING",
+    "design_id": "TN-013",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [
+      "tainan-part2"
+    ],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-014-PENDING",
+    "design_id": "TN-014",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-015-PENDING",
+    "design_id": "TN-015",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-016-PENDING",
+    "design_id": "TN-016",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-017-PENDING",
+    "design_id": "TN-017",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-018-PENDING",
+    "design_id": "TN-018",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-019-PENDING",
+    "design_id": "TN-019",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-020-PENDING",
+    "design_id": "TN-020",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-021-PENDING",
+    "design_id": "TN-021",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-022-PENDING",
+    "design_id": "TN-022",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-023-PENDING",
+    "design_id": "TN-023",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-024-PENDING",
+    "design_id": "TN-024",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TN-025-PENDING",
+    "design_id": "TN-025",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "unknown",
+    "verification": "pending_exact_coordinate",
+    "source_ids": [],
+    "note": "等待可驗證的逐點座標。"
+  },
+  {
+    "id": "TC-001-AREA",
+    "design_id": "TC-001",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "taichung-color-2024",
+      "taichung-huludun"
+    ],
+    "note": "官方確認場域；尚未逐座取得精確GPS。"
+  },
+  {
+    "id": "TC-002-AREA",
+    "design_id": "TC-002",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "taichung-color-2024"
+    ],
+    "note": "官方確認場域；尚未逐座取得精確GPS。"
+  },
+  {
+    "id": "TC-003-AREA",
+    "design_id": "TC-003",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "taichung-greenriver"
+    ],
+    "note": "官方確認場域；尚未逐座取得精確GPS。"
+  },
+  {
+    "id": "TY-001-AREA",
+    "design_id": "TY-001",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "taoyuan-zhongli"
+    ],
+    "note": "已確認特色設計/美化計畫與場域，尚未取得逐座精確GPS。"
+  },
+  {
+    "id": "TY-002-AREA",
+    "design_id": "TY-002",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "taoyuan-special"
+    ],
+    "note": "已確認特色設計/美化計畫與場域，尚未取得逐座精確GPS。"
+  },
+  {
+    "id": "KH-001-AREA",
+    "design_id": "KH-001",
+    "lat": null,
+    "lng": null,
+    "address": "",
+    "precision": "area",
+    "verification": "official_area_verified",
+    "source_ids": [
+      "kaohsiung-xinjuejiang"
+    ],
+    "note": "已確認特色設計/美化計畫與場域，尚未取得逐座精確GPS。"
+  },
+  {
+    "id": "TC-004-CORRIDOR",
+    "design_id": "TC-004",
+    "lat": null,
+    "lng": null,
+    "address": "草悟道（經國綠園道）沿線",
+    "precision": "corridor",
+    "verification": "official_installation_corridor_verified",
+    "source_ids": [
+      "taichung-caowudao"
+    ],
+    "note": "官方確認沿線27處；尚未取得27座逐點GPS。"
+  }
+]

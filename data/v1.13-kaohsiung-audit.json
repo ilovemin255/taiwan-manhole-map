@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-08-26",
+  "status": "no_decorative_cover_added_without_evidence",
+  "findings": [
+    {
+      "type": "road_safety",
+      "finding": "高雄2026年新制要求新設或汰換的大型人手孔蓋抗滑值達50 BPN以上，並持續孔蓋減量與下地。",
+      "source_id": "kaohsiung-cover-safety-2026"
+    },
+    {
+      "type": "smart_infrastructure",
+      "finding": "鳳山、鳥松污水系統已有智慧型人孔蓋傳感器，但這是監測設備，不能當成特色彩繪孔蓋。",
+      "source_id": "kaohsiung-smart-covers"
+    }
+  ],
+  "policy": "未找到官方可核對的特色彩繪/地方意象孔蓋款式前，不為了增加城市數量而新增假資料。"
+}

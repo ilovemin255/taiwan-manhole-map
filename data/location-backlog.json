@@ -1,0 +1,12 @@
+[
+  {
+    "design_id": "CH-001",
+    "name": "扇形車庫與火車頭",
+    "city": "彰化縣",
+    "temporary_location": "彰化扇形車庫",
+    "temporary_lat": 24.085948,
+    "temporary_lng": 120.54017,
+    "status": "exact_location_needed",
+    "task": "確認至少一座實際特色污水人孔蓋的道路/街口或GPS，再將暫定 Marker 換成精確 Marker。"
+  }
+]

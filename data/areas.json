@@ -1,0 +1,107 @@
+[
+  {
+    "id": "TP-CITY",
+    "city": "臺北市",
+    "district": "12行政區",
+    "center": [
+      25.0478,
+      121.5319
+    ],
+    "kind": "overview",
+    "source_id": "taipei-main"
+  },
+  {
+    "id": "TN-CW",
+    "city": "臺南市",
+    "district": "中西區",
+    "center": [
+      22.995,
+      120.198
+    ],
+    "kind": "overview",
+    "source_id": "tainan-part2"
+  },
+  {
+    "id": "TN-N",
+    "city": "臺南市",
+    "district": "北區",
+    "center": [
+      23.0045,
+      120.211
+    ],
+    "kind": "overview",
+    "source_id": "tainan-part2"
+  },
+  {
+    "id": "TC-FY",
+    "city": "臺中市",
+    "district": "豐原區",
+    "center": [
+      24.2521,
+      120.7214
+    ],
+    "kind": "area_guide",
+    "source_id": "taichung-color-2024",
+    "note": "區域導覽中心，非孔蓋精確座標。"
+  },
+  {
+    "id": "TC-TP",
+    "city": "臺中市",
+    "district": "太平區",
+    "center": [
+      24.1265,
+      120.7185
+    ],
+    "kind": "area_guide",
+    "source_id": "taichung-color-2024",
+    "note": "區域導覽中心，非孔蓋精確座標。"
+  },
+  {
+    "id": "TC-GR",
+    "city": "臺中市",
+    "district": "中區",
+    "center": [
+      24.1385,
+      120.6831
+    ],
+    "kind": "area_guide",
+    "source_id": "taichung-greenriver",
+    "note": "綠川周邊區域導覽中心，非孔蓋精確座標。"
+  },
+  {
+    "id": "TY-ZL",
+    "city": "桃園市",
+    "district": "中壢區",
+    "center": [
+      24.9537,
+      121.2258
+    ],
+    "kind": "area_guide",
+    "source_id": "taoyuan-zhongli",
+    "note": "行政區導覽中心，不是孔蓋精確座標。"
+  },
+  {
+    "id": "TY-PZ",
+    "city": "桃園市",
+    "district": "平鎮區",
+    "center": [
+      24.9477,
+      121.2184
+    ],
+    "kind": "area_guide",
+    "source_id": "taoyuan-special",
+    "note": "拓印活動/行政區導覽，不代表孔蓋精確位置。"
+  },
+  {
+    "id": "KH-XJ",
+    "city": "高雄市",
+    "district": "新興區",
+    "center": [
+      22.6237,
+      120.3014
+    ],
+    "kind": "area_guide",
+    "source_id": "kaohsiung-xinjuejiang",
+    "note": "新崛江街區導覽中心，不是單一孔蓋精確座標。"
+  }
+]

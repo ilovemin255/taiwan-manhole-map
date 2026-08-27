@@ -1,0 +1,18 @@
+{
+  "version": "1.6",
+  "taipei": {
+    "design_catalog": 24,
+    "first_phase_installed_count": 25,
+    "thematic_map": "verified online",
+    "stormwater_csv": "verified online; updated 2026-06-29",
+    "stormwater_xml": "verified online",
+    "sewer_csv": "verified online",
+    "machine_readable_thematic_points": "not obtained from public index in this pass",
+    "exact_markers": 0
+  },
+  "next_actions": [
+    "取得官方主題地圖逐點座標或可匯出的KML/GeoJSON",
+    "將主題點依行政區/道路與雨水GIS候選點做最近鄰與屬性比對",
+    "人工複核後才寫入 locations.json 的 exact_verified"
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "TY-001",
+    "name": "中壢在地人文特色污水孔蓋",
+    "city": "桃園市",
+    "district": "中壢區",
+    "search_area": "中壢區（逐座位置待補）",
+    "installation_status": "official_cover_verified_exact_installation_pending",
+    "photo_status": "needs_photo",
+    "source": null,
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "CH-001",
+    "name": "扇形車庫與火車頭",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "search_area": "彰化扇形車庫周邊（暫定）",
+    "installation_status": "design_verified_exact_installation_pending",
+    "photo_status": "needs_photo",
+    "source": "https://planning.chcg.gov.tw/getFile.aspx?did=16611&file=2&file_id=135470&type=2",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-001",
+    "name": "試經口",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-003",
+    "name": "下粗糠崎",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-004",
+    "name": "佛頭港",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "永樂市場周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-005",
+    "name": "外觀帝港",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "永樂市場周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-006",
+    "name": "看西街教會",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "永樂市場周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-007",
+    "name": "保西宮",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "蝸牛巷歷史街區",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-008",
+    "name": "沙淘宮",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "蝸牛巷歷史街區",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-009",
+    "name": "葉石濤－宮古座",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "蝸牛巷歷史街區",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-010",
+    "name": "牛塭堀角",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_visual_available",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-011",
+    "name": "十八洞角",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_visual_available",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-012",
+    "name": "大廠口角",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_visual_available",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-013",
+    "name": "頂粗糠崎",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_visual_available",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  },
+  {
+    "id": "TN-PJ-02",
+    "name": "本廟邊",
+    "city": "臺南市",
+    "district": "中西區",
+    "search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
+    "installation_status": "officially_installed",
+    "photo_status": "official_photo_found_pending_local_asset",
+    "source": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
+    "note": "可依官方街區範圍實地尋訪；找到後可回填精確GPS與正上方照片。"
+  }
+]
