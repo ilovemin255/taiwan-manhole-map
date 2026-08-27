@@ -1,5 +1,5 @@
 {
-  "version": "1.39.1",
+  "version": "1.39.21",
   "generated": "2026-08-28",
   "catalog_records": 60,
   "official_visual_reference_count": 30,
@@ -96,7 +96,10 @@
     "新增GitHub Pages本地資料bundle",
     "卡片在地圖初始化之前渲染",
     "Leaflet失敗不再阻止資料庫顯示",
-    "降低GitHub Pages對JSON fetch的依賴"
+    "降低GitHub Pages對JSON fetch的依賴",
+    "新增63筆獨立HTML靜態卡片fallback",
+    "JS成功才切換至動態卡片",
+    "GitHub Pages不再可能因JS失敗整片空白"
   ],
   "hotfixes": [
     "修正 app.js 照片篩選函式缺少右括號的 SyntaxError",
@@ -126,5 +129,6 @@
   "taipei_colored_images": 24,
   "taipei_four_missing_images_fixed": 4,
   "taichung_direct_images": 5,
-  "tainan_direct_images": 7
+  "tainan_direct_images": 7,
+  "static_fallback_cards": 63
 }
