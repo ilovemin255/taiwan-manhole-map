@@ -1,6 +1,6 @@
 {
-  "version": "1.39",
-  "generated": "2026-08-27",
+  "version": "1.39.1",
+  "generated": "2026-08-28",
   "catalog_records": 60,
   "official_visual_reference_count": 30,
   "needs_user_photo_count": 26,
@@ -92,7 +92,11 @@
     "臺南新增圖片取消過度放大",
     "本廟邊角更換較正面來源",
     "桃園擴充為楊梅/百吉/龜山/小烏來/大溪5系統",
-    "高雄新崛江特色孔蓋接官方議會/水利局證據"
+    "高雄新崛江特色孔蓋接官方議會/水利局證據",
+    "新增GitHub Pages本地資料bundle",
+    "卡片在地圖初始化之前渲染",
+    "Leaflet失敗不再阻止資料庫顯示",
+    "降低GitHub Pages對JSON fetch的依賴"
   ],
   "hotfixes": [
     "修正 app.js 照片篩選函式缺少右括號的 SyntaxError",
