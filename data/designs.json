@@ -1246,15 +1246,17 @@
       "歷史建築",
       "交通工具"
     ],
-    "image": "assets/images/covers/TY-BJ-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": null,
+    "image_status": "official_design_verified_photo_pending",
     "source_ids": [
       "taoyuan-local-covers-2020",
       "moenv-baiji"
     ],
     "display_area": "桃園市 大溪區",
     "official_location_scope": "石門水庫上游百吉地區／大溪區。",
-    "verification": "桃園市水務局說明＋環境部場址資料"
+    "verification": "桃園市水務局說明＋環境部場址資料",
+    "display_processing": "placeholder",
+    "photo_authenticity": "photo_needed"
   },
   {
     "id": "TY-XWL-001",
@@ -1270,13 +1272,15 @@
       "橋梁",
       "其他圖案"
     ],
-    "image": "assets/images/covers/TY-XWL-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": null,
+    "image_status": "official_design_verified_photo_pending",
     "source_ids": [
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 復興區",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "display_processing": "placeholder",
+    "photo_authenticity": "photo_needed"
   },
   {
     "id": "TY-YM-001",
@@ -1293,14 +1297,16 @@
       "植物",
       "動物"
     ],
-    "image": "assets/images/covers/TY-YM-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": null,
+    "image_status": "official_design_verified_photo_pending",
     "source_ids": [
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 楊梅區",
     "official_location_scope": "楊梅區污水系統；媒體實拍指出新農街後巷可見。",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "display_processing": "placeholder",
+    "photo_authenticity": "photo_needed"
   },
   {
     "id": "TY-GS-001",
