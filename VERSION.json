@@ -1,11 +1,12 @@
 {
   "name": "taiwan-manhole-map",
-  "version": "1.52",
-  "release": "V1.52",
+  "version": "1.53",
+  "release": "V1.53",
   "generated_at": "2026-08-30",
-  "notes": [
-    "Taoyuan image updates included",
-    "Master Table included",
-    "Green/yellow/orange/red tracking included"
-  ]
+  "integrated": [
+    "Tainan completed set",
+    "Changhua fan depot",
+    "Taoyuan V1.52 completed set"
+  ],
+  "github_pages_static_fallback_rebuilt": true
 }

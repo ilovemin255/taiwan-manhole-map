@@ -1637,8 +1637,8 @@
     ],
     "location_mode": "temporary_search_marker",
     "description": "彰化縣政府已確認「扇形車庫」為彰化市污水人孔圖案。依使用者指定，暫以彰化扇形車庫作為尋訪 Marker；實際孔蓋位置仍待補登。",
-    "image": "assets/images/covers/CH-001.jpg",
-    "image_status": "needs_photo",
+    "image": "assets/images/covers/CH-001.png",
+    "image_status": "user_photo_processed_local",
     "image_kind": "placeholder",
     "official_visual": {
       "visual_type": "official_government_record",
@@ -1653,7 +1653,7 @@
       "warning": "⚠️ 暫定位置：特色人孔蓋實際設置點尚待補登。此 Marker 目前指向設計意象地標彰化扇形車庫。",
       "needs_exact_location": true
     },
-    "display_processing": "placeholder",
+    "display_processing": "user_photo_cutout",
     "photo_authenticity": "photo_needed",
     "field_search_area": "彰化扇形車庫周邊（暫定）",
     "installation_status": "design_verified_exact_installation_pending",
@@ -1666,9 +1666,10 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "扇形車庫與火車頭",
     "display_area": "彰化縣 彰化市",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "使用者指定照片之正式去背版本。"
   },
   {
     "id": "YL-BG-001",
@@ -1824,8 +1825,8 @@
       "tainan-humanistic-covers-2022"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-004.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-004.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -1834,7 +1835,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "永樂市場周邊巷弄",
     "installation_evidence": "官方確認3款，可於永樂市場周邊巷弄尋訪。",
@@ -1848,10 +1849,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "佛頭港",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-007",
@@ -1866,8 +1868,8 @@
       "ltn-tainan-baoxigong"
     ],
     "location_mode": "official_search_area",
-    "image": "https://img.ltn.com.tw/Upload/art/page/800/2023/07/17/4366490_1.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-007.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -1876,7 +1878,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
@@ -1888,7 +1890,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "保西宮",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "image_kind": "verified_cover_photo",
     "cover_shape": "round",
     "cover_only": true,
@@ -1898,7 +1900,8 @@
     "photo_source_id": "ltn-tainan-baoxigong",
     "image_treatment": "full_outer_ring_360",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-011",
@@ -1915,8 +1918,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "呼應早期臺南農業與水牛生活景象，以水牛、池水與田野記憶為設計核心。",
-    "image": "assets/images/covers/TN-011.jpg",
-    "image_status": "official_colored_visual_verified_not_extracted",
+    "image": "assets/images/covers/TN-011.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -1925,7 +1928,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -1937,17 +1940,18 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "十八洞角",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
     "official_visual_verified": true,
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-005",
-    "name": "外觀帝港",
+    "name": "外關帝港",
     "city": "臺南市",
     "district": "中西區",
     "theme": "歷史",
@@ -1958,8 +1962,8 @@
       "tainan-humanistic-covers-2022"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-005.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-005.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -1968,7 +1972,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "永樂市場周邊巷弄",
     "installation_evidence": "官方確認3款，可於永樂市場周邊巷弄尋訪。",
@@ -1980,12 +1984,13 @@
       "sea"
     ],
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
-    "display_title": "外觀帝港",
+    "display_title": "外關帝港",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-012",
@@ -2002,8 +2007,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "名稱源自明清時期軍艦造船相關的地方記憶；設計以古代船艦意象呈現。",
-    "image": "assets/images/covers/TN-012.jpg",
-    "image_status": "official_colored_visual_verified_not_extracted",
+    "image": "assets/images/covers/TN-012.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2012,7 +2017,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -2022,17 +2027,18 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "大廠口角",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
     "official_visual_verified": true,
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-PJ-02",
-    "name": "本廟邊角",
+    "name": "本廟邊",
     "city": "臺南市",
     "district": "中西區",
     "theme": "在地歷史",
@@ -2046,8 +2052,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "臺南市政府官方特色污水孔蓋，屬普濟殿七角頭主題。",
-    "image": "https://news.housefun.com.tw/images/news/2020/12/28/160912580075282403.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-PJ-02.png",
+    "image_status": "completed_local_processed",
     "image_kind": "verified_cover_photo",
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
@@ -2057,7 +2063,7 @@
       "label": "查看臺南市政府真實孔蓋照片",
       "status": "official_real_photo_verified"
     },
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -2067,9 +2073,9 @@
       "historic"
     ],
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
-    "display_title": "本廟邊角",
+    "display_title": "本廟邊",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "cover_shape": "round",
     "cover_only": true,
@@ -2080,7 +2086,8 @@
     "image_treatment": "full_outer_ring_360",
     "photo_note": "改用較接近正面、完整保留本廟邊角外圈的照片。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-008",
@@ -2095,8 +2102,8 @@
       "note-tainan-shataogong"
     ],
     "location_mode": "official_search_area",
-    "image": "https://assets.st-note.com/production/uploads/images/248141910/rectangle_large_type_2_23fa6b6958d991a4efef2b7982db8c72.jpeg?fit=bounds&height=2000&quality=85&width=2000",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-008.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2105,7 +2112,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
@@ -2117,7 +2124,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "沙淘宮",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "image_kind": "verified_cover_photo",
     "cover_shape": "round",
     "cover_only": true,
@@ -2127,7 +2134,8 @@
     "photo_source_id": "note-tainan-shataogong",
     "image_treatment": "full_outer_ring_360",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-010",
@@ -2145,8 +2153,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "取材自舊時牛車、農務與泥水休憩的地方傳說，呈現農業生活歷史。",
-    "image": "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/8798155/b7a77fc3-26ff-4c02-9d72-fd460af5da2c.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-010.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2155,7 +2163,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -2175,7 +2183,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "牛塭堀角",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
@@ -2189,7 +2197,8 @@
     "photo_source_id": "tainan-17-covers-2026",
     "image_treatment": "full_outer_ring_360",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-006",
@@ -2204,8 +2213,8 @@
       "tainan-humanistic-covers-2022"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-006.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-006.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2214,7 +2223,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "永樂市場周邊巷弄",
     "installation_evidence": "官方確認3款，可於永樂市場周邊巷弄尋訪。",
@@ -2228,10 +2237,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "看西街教會",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-009",
@@ -2246,8 +2256,8 @@
       "owlting-tainan-yeshitao"
     ],
     "location_mode": "official_search_area",
-    "image": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20230725/15_070109276348.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-009.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2256,7 +2266,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
@@ -2270,7 +2280,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "葉石濤－宮古座",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "image_kind": "verified_cover_photo",
     "cover_shape": "round",
     "cover_only": true,
@@ -2280,7 +2290,8 @@
     "photo_source_id": "owlting-tainan-yeshitao",
     "image_treatment": "full_outer_ring_360",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-001",
@@ -2296,8 +2307,8 @@
       "merit-times-tainan-shijingkou"
     ],
     "location_mode": "official_search_area",
-    "image": "https://www.merit-times.com.tw/news_pic/20201227/1481413_1048317.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-001.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2306,7 +2317,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -2316,7 +2327,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "試經口",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "image_kind": "verified_cover_photo",
     "cover_shape": "round",
@@ -2328,7 +2339,8 @@
     "image_treatment": "full_outer_ring_360",
     "photo_note": "使用接近正面的試經口照片，完整保留黑色外圈。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-013",
@@ -2345,8 +2357,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "呼應昔日碾米與穀殼堆置的地方景象，以稻作、坡地與水岸記憶呈現。",
-    "image": "assets/images/covers/TN-013.jpg",
-    "image_status": "official_colored_visual_verified_not_extracted",
+    "image": "assets/images/covers/TN-013.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2355,7 +2367,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -2367,13 +2379,14 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "頂粗糠崎",
     "display_area": "臺南市 中西區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
     "official_visual_verified": true,
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-016",
@@ -2387,8 +2400,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-016.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-016.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2397,7 +2410,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2406,10 +2419,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "三月桃花－楊六郎",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-015",
@@ -2423,8 +2437,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-015.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-015.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2433,7 +2447,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2442,10 +2456,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "二月杏花－楊貴妃",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-017",
@@ -2459,8 +2474,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-017.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-017.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2469,7 +2484,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2478,10 +2493,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "四月薔薇－張麗華",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-020",
@@ -2495,8 +2511,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-020.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-020.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2505,16 +2521,17 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [],
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "巧月鳳仙－石崇",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-021",
@@ -2528,8 +2545,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-021.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-021.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2538,7 +2555,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower"
@@ -2546,10 +2563,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "桂月桂花－綠珠",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-014",
@@ -2563,8 +2581,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-014.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-014.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2573,7 +2591,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2583,10 +2601,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "正月梅花－柳夢梅",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-025",
@@ -2600,8 +2619,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-025.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-025.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2610,7 +2629,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower"
@@ -2618,10 +2637,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "臘月臘梅－老令婆",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-019",
@@ -2635,8 +2655,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-019.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-019.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2645,7 +2665,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2655,10 +2675,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "荔月蓮花－西施",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-022",
@@ -2672,8 +2693,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-022.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-022.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2682,7 +2703,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2691,10 +2712,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "菊月菊花－陶淵明",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-024",
@@ -2708,8 +2730,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-024.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-024.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2718,7 +2740,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2728,10 +2750,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "葭月山茶－白樂天",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-018",
@@ -2745,8 +2768,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-018.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-018.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2755,7 +2778,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower",
@@ -2764,10 +2787,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "蒲月榴花－鍾馗",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "TN-023",
@@ -2781,8 +2805,8 @@
       "tainan-12-flower-gods-2026"
     ],
     "location_mode": "official_map_pending_point_import",
-    "image": "assets/images/covers/TN-023.jpg",
-    "image_status": "official_photo_found_pending_local_asset",
+    "image": "assets/images/covers/TN-023.png",
+    "image_status": "completed_local_processed",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
@@ -2791,7 +2815,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8819656",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "cleaned_front_view",
     "photo_authenticity": "official_real_photo_source",
     "pictograms": [
       "flower"
@@ -2799,10 +2823,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "陽月芙蓉－謝素秋",
     "display_area": "臺南市 北區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53",
     "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
     "master_status": "green",
-    "master_status_label": "綠色｜已完成"
+    "master_status_label": "綠色｜已完成",
+    "v1_53_note": "V1.53 已換成後續完成整理版。"
   },
   {
     "id": "KH-001",
@@ -2818,8 +2843,8 @@
     ],
     "location_mode": "official_area_verified",
     "description": "高雄市政府水利局回覆市議會資料確認：107年間曾於新崛江街區試辦新式孔蓋美化。",
-    "image": "assets/images/covers/KH-001.jpg",
-    "image_status": "official_existence_verified_photo_pending",
+    "image": "assets/images/covers/KH-001.png",
+    "image_status": "data_complete_final_asset_not_in_workspace",
     "official_visual": null,
     "display_processing": "placeholder",
     "photo_authenticity": "photo_needed",
@@ -2829,10 +2854,11 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "新崛江街區新式美化孔蓋",
     "display_area": "高雄市 新興區",
-    "image_storage": "local_project_asset",
+    "image_storage": "local_v1_53_status_card",
     "official_location_scope": "高雄市新興區新崛江街區",
-    "master_status": "red",
-    "master_status_label": "紅色｜需查證／重整"
+    "master_status": "yellow",
+    "master_status_label": "黃色｜資料完成・影像待回填",
+    "v1_53_note": "移除舊 PHOTO PENDING placeholder；未冒充實拍圖。"
   },
   {
     "id": "TY-PW-001",
