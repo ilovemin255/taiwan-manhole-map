@@ -1,0 +1,48 @@
+{
+  "base_version": "1.39.22",
+  "new_version": "1.39.23",
+  "source_image": "ChatGPT Image 2026年8月30日 下午05_09_22.png",
+  "added_visuals": [
+    {
+      "id": "TN-008",
+      "name": "沙淘宮",
+      "path": "assets/images/covers/TN-008-generated.png"
+    },
+    {
+      "id": "TN-010",
+      "name": "牛塭堀角",
+      "path": "assets/images/covers/TN-010-generated.png"
+    },
+    {
+      "id": "TN-007",
+      "name": "保西宮",
+      "path": "assets/images/covers/TN-007-generated.png"
+    },
+    {
+      "id": "CH-001",
+      "name": "扇形車庫與火車頭",
+      "path": "assets/images/covers/CH-001-generated.png"
+    },
+    {
+      "id": "TN-003",
+      "name": "下粗糠崎",
+      "path": "assets/images/covers/TN-003-generated.png"
+    },
+    {
+      "id": "TC-004",
+      "name": "草悟道孔蓋彩繪",
+      "path": "assets/images/covers/TC-004-generated.png"
+    },
+    {
+      "id": "TC-003",
+      "name": "綠川水岸品牌",
+      "path": "assets/images/covers/TC-003-generated.png"
+    },
+    {
+      "id": "TY-GS-001",
+      "name": "龜山系統－酒廠與壽山巖觀音寺",
+      "path": "assets/images/covers/TY-GS-001-generated.png"
+    }
+  ],
+  "note": "These are generated reference visuals supplied by the user, not real photographs."
+}

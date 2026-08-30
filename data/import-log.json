@@ -1,5 +1,5 @@
 {
-  "version": "1.39.22",
+  "version": "1.39.23",
   "generated": "2026-08-28",
   "catalog_records": 60,
   "official_visual_reference_count": 30,
@@ -133,5 +133,23 @@
   "taipei_four_missing_images_fixed": 4,
   "taichung_direct_images": 5,
   "tainan_direct_images": 7,
-  "static_fallback_cards": 63
+  "static_fallback_cards": 63,
+  "entries": [
+    {
+      "version": "1.39.23",
+      "date": "2026-08-30",
+      "action": "add_user_supplied_generated_visuals",
+      "design_ids": [
+        "TY-GS-001",
+        "TC-003",
+        "TC-004",
+        "CH-001",
+        "TN-003",
+        "TN-007",
+        "TN-008",
+        "TN-010"
+      ],
+      "note": "從 v1.39.22 基線加入使用者提供的 8 張先前 ChatGPT 產生示意圖；保留為 generated reference，不標示為實拍。"
+    }
+  ]
 }
