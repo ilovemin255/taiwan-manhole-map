@@ -1246,8 +1246,8 @@
       "歷史建築",
       "交通工具"
     ],
-    "image": null,
-    "image_status": "official_design_verified_photo_pending",
+    "image": "assets/images/covers/cover-08.jpg",
+    "image_status": "user_provided_original_color_visual",
     "source_ids": [
       "taoyuan-local-covers-2020",
       "moenv-baiji"
@@ -1255,8 +1255,11 @@
     "display_area": "桃園市 大溪區",
     "official_location_scope": "石門水庫上游百吉地區／大溪區。",
     "verification": "桃園市水務局說明＋環境部場址資料",
-    "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed"
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TY-XWL-001",
@@ -1352,10 +1355,10 @@
     ],
     "location_mode": "official_area_verified",
     "description": "以綠川專屬品牌LOGO呈現中區舊城與白鷺鷥、水岸景觀意象。",
-    "image": "assets/images/covers/TC-003-user.png",
-    "image_status": "user_provided_reference_visual",
+    "image": "assets/images/covers/cover-05.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": null,
-    "display_processing": "placeholder",
+    "display_processing": "preserve_original_color_no_recolor",
     "photo_authenticity": "user_provided_reference_visual",
     "pictograms": [
       "bird",
@@ -1366,7 +1369,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "綠川水岸品牌",
     "display_area": "臺中市 中區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_project_asset",
     "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
@@ -1376,7 +1379,7 @@
     "photo_source_id": "shoppingdesign-green-river-cover",
     "photo_note": "目前可取得的綠川品牌孔蓋照片；彩色LOGO孔蓋另有官方工程資料佐證。",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供／本對話提供之圖像"
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TC-002",
@@ -1394,19 +1397,19 @@
     ],
     "location_mode": "official_area_verified",
     "description": "以太平舊地名「鳥榕頭」與在地農產文化拆解、重組設計。",
-    "image": "https://www.taichung.gov.tw/media/375213/%E5%A4%AA%E5%B9%B3.jpg?height=900",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/cover-04.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": {
       "visual_type": "official_news_photo",
       "source_url": "https://www.taichung.gov.tw/8868/8872/9962/2567161",
       "label": "查看臺中市府實體照片",
       "status": "official_photo_reference"
     },
-    "image_kind": "verified_cover_photo",
-    "image_source": "臺中市政府",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像",
     "image_source_url": "https://www.taichung.gov.tw/8868/8872/9962/1105682/",
-    "display_processing": "circle_crop_grey_background",
-    "photo_authenticity": "official_real_visual",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
     "pictograms": [
       "tree",
       "bird"
@@ -1414,7 +1417,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "太平・鳥榕頭",
     "display_area": "臺中市 太平區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_project_asset",
     "artist": "川貝母",
     "official_location_scope": "官方資料確認設置於該地區；未取得單一孔蓋精確座標前，不以行政區中心冒充實際點位。",
     "official_detail_url": "https://www.taichung.gov.tw/8868/8872/9962/1105682",
@@ -1573,8 +1576,8 @@
     ],
     "location_mode": "temporary_search_marker",
     "description": "彰化縣政府已確認「扇形車庫」為彰化市污水人孔圖案。依使用者指定，暫以彰化扇形車庫作為尋訪 Marker；實際孔蓋位置仍待補登。",
-    "image": "assets/images/covers/CH-001-user.png",
-    "image_status": "user_provided_reference_visual",
+    "image": "assets/images/covers/cover-11.jpg",
+    "image_status": "user_provided_original_color_visual",
     "image_kind": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_government_record",
@@ -1589,7 +1592,7 @@
       "warning": "⚠️ 暫定位置：特色人孔蓋實際設置點尚待補登。此 Marker 目前指向設計意象地標彰化扇形車庫。",
       "needs_exact_location": true
     },
-    "display_processing": "placeholder",
+    "display_processing": "preserve_original_color_no_recolor",
     "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "彰化扇形車庫周邊（暫定）",
     "installation_status": "design_verified_exact_installation_pending",
@@ -1603,7 +1606,7 @@
     "display_title": "扇形車庫與火車頭",
     "display_area": "彰化縣 彰化市",
     "image_storage": "local_project_asset",
-    "image_source": "使用者提供／本對話提供之圖像",
+    "image_source": "使用者提供／本對話提供之原色圖像",
     "cover_only": true,
     "cover_shape": "round",
     "cover_scale": 1.0,
@@ -1714,8 +1717,8 @@
       "wikitravel-tainan-xiacukangqi"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-003-user.png",
-    "image_status": "user_provided_reference_visual",
+    "image": "assets/images/covers/cover-03.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -1724,7 +1727,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "preserve_original_color_no_recolor",
     "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
@@ -1734,7 +1737,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "下粗糠崎",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_project_asset",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
     "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
@@ -1744,7 +1747,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "wikitravel-tainan-xiacukangqi",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供／本對話提供之圖像"
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TN-004",
@@ -1799,8 +1802,8 @@
       "ltn-tainan-baoxigong"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-007-user.png",
-    "image_status": "user_provided_reference_visual",
+    "image": "assets/images/covers/cover-02.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -1809,7 +1812,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "preserve_original_color_no_recolor",
     "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
@@ -1821,7 +1824,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "保西宮",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_project_asset",
     "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
@@ -1830,7 +1833,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "ltn-tainan-baoxigong",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供／本對話提供之圖像"
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TN-011",
@@ -2019,8 +2022,8 @@
       "note-tainan-shataogong"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-008-user.png",
-    "image_status": "user_provided_reference_visual",
+    "image": "assets/images/covers/cover-01.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2029,7 +2032,7 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
+    "display_processing": "preserve_original_color_no_recolor",
     "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
@@ -2041,7 +2044,7 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "沙淘宮",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
+    "image_storage": "local_project_asset",
     "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
@@ -2050,7 +2053,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "note-tainan-shataogong",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供／本對話提供之圖像"
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TN-010",
@@ -2166,8 +2169,8 @@
       "owlting-tainan-yeshitao"
     ],
     "location_mode": "official_search_area",
-    "image": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20230725/15_070109276348.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/cover-12.jpg",
+    "image_status": "user_provided_original_color_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2176,8 +2179,8 @@
     },
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
-    "display_processing": "official_photo_source_verified_asset_pending",
-    "photo_authenticity": "official_real_photo_source",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
     "installation_status": "officially_installed",
@@ -2190,15 +2193,16 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "葉石濤－宮古座",
     "display_area": "臺南市 中西區",
-    "image_storage": "remote_verified_photo",
-    "image_kind": "verified_cover_photo",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "owlting-tainan-yeshitao",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "image_source": "使用者提供／本對話提供之原色圖像"
   },
   {
     "id": "TN-001",
@@ -2721,5 +2725,109 @@
     "display_area": "高雄市 新興區",
     "image_storage": "local_project_asset",
     "official_location_scope": "高雄市新興區新崛江街區"
+  },
+  {
+    "id": "TY-GS-002",
+    "name": "桃園系統交流道",
+    "city": "桃園市",
+    "district": "龜山區",
+    "theme": "交通",
+    "project": "特色人孔蓋",
+    "verification": "user_reference_visual_location_pending",
+    "location_mode": "search_area_pending",
+    "image": "assets/images/covers/cover-06.jpg",
+    "image_status": "user_provided_original_color_visual",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
+    "display_title": "桃園系統交流道",
+    "display_area": "桃園市 龜山區",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像",
+    "description": "桃園龜山之桃園系統交流道主題人孔蓋；精確設置位置待後續核對。",
+    "pictograms": [
+      "road",
+      "transport"
+    ],
+    "cover_shape": "round",
+    "cover_only": true
+  },
+  {
+    "id": "TY-YM-002",
+    "name": "楊梅車站",
+    "city": "桃園市",
+    "district": "楊梅區",
+    "theme": "鐵道文化",
+    "project": "特色人孔蓋",
+    "verification": "user_reference_visual_location_pending",
+    "location_mode": "search_area_pending",
+    "image": "assets/images/covers/cover-07.jpg",
+    "image_status": "user_provided_original_color_visual",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
+    "display_title": "楊梅車站",
+    "display_area": "桃園市 楊梅區",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像",
+    "description": "楊梅車站與鐵道意象主題人孔蓋；精確設置位置待後續核對。",
+    "pictograms": [
+      "rail",
+      "vehicle"
+    ],
+    "cover_shape": "round",
+    "cover_only": true
+  },
+  {
+    "id": "TY-ZL-001",
+    "name": "中壢車站",
+    "city": "桃園市",
+    "district": "中壢區",
+    "theme": "鐵道文化",
+    "project": "特色人孔蓋",
+    "verification": "user_reference_visual_location_pending",
+    "location_mode": "search_area_pending",
+    "image": "assets/images/covers/cover-09.jpg",
+    "image_status": "user_provided_original_color_visual",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
+    "display_title": "中壢車站",
+    "display_area": "桃園市 中壢區",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像",
+    "description": "中壢車站與地方鐵道意象主題人孔蓋；精確設置位置待後續核對。",
+    "pictograms": [
+      "rail",
+      "vehicle",
+      "historic"
+    ],
+    "cover_shape": "round",
+    "cover_only": true
+  },
+  {
+    "id": "TY-RW-001",
+    "name": "桃園雨水下水道",
+    "city": "桃園市",
+    "district": "待確認",
+    "theme": "水利",
+    "project": "雨水下水道特色人孔蓋",
+    "verification": "user_reference_visual_location_pending",
+    "location_mode": "location_pending",
+    "image": "assets/images/covers/cover-10.jpg",
+    "image_status": "user_provided_original_color_visual",
+    "display_processing": "preserve_original_color_no_recolor",
+    "photo_authenticity": "user_provided_reference_visual",
+    "display_title": "桃園・雨水下水道",
+    "display_area": "桃園市（行政區待確認）",
+    "image_storage": "local_project_asset",
+    "image_kind": "user_provided_reference_visual",
+    "image_source": "使用者提供／本對話提供之原色圖像",
+    "description": "桃園雨水下水道主題人孔蓋；行政區與精確設置位置待後續核對。",
+    "pictograms": [
+      "water"
+    ],
+    "cover_shape": "round",
+    "cover_only": true
   }
 ]
