@@ -47,7 +47,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-005",
@@ -98,7 +100,9 @@
     "image_kind": "official_colored_cap_visual",
     "image_source": "臺北市政府工務局水利工程處－臺北蓋水",
     "image_source_url": "https://www.gorgeouscovers.taipei/%E8%93%8B%E6%B0%B4%E5%AD%94%E8%93%8B%E5%A1%AB%E8%89%B2%E7%B9%AA%E7%95%AB%E7%B4%99%E5%9C%96",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-002",
@@ -149,7 +153,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-001",
@@ -200,7 +206,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-013",
@@ -252,7 +260,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-014",
@@ -301,7 +311,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-020",
@@ -348,7 +360,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-019",
@@ -398,7 +412,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-017",
@@ -448,7 +464,9 @@
     "image_source": "臺北市政府工務局水利工程處",
     "image_source_url": "https://heo.gov.taipei/News_Content.aspx?n=6C9C6B396615DFFA&s=8EF0C53BACF3FD17&sms=42ECA4B98BB77CC4",
     "taipei_image_crop": "centered_colored_cap",
-    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG"
+    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-018",
@@ -500,7 +518,9 @@
     "image_source": "臺北市政府工務局水利工程處",
     "image_source_url": "https://heo.gov.taipei/News_Content.aspx?n=6C9C6B396615DFFA&s=8EF0C53BACF3FD17&sms=42ECA4B98BB77CC4",
     "taipei_image_crop": "centered_colored_cap",
-    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG"
+    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-022",
@@ -547,7 +567,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-021",
@@ -596,7 +618,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-016",
@@ -646,7 +670,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-015",
@@ -697,7 +723,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-003",
@@ -749,7 +777,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-004",
@@ -798,7 +828,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-010",
@@ -850,7 +882,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-009",
@@ -900,7 +934,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-024",
@@ -949,7 +985,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-023",
@@ -1003,7 +1041,9 @@
     "image_kind": "official_colored_cap_visual",
     "image_source": "臺北市政府工務局水利工程處－臺北蓋水",
     "image_source_url": "https://www.gorgeouscovers.taipei/%E8%93%8B%E6%B0%B4%E5%AD%94%E8%93%8B%E5%A1%AB%E8%89%B2%E7%B9%AA%E7%95%AB%E7%B4%99%E5%9C%96",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-008",
@@ -1056,7 +1096,9 @@
     "image_source": "臺北市政府工務局水利工程處",
     "image_source_url": "https://heo.gov.taipei/News_Content.aspx?n=6C9C6B396615DFFA&s=23B5424B24BB5686&sms=42ECA4B98BB77CC4",
     "taipei_image_crop": "centered_colored_cap",
-    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG"
+    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-007",
@@ -1111,7 +1153,9 @@
     "image_source": "臺北市政府工務局水利工程處",
     "image_source_url": "https://heo.gov.taipei/News_Content.aspx?n=6C9C6B396615DFFA&s=23B5424B24BB5686&sms=42ECA4B98BB77CC4",
     "taipei_image_crop": "centered_colored_cap",
-    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG"
+    "image_fallback_reason": "臺北蓋水原CDN圖失效，改用水利工程處官方www-ws.gov.taipei PNG",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-011",
@@ -1161,7 +1205,9 @@
     "image_kind": "official_colored_cap_visual",
     "image_source": "臺北市政府工務局水利工程處－臺北蓋水",
     "image_source_url": "https://www.gorgeouscovers.taipei/%E8%93%8B%E6%B0%B4%E5%AD%94%E8%93%8B%E5%A1%AB%E8%89%B2%E7%B9%AA%E7%95%AB%E7%B4%99%E5%9C%96",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TP-012",
@@ -1208,7 +1254,9 @@
     "official_image_verified_on_page": true,
     "official_location_verified_on_page": true,
     "map_position_policy": "official_taipei_gorgeouscovers_location_only",
-    "taipei_image_crop": "centered_colored_cap"
+    "taipei_image_crop": "centered_colored_cap",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TY-DX-001",
@@ -1229,7 +1277,9 @@
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 大溪區",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "master_status": "orange",
+    "master_status_label": "橘色｜缺正式圖"
   },
   {
     "id": "TY-BJ-001",
@@ -1246,15 +1296,21 @@
       "歷史建築",
       "交通工具"
     ],
-    "image": "assets/images/covers/TY-BJ-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": "assets/images/covers/TY-BJ-001.png",
+    "image_status": "official_real_processed_local",
     "source_ids": [
       "taoyuan-local-covers-2020",
       "moenv-baiji"
     ],
     "display_area": "桃園市 大溪區",
     "official_location_scope": "石門水庫上游百吉地區／大溪區。",
-    "verification": "桃園市水務局說明＋環境部場址資料"
+    "verification": "桃園市水務局說明＋環境部場址資料",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "v1_52_note": "V1.52 使用目前確認的整理版圖片。"
   },
   {
     "id": "TY-XWL-001",
@@ -1276,7 +1332,9 @@
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 復興區",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "master_status": "red",
+    "master_status_label": "紅色｜需查證／重整"
   },
   {
     "id": "TY-YM-001",
@@ -1293,14 +1351,20 @@
       "植物",
       "動物"
     ],
-    "image": "assets/images/covers/TY-YM-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": "assets/images/covers/TY-YM-001.png",
+    "image_status": "official_real_processed_local",
     "source_ids": [
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 楊梅區",
     "official_location_scope": "楊梅區污水系統；媒體實拍指出新農街後巷可見。",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "v1_52_note": "V1.52 使用目前確認的整理版圖片。"
   },
   {
     "id": "TY-GS-001",
@@ -1316,13 +1380,19 @@
       "歷史建築",
       "名物品"
     ],
-    "image": "assets/images/covers/TY-GS-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
+    "image": "assets/images/covers/TY-GS-001.png",
+    "image_status": "official_real_processed_local",
     "source_ids": [
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 龜山區",
-    "verification": "桃園市水務局說明經新聞採訪確認"
+    "verification": "桃園市水務局說明經新聞採訪確認",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "v1_52_note": "V1.52 使用目前確認的整理版圖片。"
   },
   {
     "id": "TC-003",
@@ -1361,7 +1431,9 @@
     "cover_pos_y": "50%",
     "photo_source_id": "shoppingdesign-green-river-cover",
     "photo_note": "目前可取得的綠川品牌孔蓋照片；彩色LOGO孔蓋另有官方工程資料佐證。",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TC-002",
@@ -1411,7 +1483,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "taichung-2018-beautiful-covers",
-    "photo_note": "臺中市政府官方彩色照片；放大裁除外圍地磚。"
+    "photo_note": "臺中市政府官方彩色照片；放大裁除外圍地磚。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TC-004",
@@ -1448,7 +1522,9 @@
     "cover_pos_y": "50%",
     "photo_source_id": "dcard-calligraphy-greenway-cover",
     "photo_note": "實物照片為方形孔蓋，因此保留方形外框，不假造圓形。",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TC-005",
@@ -1491,7 +1567,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "taichung-2018-beautiful-covers",
-    "photo_note": "臺中市政府官方彩色照片；放大裁除外圍地磚。"
+    "photo_note": "臺中市政府官方彩色照片；放大裁除外圍地磚。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TC-001",
@@ -1541,7 +1619,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "wikitravel-fengyuan-cover",
-    "photo_note": "近正上方正確FENGYUAN圓形孔蓋；設計由臺中市政府官方資料交叉確認。"
+    "photo_note": "近正上方正確FENGYUAN圓形孔蓋；設計由臺中市政府官方資料交叉確認。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "CH-001",
@@ -1586,7 +1666,9 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "扇形車庫與火車頭",
     "display_area": "彰化縣 彰化市",
-    "image_storage": "local_project_asset"
+    "image_storage": "local_project_asset",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "YL-BG-001",
@@ -1630,7 +1712,9 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "獅守",
     "display_area": "雲林縣 北港鎮",
-    "image_storage": "local_project_asset"
+    "image_storage": "local_project_asset",
+    "master_status": "orange",
+    "master_status_label": "橘色｜缺正式圖"
   },
   {
     "id": "YL-HW-001",
@@ -1676,7 +1760,9 @@
     "pictogram_basis": "依GKP官方31類與現有官方名稱/設計說明保守判定；無明確證據維持未確認。",
     "display_title": "特色虎尾",
     "display_area": "雲林縣 虎尾鎮",
-    "image_storage": "local_project_asset"
+    "image_storage": "local_project_asset",
+    "master_status": "orange",
+    "master_status_label": "橘色｜缺正式圖"
   },
   {
     "id": "TN-003",
@@ -1721,7 +1807,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "wikitravel-tainan-xiacukangqi",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-004",
@@ -1761,7 +1849,9 @@
     "display_title": "佛頭港",
     "display_area": "臺南市 中西區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。"
+    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-007",
@@ -1806,7 +1896,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "ltn-tainan-baoxigong",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-011",
@@ -1849,7 +1941,9 @@
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
-    "official_visual_verified": true
+    "official_visual_verified": true,
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-005",
@@ -1889,7 +1983,9 @@
     "display_title": "外觀帝港",
     "display_area": "臺南市 中西區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。"
+    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-012",
@@ -1930,7 +2026,9 @@
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
-    "official_visual_verified": true
+    "official_visual_verified": true,
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-PJ-02",
@@ -1980,7 +2078,9 @@
     "cover_pos_y": "50%",
     "photo_source_id": "housefun-tainan-benmiaobian-straight",
     "image_treatment": "full_outer_ring_360",
-    "photo_note": "改用較接近正面、完整保留本廟邊角外圈的照片。"
+    "photo_note": "改用較接近正面、完整保留本廟邊角外圈的照片。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-008",
@@ -2025,7 +2125,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "note-tainan-shataogong",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-010",
@@ -2085,7 +2187,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "tainan-17-covers-2026",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-006",
@@ -2125,7 +2229,9 @@
     "display_title": "看西街教會",
     "display_area": "臺南市 中西區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。"
+    "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-009",
@@ -2172,7 +2278,9 @@
     "cover_pos_x": "50%",
     "cover_pos_y": "50%",
     "photo_source_id": "owlting-tainan-yeshitao",
-    "image_treatment": "full_outer_ring_360"
+    "image_treatment": "full_outer_ring_360",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-001",
@@ -2218,7 +2326,9 @@
     "cover_pos_y": "50%",
     "photo_source_id": "merit-times-tainan-shijingkou",
     "image_treatment": "full_outer_ring_360",
-    "photo_note": "使用接近正面的試經口照片，完整保留黑色外圈。"
+    "photo_note": "使用接近正面的試經口照片，完整保留黑色外圈。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-013",
@@ -2261,7 +2371,9 @@
     "official_location_scope": "臺南市中西區郡緯街、海安路、成功路、國華街周邊巷弄。",
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
-    "official_visual_verified": true
+    "official_visual_verified": true,
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-016",
@@ -2295,7 +2407,9 @@
     "display_title": "三月桃花－楊六郎",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-015",
@@ -2329,7 +2443,9 @@
     "display_title": "二月杏花－楊貴妃",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-017",
@@ -2363,7 +2479,9 @@
     "display_title": "四月薔薇－張麗華",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-020",
@@ -2394,7 +2512,9 @@
     "display_title": "巧月鳳仙－石崇",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-021",
@@ -2427,7 +2547,9 @@
     "display_title": "桂月桂花－綠珠",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-014",
@@ -2462,7 +2584,9 @@
     "display_title": "正月梅花－柳夢梅",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-025",
@@ -2495,7 +2619,9 @@
     "display_title": "臘月臘梅－老令婆",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-019",
@@ -2530,7 +2656,9 @@
     "display_title": "荔月蓮花－西施",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-022",
@@ -2564,7 +2692,9 @@
     "display_title": "菊月菊花－陶淵明",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-024",
@@ -2599,7 +2729,9 @@
     "display_title": "葭月山茶－白樂天",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-018",
@@ -2633,7 +2765,9 @@
     "display_title": "蒲月榴花－鍾馗",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "TN-023",
@@ -2666,7 +2800,9 @@
     "display_title": "陽月芙蓉－謝素秋",
     "display_area": "臺南市 北區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。"
+    "official_location_scope": "臺南市北區北華街、裕民街、長北街及周邊巷弄。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成"
   },
   {
     "id": "KH-001",
@@ -2694,93 +2830,199 @@
     "display_title": "新崛江街區新式美化孔蓋",
     "display_area": "高雄市 新興區",
     "image_storage": "local_project_asset",
-    "official_location_scope": "高雄市新興區新崛江街區"
+    "official_location_scope": "高雄市新興區新崛江街區",
+    "master_status": "red",
+    "master_status_label": "紅色｜需查證／重整"
+  },
+  {
+    "id": "TY-PW-001",
+    "name": "桃園污水－水環境圖樣",
+    "city": "桃園市",
+    "district": "桃園區",
+    "theme": "水環境",
+    "project": "桃園污水系統",
+    "description": "以河川、植物與水環境元素呈現桃園污水系統的生態意象。",
+    "image": "assets/images/covers/TY-PW-001.png",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "pictograms": [
+      "river",
+      "tree",
+      "bird",
+      "flower"
+    ],
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市",
+    "display_title": "桃園污水－水環境圖樣",
+    "v1_52_note": "V1.52 新增整理版。"
+  },
+  {
+    "id": "TY-ZL-001",
+    "name": "中壢系統－中壢車站",
+    "city": "桃園市",
+    "district": "中壢區",
+    "theme": "交通",
+    "project": "桃園污水系統",
+    "description": "以中壢車站建築為主題，呈現在地交通與都市歷史。",
+    "image": "assets/images/covers/TY-ZL-001.png",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "pictograms": [
+      "rail",
+      "historic"
+    ],
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市 中壢區",
+    "display_title": "中壢系統－中壢車站",
+    "v1_52_note": "V1.52 新增整理版。"
+  },
+  {
+    "id": "TY-RW-001",
+    "name": "桃園系統－雨水款",
+    "city": "桃園市",
+    "district": "桃園區",
+    "theme": "雨水",
+    "project": "桃園雨水系統",
+    "description": "以雨水循環、排水與自然共生為主題。",
+    "image": "assets/images/covers/TY-RW-001.png",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "pictograms": [
+      "river"
+    ],
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市",
+    "display_title": "桃園系統－雨水款",
+    "v1_52_note": "V1.52 新增整理版。"
+  },
+  {
+    "id": "TY-DX-HP-001",
+    "name": "大溪和平老街－牌樓地磚",
+    "city": "桃園市",
+    "district": "大溪區",
+    "theme": "歷史街區",
+    "project": "大溪和平老街",
+    "description": "和平老街牌樓意象，結合在地歷史街區特色。",
+    "image": "assets/images/covers/TY-DX-HP-001.png",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
+    "cover_shape": "square",
+    "pictograms": [
+      "historic"
+    ],
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市 大溪區",
+    "display_title": "大溪和平老街－牌樓地磚",
+    "v1_52_note": "V1.52 新增整理版。"
   },
   {
     "id": "TY-FLY-001",
     "name": "桃市污水－航系統（航空意象）",
     "city": "桃園市",
     "district": "大園區",
-    "theme": "航空／城市",
+    "theme": "航空",
     "project": "桃園污水系統",
-    "verification": "user_master_table_approved",
-    "location_mode": "area_pending_exact",
+    "description": "以飛機、城市與航空意象構成的航系統特色孔蓋。",
     "image": "assets/images/covers/TY-FLY-001.png",
-    "image_status": "curated_reference_installed",
-    "display_processing": "curated_crop",
-    "photo_authenticity": "curated_reference_visual",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
     "pictograms": [
-      "vehicle",
-      "river"
+      "vehicle"
     ],
-    "description": "以飛機、城市天際線與水波為主題的航空意象款。",
-    "display_title": "航系統－航空意象",
-    "display_area": "桃園市 大園區",
-    "image_storage": "local_curated_reference"
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市",
+    "display_title": "桃市污水－航系統",
+    "v1_52_note": "使用者已確認修圖版本。"
   },
   {
     "id": "TY-FLY2-001",
     "name": "桃市污水－航2系統",
     "city": "桃園市",
     "district": "大園區",
-    "theme": "航空／城市",
+    "theme": "航空",
     "project": "桃園污水系統",
-    "verification": "user_master_table_approved",
-    "location_mode": "area_pending_exact",
+    "description": "航2系統飛機與城市天際線主題。",
     "image": "assets/images/covers/TY-FLY2-001.png",
-    "image_status": "curated_reference_installed",
-    "display_processing": "curated_crop",
-    "photo_authenticity": "curated_reference_visual",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
     "pictograms": [
       "vehicle"
     ],
-    "description": "以飛機、雲層、太陽與城市為主題的航2系統款。",
-    "display_title": "航2系統",
-    "display_area": "桃園市 大園區",
-    "image_storage": "local_curated_reference"
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市",
+    "display_title": "桃市污水－航2系統",
+    "v1_52_note": "使用者已確認修圖版本。"
   },
   {
     "id": "TY-XW-GY-001",
     "name": "桃市污水－新屋觀音系統",
     "city": "桃園市",
     "district": "新屋區／觀音區",
-    "theme": "海岸／風力",
+    "theme": "海岸",
     "project": "桃園污水系統",
-    "verification": "user_master_table_approved",
-    "location_mode": "area_pending_exact",
+    "description": "以海岸、風力發電與水鳥等元素呈現新屋、觀音沿海特色。",
     "image": "assets/images/covers/TY-XW-GY-001.png",
-    "image_status": "curated_reference_installed",
-    "display_processing": "curated_crop",
-    "photo_authenticity": "curated_reference_visual",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
     "pictograms": [
       "bird",
       "sea"
     ],
-    "description": "以風力發電、海岸石滬與水鳥為主題，呈現新屋與觀音沿海特色。",
-    "display_title": "新屋觀音系統",
-    "display_area": "桃園市 新屋區／觀音區",
-    "image_storage": "local_curated_reference"
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市 新屋／觀音",
+    "display_title": "桃市污水－新屋觀音系統",
+    "v1_52_note": "使用者已確認修圖版本。"
   },
   {
     "id": "TY-H2-001",
     "name": "桃市污水－航2系統（臨海景觀款）",
     "city": "桃園市",
     "district": "大園區",
-    "theme": "海岸／橋梁",
+    "theme": "臨海景觀",
     "project": "桃園污水系統",
-    "verification": "user_master_table_approved",
-    "location_mode": "area_pending_exact",
+    "description": "以臨海景觀、橋梁、水岸與航2系統意象呈現。",
     "image": "assets/images/covers/TY-H2-001.png",
-    "image_status": "curated_reference_installed",
-    "display_processing": "curated_crop",
-    "photo_authenticity": "curated_reference_visual",
+    "image_status": "official_real_processed_local",
+    "image_storage": "local_v1_52",
+    "display_processing": "user_approved_cleaned",
+    "photo_authenticity": "user_supplied_reference_cleaned",
     "pictograms": [
       "bridge",
       "sea"
     ],
-    "description": "以臨海建築、橋梁與水域景觀構成的航2系統景觀款。",
+    "master_status": "green",
+    "master_status_label": "綠色｜已完成",
+    "location_mode": "district_only",
+    "display_area": "桃園市",
     "display_title": "航2系統－臨海景觀款",
-    "display_area": "桃園市 大園區",
-    "image_storage": "local_curated_reference"
+    "v1_52_note": "使用者已確認修圖版本。"
   }
 ]

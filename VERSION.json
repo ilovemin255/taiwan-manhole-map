@@ -1,0 +1,11 @@
+{
+  "name": "taiwan-manhole-map",
+  "version": "1.52",
+  "release": "V1.52",
+  "generated_at": "2026-08-30",
+  "notes": [
+    "Taoyuan image updates included",
+    "Master Table included",
+    "Green/yellow/orange/red tracking included"
+  ]
+}
