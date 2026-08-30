@@ -2,20 +2,20 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>台灣特色人孔蓋地圖 V1.39.23.21</title>
+<title>台灣特色人孔蓋地圖 V1.39.23.24</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<header><div class="nav"><div class="brand">🇹🇼 台灣特色人孔蓋地圖<small>TAIWAN MANHOLE COVER MAP · V1.39.23.21</small></div><div class="navActions" aria-label="主要功能"><a class="btn ghost" href="missions.html">📷 外拍任務</a> <a class="btn ghost" href="backup.html">🗄️ Backup</a> <a class="btn primary" href="#explore" onclick="setTimeout(()=>window.scrollTo({top:document.getElementById('explore').offsetTop-70,behavior:'smooth'}),0)">探索地圖</a></div></div></header>
-<section class="hero"><div class="heroBox"><h1>從「設計資料庫」走向真正可逛的地圖</h1><p>V1.39.23.21 新增官方範圍圖、來源面板、可信度標示與區域導航。精確 GPS 未逐點驗證前，仍不會用猜測座標冒充實際孔蓋位置。</p></div><div class="notice"><strong>座標原則：</strong>「官方設計已確認」不等於「精確 GPS 已確認」。橘色範圍與區域中心只是按官方探索圖建立的導覽層。</div></section>
+<header><div class="nav"><div class="brand">🇹🇼 台灣特色人孔蓋地圖<small>TAIWAN MANHOLE COVER MAP · V1.39.23.24</small></div><div class="navActions" aria-label="主要功能"><a class="btn ghost" href="missions.html">📷 外拍任務</a> <a class="btn ghost" href="backup.html">🗄️ Backup</a> <a class="btn primary" href="#explore" onclick="setTimeout(()=>window.scrollTo({top:document.getElementById('explore').offsetTop-70,behavior:'smooth'}),0)">探索地圖</a></div></div></header>
+<section class="hero"><div class="heroBox"><h1>從「設計資料庫」走向真正可逛的地圖</h1><p>V1.39.23.24 新增官方範圍圖、來源面板、可信度標示與區域導航。精確 GPS 未逐點驗證前，仍不會用猜測座標冒充實際孔蓋位置。</p></div><div class="notice"><strong>座標原則：</strong>「官方設計已確認」不等於「精確 GPS 已確認」。橘色範圍與區域中心只是按官方探索圖建立的導覽層。</div></section>
 <main id="explore">
 <div class="stats"><div class="stat"><div class="num" id="total">0</div>已盤點設計</div><div class="stat"><div class="num" id="shown">0</div>目前顯示</div><div class="stat"><div class="num" id="zonesCount">0</div>官方範圍區</div><div class="stat"><div class="num" id="exact">0</div>精確GPS點</div></div>
 <div class="tools"><input id="q" class="field" placeholder="🔍 搜尋名稱、縣市、行政區或主題"><select id="city" class="field"></select><select id="theme" class="field"></select><select id="photo" class="field"><option value="">全部照片狀態</option><option value="official">已實裝官方真實視覺</option><option value="missing">尚待照片實裝</option></select><button id="executeSearch" class="primary executeSearchBtn" type="button">🔎 搜尋</button><button id="reset" class="ghost" type="button">清除</button></div>
 <div class="layout"><div id="map"></div><aside class="panel"><h3>資料來源</h3><div id="sources"></div><h3>可導航的官方確認場域</h3><div id="sites"></div></aside></div>
-<section class="notice"><strong>V1.39.23.21 臺北定位驗證流程</strong><br>① 官方設計 → ② 官方主題地圖 → ③ 臺北雨水人孔 GIS（X/Y、人孔編號、道路、蓋型）→ ④ 交叉吻合後才升級為精確 Marker。第一期官方確認 25 座；目前不把地標中心當作人孔蓋 GPS。</section><section class="notice"><strong>V1.39.23.21 精確定位資料棧已完成</strong><br>V1.39.23.21 已把官方視覺來源直接接到每張卡片：臺北24款可前往官方設計頁，臺南Part2四款可前往官方探索圖，臺中兩款可前往市府實體照片來源。真正可打包的本地圖片仍只在取得原始檔與使用權確認後替換。</section><section class="notice"><strong>V1.39.23.21 新增臺中與彰化</strong><br>
-臺中：太平「鳥榕頭」與水湳主題已接入市府官方正上方實拍。彰化：新增「扇形車庫與火車頭」污水人孔設計紀錄；扇形車庫目前只標為設計靈感地標，不冒充人孔精確位置。</section><section class="notice"><strong>V1.39.23.21 臺南正式擴充</strong><br>
-依2026年最新官方資料，臺南「十二花神」12款已全數完成；連同普濟殿、永樂市場、蝸牛巷既有13款，目前官方已確認25款特色孔蓋。網站新增四個官方尋訪區，沒有單座證據的位置仍不冒充精確GPS。</section><section class="auditNote"><strong>V1.39.23 GitHub Pages 穩定版</strong><br>
+<section class="notice"><strong>V1.39.23.24 臺北定位驗證流程</strong><br>① 官方設計 → ② 官方主題地圖 → ③ 臺北雨水人孔 GIS（X/Y、人孔編號、道路、蓋型）→ ④ 交叉吻合後才升級為精確 Marker。第一期官方確認 25 座；目前不把地標中心當作人孔蓋 GPS。</section><section class="notice"><strong>V1.39.23.24 精確定位資料棧已完成</strong><br>V1.39.23.24 已把官方視覺來源直接接到每張卡片：臺北24款可前往官方設計頁，臺南Part2四款可前往官方探索圖，臺中兩款可前往市府實體照片來源。真正可打包的本地圖片仍只在取得原始檔與使用權確認後替換。</section><section class="notice"><strong>V1.39.23.24 新增臺中與彰化</strong><br>
+臺中：太平「鳥榕頭」與水湳主題已接入市府官方正上方實拍。彰化：新增「扇形車庫與火車頭」污水人孔設計紀錄；扇形車庫目前只標為設計靈感地標，不冒充人孔精確位置。</section><section class="notice"><strong>V1.39.23.24 臺南正式擴充</strong><br>
+依2026年最新官方資料，臺南「十二花神」12款已全數完成；連同普濟殿、永樂市場、蝸牛巷既有13款，目前官方已確認25款特色孔蓋。網站新增四個官方尋訪區，沒有單座證據的位置仍不冒充精確GPS。</section><section class="auditNote"><strong>V1.39.23.24 GitHub Pages 穩定版</strong><br>
 63 筆人孔蓋卡片已直接寫進 HTML。就算 JavaScript、JSON 或外部地圖失敗，卡片仍會顯示。</section>
 <h2 id="resultsHeading">📚 特色人孔蓋資料庫</h2>
 <div id="staticCards" class="cards staticCards" hidden>
@@ -329,7 +329,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TY-GS-001">
   <div class="coverWrap coverOnly roundCover">
-    <img src="assets/images/covers/TY-GS-001.jpg" alt="龜山系統－酒廠與壽山巖觀音寺" loading="lazy"
+    <img src="assets/images/covers/TY-GS-001-user.png" alt="龜山系統－酒廠與壽山巖觀音寺" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TY-GS-001.jpg'">
   </div>
   <div class="coverCaption">
@@ -340,7 +340,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TC-003">
   <div class="coverWrap coverOnly roundCover">
-    <img src="https://image-cdn.learnin.tw/bnextmedia/image/album/2017-09/img-1505792736-38218.jpg?output=webp&amp;w=1600" alt="綠川水岸品牌" loading="lazy"
+    <img src="assets/images/covers/TC-003-user.png" alt="綠川水岸品牌" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TC-003.jpg'">
   </div>
   <div class="coverCaption">
@@ -362,7 +362,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TC-004">
   <div class="coverWrap coverOnly squareCover">
-    <img src="https://megapx-assets.dcard.tw/images/a2617853-4101-4fa1-b4a7-ee1c6cb934a8/1280.jpeg" alt="草悟道孔蓋彩繪" loading="lazy"
+    <img src="assets/images/covers/TC-004-user.png" alt="草悟道孔蓋彩繪" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TC-004.jpg'">
   </div>
   <div class="coverCaption">
@@ -395,7 +395,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="CH-001">
   <div class="coverWrap coverOnly roundCover">
-    <img src="assets/images/covers/CH-001.jpg" alt="扇形車庫與火車頭" loading="lazy"
+    <img src="assets/images/covers/CH-001-user.png" alt="扇形車庫與火車頭" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/CH-001.jpg'">
   </div>
   <div class="coverCaption">
@@ -428,7 +428,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TN-003">
   <div class="coverWrap coverOnly roundCover">
-    <img src="https://wikitravel.org/upload/shared/f/ff/Manhole_cover_003%2C_West_Central_District%2C_Tainan%2C_Taiwan.JPG" alt="下粗糠崎" loading="lazy"
+    <img src="assets/images/covers/TN-003-user.png" alt="下粗糠崎" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TN-003.jpg'">
   </div>
   <div class="coverCaption">
@@ -450,7 +450,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TN-007">
   <div class="coverWrap coverOnly roundCover">
-    <img src="https://img.ltn.com.tw/Upload/art/page/800/2023/07/17/4366490_1.jpg" alt="保西宮" loading="lazy"
+    <img src="assets/images/covers/TN-007-user.png" alt="保西宮" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TN-007.jpg'">
   </div>
   <div class="coverCaption">
@@ -505,7 +505,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TN-008">
   <div class="coverWrap coverOnly roundCover">
-    <img src="https://assets.st-note.com/production/uploads/images/248141910/rectangle_large_type_2_23fa6b6958d991a4efef2b7982db8c72.jpeg?fit=bounds&amp;height=2000&amp;quality=85&amp;width=2000" alt="沙淘宮" loading="lazy"
+    <img src="assets/images/covers/TN-008-user.png" alt="沙淘宮" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TN-008.jpg'">
   </div>
   <div class="coverCaption">
@@ -516,7 +516,7 @@
 </article>
 <article class="photoCard staticFallbackCard" data-static-id="TN-010">
   <div class="coverWrap coverOnly roundCover">
-    <img src="https://w3fs.tainan.gov.tw/001/Upload/1/relpic/9748/8798155/b7a77fc3-26ff-4c02-9d72-fd460af5da2c.jpg" alt="牛塭堀角" loading="lazy"
+    <img src="assets/images/covers/TN-010-user.png" alt="牛塭堀角" loading="lazy"
       onerror="this.onerror=null;this.src='assets/images/covers/TN-010.jpg'">
   </div>
   <div class="coverCaption">
@@ -714,6 +714,6 @@
 </article>
 </div><div id="cards" class="cards dynamicCards"></div>
 </main>
-<footer>台灣特色人孔蓋地圖 · V1.39.23.21 · 官方資料優先 · 精確位置逐點核驗中</footer>
-<script src="assets/js/data-bundle.js?v=1.39.23"></script><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/app.js?v=1.39.23"></script>
+<footer>台灣特色人孔蓋地圖 · V1.39.23.24 · 官方資料優先 · 精確位置逐點核驗中</footer>
+<script src="assets/js/data-bundle.js"></script><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/app.js"></script>
 </body></html>
