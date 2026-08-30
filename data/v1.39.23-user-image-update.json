@@ -1,0 +1,46 @@
+{
+  "version": "1.39.23",
+  "base": "1.39.22",
+  "updated_visuals": [
+    {
+      "id": "TY-GS-001",
+      "name": "龜山系統－酒廠與壽山巖觀音寺",
+      "image": "assets/images/covers/TY-GS-001-v13923.png"
+    },
+    {
+      "id": "TC-003",
+      "name": "綠川水岸品牌",
+      "image": "assets/images/covers/TC-003-v13923.png"
+    },
+    {
+      "id": "TC-004",
+      "name": "草悟道孔蓋彩繪",
+      "image": "assets/images/covers/TC-004-v13923.png"
+    },
+    {
+      "id": "CH-001",
+      "name": "扇形車庫與火車頭",
+      "image": "assets/images/covers/CH-001-v13923.png"
+    },
+    {
+      "id": "TN-003",
+      "name": "下粗糠崎",
+      "image": "assets/images/covers/TN-003-v13923.png"
+    },
+    {
+      "id": "TN-007",
+      "name": "保西宮",
+      "image": "assets/images/covers/TN-007-v13923.png"
+    },
+    {
+      "id": "TN-008",
+      "name": "沙淘宮",
+      "image": "assets/images/covers/TN-008-v13923.png"
+    },
+    {
+      "id": "TN-010",
+      "name": "牛塭堀角",
+      "image": "assets/images/covers/TN-010-v13923.png"
+    }
+  ]
+}
