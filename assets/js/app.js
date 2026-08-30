@@ -329,7 +329,7 @@ function renderCards(list) {
   }
 
   el.innerHTML = list.map(d => {
-    const installed = ["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo"].includes(d.image_status);
+    const installed = ["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo","user_provided_reference_visual"].includes(d.image_status);
     return `
       <article class="card photoCard">
         <div class="coverWrap ${installed ? "realInstalled" : "pendingImage"} ${d.taipei_image_crop ? "taipeiSheetCrop" : ""} ${d.cover_only ? "coverOnly" : ""} ${d.cover_shape === "square" ? "squareCover" : "roundCover"}"
@@ -352,7 +352,7 @@ function renderCards(list) {
         <h3 class="legacyCardTitle">${d.name}</h3>
         <p class="muted">${d.description || d.project || ""}</p>
         <div class="dataQuality">
-          <span>照片：${["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo"].includes(d.image_status) ? "已實裝" : (d.official_photo_verified ? "官方照片已找到" : "待補")}</span>
+          <span>照片：${["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo","user_provided_reference_visual"].includes(d.image_status) ? "已實裝" : (d.official_photo_verified ? "官方照片已找到" : "待補")}</span>
           <span>位置：${d.location_mode === "temporary_search_marker" ? "暫定尋訪點" : (d.location_mode && d.location_mode.includes("exact") ? "精確" : "區域/待補")}</span>
         </div>
         ${d.field_search_area ? `<div class="huntArea"><strong>📍 尋訪範圍</strong><br>${d.field_search_area}${d.installation_evidence ? `<br><small>${d.installation_evidence}</small>` : ""}</div>` : ""}
@@ -360,7 +360,7 @@ function renderCards(list) {
         ${pictogramStrip(d)}
 
         ${photoStatusText(d)}
-        ${installed ? `<div class="photoSourceBadge">✓ 真實官方視覺｜圓形裁切＋統一淺灰底顯示</div>` : ""}
+        ${installed ? `<div class="photoSourceBadge">${d.image_status === "user_provided_reference_visual" ? "✓ 使用者提供視覺｜已實裝" : "✓ 真實官方視覺｜圓形裁切＋統一淺灰底顯示"}</div>` : ""}
         ${d.official_photo_verified && !installed ? `<div class="photoSourceBadge">✓ 已找到官方實拍來源｜原始圖檔待安全實裝</div>` : ""}
 
       </article>
