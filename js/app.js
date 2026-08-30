@@ -348,7 +348,6 @@ function renderCards(list) {
         <span class="tag">${d.city}</span>
         <span class="tag">${d.district}</span>
         <span class="tag">${d.theme}</span>
-        ${d.master_status ? `<span class="masterStatus status-${d.master_status}">${d.master_status_label || d.master_status}</span>` : ""}
 
         <h3 class="legacyCardTitle">${d.name}</h3>
         <p class="muted">${d.description || d.project || ""}</p>
