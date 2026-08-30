@@ -508,7 +508,7 @@ footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:
 }
 .dynamicCards[hidden], .staticCards[hidden]{display:none!important}
 
-/* V1.39.23 one visible card system at a time */
+/* V1.39.22 one visible card system at a time */
 .staticCards[hidden], .dynamicCards[hidden]{display:none!important}
 #staticCards:not([hidden]), #cards:not([hidden]){
   display:grid!important;
