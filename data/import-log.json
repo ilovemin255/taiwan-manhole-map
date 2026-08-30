@@ -1,7 +1,7 @@
 {
-  "version": "1.39.22",
+  "version": "1.52",
   "generated": "2026-08-28",
-  "catalog_records": 60,
+  "catalog_records": 67,
   "official_visual_reference_count": 30,
   "needs_user_photo_count": 26,
   "verified_exact_points": 0,
@@ -102,7 +102,8 @@
     "GitHub Pages不再可能因JS失敗整片空白",
     "修正動態/靜態卡片同時顯示",
     "靜態備援預設隱藏",
-    "啟動失敗才切換備援"
+    "啟動失敗才切換備援",
+    "V1.52: 桃園 Master Table 核准版；新增4款整理視覺與卡片，缺件/待查證不冒充正式圖。"
   ],
   "hotfixes": [
     "修正 app.js 照片篩選函式缺少右括號的 SyntaxError",

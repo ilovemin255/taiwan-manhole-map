@@ -2695,5 +2695,92 @@
     "display_area": "高雄市 新興區",
     "image_storage": "local_project_asset",
     "official_location_scope": "高雄市新興區新崛江街區"
+  },
+  {
+    "id": "TY-FLY-001",
+    "name": "桃市污水－航系統（航空意象）",
+    "city": "桃園市",
+    "district": "大園區",
+    "theme": "航空／城市",
+    "project": "桃園污水系統",
+    "verification": "user_master_table_approved",
+    "location_mode": "area_pending_exact",
+    "image": "assets/images/covers/TY-FLY-001.png",
+    "image_status": "curated_reference_installed",
+    "display_processing": "curated_crop",
+    "photo_authenticity": "curated_reference_visual",
+    "pictograms": [
+      "vehicle",
+      "river"
+    ],
+    "description": "以飛機、城市天際線與水波為主題的航空意象款。",
+    "display_title": "航系統－航空意象",
+    "display_area": "桃園市 大園區",
+    "image_storage": "local_curated_reference"
+  },
+  {
+    "id": "TY-FLY2-001",
+    "name": "桃市污水－航2系統",
+    "city": "桃園市",
+    "district": "大園區",
+    "theme": "航空／城市",
+    "project": "桃園污水系統",
+    "verification": "user_master_table_approved",
+    "location_mode": "area_pending_exact",
+    "image": "assets/images/covers/TY-FLY2-001.png",
+    "image_status": "curated_reference_installed",
+    "display_processing": "curated_crop",
+    "photo_authenticity": "curated_reference_visual",
+    "pictograms": [
+      "vehicle"
+    ],
+    "description": "以飛機、雲層、太陽與城市為主題的航2系統款。",
+    "display_title": "航2系統",
+    "display_area": "桃園市 大園區",
+    "image_storage": "local_curated_reference"
+  },
+  {
+    "id": "TY-XW-GY-001",
+    "name": "桃市污水－新屋觀音系統",
+    "city": "桃園市",
+    "district": "新屋區／觀音區",
+    "theme": "海岸／風力",
+    "project": "桃園污水系統",
+    "verification": "user_master_table_approved",
+    "location_mode": "area_pending_exact",
+    "image": "assets/images/covers/TY-XW-GY-001.png",
+    "image_status": "curated_reference_installed",
+    "display_processing": "curated_crop",
+    "photo_authenticity": "curated_reference_visual",
+    "pictograms": [
+      "bird",
+      "sea"
+    ],
+    "description": "以風力發電、海岸石滬與水鳥為主題，呈現新屋與觀音沿海特色。",
+    "display_title": "新屋觀音系統",
+    "display_area": "桃園市 新屋區／觀音區",
+    "image_storage": "local_curated_reference"
+  },
+  {
+    "id": "TY-H2-001",
+    "name": "桃市污水－航2系統（臨海景觀款）",
+    "city": "桃園市",
+    "district": "大園區",
+    "theme": "海岸／橋梁",
+    "project": "桃園污水系統",
+    "verification": "user_master_table_approved",
+    "location_mode": "area_pending_exact",
+    "image": "assets/images/covers/TY-H2-001.png",
+    "image_status": "curated_reference_installed",
+    "display_processing": "curated_crop",
+    "photo_authenticity": "curated_reference_visual",
+    "pictograms": [
+      "bridge",
+      "sea"
+    ],
+    "description": "以臨海建築、橋梁與水域景觀構成的航2系統景觀款。",
+    "display_title": "航2系統－臨海景觀款",
+    "display_area": "桃園市 大園區",
+    "image_storage": "local_curated_reference"
   }
 ]
