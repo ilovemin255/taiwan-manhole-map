@@ -1316,16 +1316,21 @@
       "歷史建築",
       "名物品"
     ],
-    "image": "assets/images/covers/TY-GS-001-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TY-GS-001-user.png",
+    "image_status": "user_provided_reference_visual",
     "source_ids": [
       "taoyuan-local-covers-2020"
     ],
     "display_area": "桃園市 龜山區",
     "verification": "桃園市水務局說明經新聞採訪確認",
-    "image_kind": "user_supplied_collage_crop",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像",
+    "image_kind": "user_provided_reference_visual",
+    "photo_authenticity": "user_provided_reference_visual",
+    "cover_only": true,
+    "cover_shape": "round",
+    "cover_scale": 1.0,
+    "cover_pos_x": "50%",
+    "cover_pos_y": "50%"
   },
   {
     "id": "TC-003",
@@ -1341,11 +1346,11 @@
     ],
     "location_mode": "official_area_verified",
     "description": "以綠川專屬品牌LOGO呈現中區舊城與白鷺鷥、水岸景觀意象。",
-    "image": "assets/images/covers/TC-003-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TC-003-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": null,
     "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed",
+    "photo_authenticity": "user_provided_reference_visual",
     "pictograms": [
       "bird",
       "advertising",
@@ -1356,7 +1361,7 @@
     "display_title": "綠川水岸品牌",
     "display_area": "臺中市 中區",
     "image_storage": "remote_verified_photo",
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -1365,8 +1370,7 @@
     "photo_source_id": "shoppingdesign-green-river-cover",
     "photo_note": "目前可取得的綠川品牌孔蓋照片；彩色LOGO孔蓋另有官方工程資料佐證。",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TC-002",
@@ -1432,11 +1436,11 @@
     ],
     "location_mode": "official_corridor_verified",
     "description": "第二屆台中美樂地公園競圖人孔蓋板類別優勝作品，官方確認已於草悟道（經國綠園道）沿線設置27處。",
-    "image": "assets/images/covers/TC-004-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TC-004-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": null,
     "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed",
+    "photo_authenticity": "user_provided_reference_visual",
     "pictograms": [
       "fruit",
       "sight"
@@ -1445,7 +1449,7 @@
     "display_title": "草悟道孔蓋彩繪",
     "display_area": "臺中市 西區",
     "image_storage": "remote_verified_photo",
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "square",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -1454,8 +1458,7 @@
     "photo_source_id": "dcard-calligraphy-greenway-cover",
     "photo_note": "實物照片為方形孔蓋，因此保留方形外框，不假造圓形。",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TC-005",
@@ -1564,9 +1567,9 @@
     ],
     "location_mode": "temporary_search_marker",
     "description": "彰化縣政府已確認「扇形車庫」為彰化市污水人孔圖案。依使用者指定，暫以彰化扇形車庫作為尋訪 Marker；實際孔蓋位置仍待補登。",
-    "image": "assets/images/covers/CH-001-user-collage.png",
-    "image_status": "user_supplied_visual",
-    "image_kind": "user_supplied_collage_crop",
+    "image": "assets/images/covers/CH-001-user.png",
+    "image_status": "user_provided_reference_visual",
+    "image_kind": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_government_record",
       "source_url": "https://planning.chcg.gov.tw/getFile.aspx?did=16611&file=2&file_id=135470&type=2",
@@ -1581,7 +1584,7 @@
       "needs_exact_location": true
     },
     "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "彰化扇形車庫周邊（暫定）",
     "installation_status": "design_verified_exact_installation_pending",
     "pictograms": [
@@ -1594,8 +1597,12 @@
     "display_title": "扇形車庫與火車頭",
     "display_area": "彰化縣 彰化市",
     "image_storage": "local_project_asset",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像",
+    "cover_only": true,
+    "cover_shape": "round",
+    "cover_scale": 1.0,
+    "cover_pos_x": "50%",
+    "cover_pos_y": "50%"
   },
   {
     "id": "YL-BG-001",
@@ -1701,8 +1708,8 @@
       "wikitravel-tainan-xiacukangqi"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-003-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TN-003-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -1712,7 +1719,7 @@
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
     "display_processing": "official_photo_source_verified_asset_pending",
-    "photo_authenticity": "official_real_photo_source",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
     "installation_status": "officially_installed",
@@ -1723,7 +1730,7 @@
     "display_area": "臺南市 中西區",
     "image_storage": "remote_verified_photo",
     "official_location_scope": "臺南市中西區海安路、國華街周邊巷弄；依官方探索地圖查核。",
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -1731,8 +1738,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "wikitravel-tainan-xiacukangqi",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TN-004",
@@ -1787,8 +1793,8 @@
       "ltn-tainan-baoxigong"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-007-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TN-007-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -1798,7 +1804,7 @@
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
     "display_processing": "official_photo_source_verified_asset_pending",
-    "photo_authenticity": "official_real_photo_source",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
     "installation_status": "officially_installed",
@@ -1810,7 +1816,7 @@
     "display_title": "保西宮",
     "display_area": "臺南市 中西區",
     "image_storage": "remote_verified_photo",
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -1818,8 +1824,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "ltn-tainan-baoxigong",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TN-011",
@@ -2008,8 +2013,8 @@
       "note-tainan-shataogong"
     ],
     "location_mode": "official_search_area",
-    "image": "assets/images/covers/TN-008-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TN-008-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2019,7 +2024,7 @@
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
     "display_processing": "official_photo_source_verified_asset_pending",
-    "photo_authenticity": "official_real_photo_source",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "蝸牛巷歷史街區",
     "installation_evidence": "官方確認3款。",
     "installation_status": "officially_installed",
@@ -2031,7 +2036,7 @@
     "display_title": "沙淘宮",
     "display_area": "臺南市 中西區",
     "image_storage": "remote_verified_photo",
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -2039,8 +2044,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "note-tainan-shataogong",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TN-010",
@@ -2058,8 +2062,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "取材自舊時牛車、農務與泥水休憩的地方傳說，呈現農業生活歷史。",
-    "image": "assets/images/covers/TN-010-user-collage.png",
-    "image_status": "user_supplied_visual",
+    "image": "assets/images/covers/TN-010-user.png",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
@@ -2069,7 +2073,7 @@
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
     "display_processing": "official_photo_source_verified_asset_pending",
-    "photo_authenticity": "official_real_photo_source",
+    "photo_authenticity": "user_provided_reference_visual",
     "field_search_area": "郡緯街、海安路、成功路、國華街周邊巷弄",
     "installation_evidence": "官方確認7款；其中2024新增4款共40處。",
     "installation_status": "officially_installed",
@@ -2093,7 +2097,7 @@
     "official_visual_pdf": "https://w3fs.tainan.gov.tw/Download.ashx?n=5Zyo5Zyw5Lq65paH54m56Imy5a2U6JOL44CN5o6i57Si5Zyw5ZyW5Y%2BK57Ch5LuL6Kqq5piOIFBhcnQyLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMjQvcmVsZmlsZS85NzQ5Lzg3MjIxNjUvYWFmMTEwNzItZDFjMi00Mjc0LTk3NjMtMzIzMThhNDM0MmU2LnBkZg%3D%3D",
     "official_visual_pdf_page": 2,
     "official_visual_verified": true,
-    "image_kind": "user_supplied_collage_crop",
+    "image_kind": "user_provided_reference_visual",
     "cover_shape": "round",
     "cover_only": true,
     "cover_scale": 1.0,
@@ -2101,8 +2105,7 @@
     "cover_pos_y": "50%",
     "photo_source_id": "tainan-17-covers-2026",
     "image_treatment": "full_outer_ring_360",
-    "image_source": "使用者提供合成圖（逐款裁切）",
-    "image_source_url": ""
+    "image_source": "使用者提供／本對話提供之圖像"
   },
   {
     "id": "TN-006",
