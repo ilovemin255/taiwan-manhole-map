@@ -197,6 +197,7 @@ function filteredDesigns() {
     return matchQuery && matchCity && matchTheme && matchPhoto;
   }).sort((a,b) =>
     cityRank(a.city) - cityRank(b.city) ||
+    ((a.city === "臺南市" && b.city === "臺南市") ? ((a.display_order || 999) - (b.display_order || 999)) : 0) ||
     String(a.district || "").localeCompare(String(b.district || ""), "zh-Hant") ||
     String(a.name || "").localeCompare(String(b.name || ""), "zh-Hant")
   );
@@ -329,14 +330,14 @@ function renderCards(list) {
   }
 
   el.innerHTML = list.map(d => {
-    const installed = ["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo","user_provided_reference_visual"].includes(d.image_status);
+    const installed = ["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo"].includes(d.image_status);
     return `
       <article class="card photoCard">
         <div class="coverWrap ${installed ? "realInstalled" : "pendingImage"} ${d.taipei_image_crop ? "taipeiSheetCrop" : ""} ${d.cover_only ? "coverOnly" : ""} ${d.cover_shape === "square" ? "squareCover" : "roundCover"}"
              style="--cover-scale:${d.cover_scale || 1};--cover-pos-x:${d.cover_pos_x || "50%"};--cover-pos-y:${d.cover_pos_y || "50%"}">
-          <img src="${d.image}" alt="${d.name}" loading="lazy"
+          ${d.image ? `<img src="${d.image}" alt="${d.name}" loading="lazy"
                referrerpolicy="no-referrer"
-               onerror="this.src='assets/images/covers/${d.id}.jpg';this.closest('.coverWrap').classList.add('imageFailed')">
+               onerror="this.src='assets/images/covers/${d.id}.jpg';this.closest('.coverWrap').classList.add('imageFailed')">` : `<div class="photoPendingPlaceholder"><strong>${d.name}</strong><span>PHOTO PENDING</span></div>`}
         </div>
 
         <div class="coverCaption">
@@ -348,11 +349,12 @@ function renderCards(list) {
         <span class="tag">${d.city}</span>
         <span class="tag">${d.district}</span>
         <span class="tag">${d.theme}</span>
+        ${d.master_status ? `<span class="masterStatus status-${d.master_status}">${d.master_status_label || d.master_status}</span>` : ""}
 
         <h3 class="legacyCardTitle">${d.name}</h3>
         <p class="muted">${d.description || d.project || ""}</p>
         <div class="dataQuality">
-          <span>照片：${["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo","user_provided_reference_visual"].includes(d.image_status) ? "已實裝" : (d.official_photo_verified ? "官方照片已找到" : "待補")}</span>
+          <span>照片：${["official_real_visual_installed","official_real_photo_installed","official_real_processed_local","official_taipei_stable_png","official_taipei_colored_detail","official_taipei_heo_fallback_png","official_taichung_colored_photo","verified_web_photo"].includes(d.image_status) ? "已實裝" : (d.official_photo_verified ? "官方照片已找到" : "待補")}</span>
           <span>位置：${d.location_mode === "temporary_search_marker" ? "暫定尋訪點" : (d.location_mode && d.location_mode.includes("exact") ? "精確" : "區域/待補")}</span>
         </div>
         ${d.field_search_area ? `<div class="huntArea"><strong>📍 尋訪範圍</strong><br>${d.field_search_area}${d.installation_evidence ? `<br><small>${d.installation_evidence}</small>` : ""}</div>` : ""}
@@ -360,7 +362,7 @@ function renderCards(list) {
         ${pictogramStrip(d)}
 
         ${photoStatusText(d)}
-        ${installed ? `<div class="photoSourceBadge">${d.image_status === "user_provided_reference_visual" ? "✓ 使用者提供視覺｜已實裝" : "✓ 真實官方視覺｜圓形裁切＋統一淺灰底顯示"}</div>` : ""}
+        ${installed ? `<div class="photoSourceBadge">✓ 真實官方視覺｜圓形裁切＋統一淺灰底顯示</div>` : ""}
         ${d.official_photo_verified && !installed ? `<div class="photoSourceBadge">✓ 已找到官方實拍來源｜原始圖檔待安全實裝</div>` : ""}
 
       </article>
