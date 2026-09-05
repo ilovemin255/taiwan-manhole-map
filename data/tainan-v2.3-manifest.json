@@ -1,0 +1,169 @@
+{
+  "version": "V2.3",
+  "tainan_entry_count": 25,
+  "tainan_image_count": 24,
+  "groups": [
+    {
+      "name": "台南特色",
+      "count": 13
+    },
+    {
+      "name": "十二花神",
+      "count": 12,
+      "order": "1月→12月",
+      "missing_image": "蒲月榴花－鍾馗"
+    }
+  ],
+  "order": [
+    {
+      "order": 1,
+      "id": "TN-012",
+      "name": "大廠口角",
+      "image": "assets/images/covers/TN-012.png"
+    },
+    {
+      "order": 2,
+      "id": "TN-011",
+      "name": "十八洞角",
+      "image": "assets/images/covers/TN-011.png"
+    },
+    {
+      "order": 3,
+      "id": "TN-013",
+      "name": "頂粗糠崎",
+      "image": "assets/images/covers/TN-013.png"
+    },
+    {
+      "order": 4,
+      "id": "TN-010",
+      "name": "牛塭堀角",
+      "image": "assets/images/covers/TN-010.png"
+    },
+    {
+      "order": 5,
+      "id": "TN-001",
+      "name": "試經口",
+      "image": "assets/images/covers/TN-001.png"
+    },
+    {
+      "order": 6,
+      "id": "TN-PJ-02",
+      "name": "本廟邊",
+      "image": "assets/images/covers/TN-PJ-02.png"
+    },
+    {
+      "order": 7,
+      "id": "TN-003",
+      "name": "下粗糠崎",
+      "image": "assets/images/covers/TN-003.png"
+    },
+    {
+      "order": 8,
+      "id": "TN-005",
+      "name": "外關帝港",
+      "image": "assets/images/covers/TN-005.png"
+    },
+    {
+      "order": 9,
+      "id": "TN-004",
+      "name": "佛頭港",
+      "image": "assets/images/covers/TN-004.png"
+    },
+    {
+      "order": 10,
+      "id": "TN-008",
+      "name": "沙淘宮",
+      "image": "assets/images/covers/TN-008.png"
+    },
+    {
+      "order": 11,
+      "id": "TN-007",
+      "name": "保西宮",
+      "image": "assets/images/covers/TN-007.png"
+    },
+    {
+      "order": 12,
+      "id": "TN-006",
+      "name": "看西街教會",
+      "image": "assets/images/covers/TN-006.png"
+    },
+    {
+      "order": 13,
+      "id": "TN-009",
+      "name": "葉石濤－宮古座",
+      "image": "assets/images/covers/TN-009.png"
+    },
+    {
+      "order": 14,
+      "id": "TN-014",
+      "name": "正月梅花－柳夢梅",
+      "image": "assets/images/covers/TN-014.png"
+    },
+    {
+      "order": 15,
+      "id": "TN-015",
+      "name": "二月杏花－楊貴妃",
+      "image": "assets/images/covers/TN-015.png"
+    },
+    {
+      "order": 16,
+      "id": "TN-016",
+      "name": "三月桃花－楊六郎",
+      "image": "assets/images/covers/TN-016.png"
+    },
+    {
+      "order": 17,
+      "id": "TN-017",
+      "name": "四月薔薇－張麗華",
+      "image": "assets/images/covers/TN-017.png"
+    },
+    {
+      "order": 18,
+      "id": "TN-018",
+      "name": "蒲月榴花－鍾馗",
+      "image": null
+    },
+    {
+      "order": 19,
+      "id": "TN-019",
+      "name": "荔月蓮花－西施",
+      "image": "assets/images/covers/TN-019.png"
+    },
+    {
+      "order": 20,
+      "id": "TN-020",
+      "name": "巧月鳳仙－石崇",
+      "image": "assets/images/covers/TN-020.png"
+    },
+    {
+      "order": 21,
+      "id": "TN-021",
+      "name": "桂月桂花－綠珠",
+      "image": "assets/images/covers/TN-021.png"
+    },
+    {
+      "order": 22,
+      "id": "TN-022",
+      "name": "菊月菊花－陶淵明",
+      "image": "assets/images/covers/TN-022.png"
+    },
+    {
+      "order": 23,
+      "id": "TN-023",
+      "name": "陽月芙蓉－謝素秋",
+      "image": "assets/images/covers/TN-023.png"
+    },
+    {
+      "order": 24,
+      "id": "TN-024",
+      "name": "葭月山茶－白樂天",
+      "image": "assets/images/covers/TN-024.png"
+    },
+    {
+      "order": 25,
+      "id": "TN-025",
+      "name": "臘月臘梅－老令婆",
+      "image": "assets/images/covers/TN-025.png"
+    }
+  ]
+}
