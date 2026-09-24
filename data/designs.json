@@ -1211,167 +1211,6 @@
     "taipei_image_crop": "centered_colored_cap"
   },
   {
-    "id": "TY-DX-001",
-    "city": "桃園市",
-    "district": "大溪區",
-    "name": "大溪系統－老街意象",
-    "description": "桃園市水務局說明：大溪系統將老街元素置入人孔蓋設計。",
-    "themes": [
-      "歷史建築",
-      "街區"
-    ],
-    "elements": [
-      "歷史建築"
-    ],
-    "image": "assets/images/covers/TY-DX-001.jpg",
-    "image_status": "source_verified_pending_direct_photo",
-    "source_ids": [
-      "taoyuan-local-covers-2020"
-    ],
-    "display_area": "桃園市 大溪區",
-    "verification": "桃園市水務局說明經新聞採訪確認"
-  },
-  {
-    "id": "TY-BJ-001",
-    "city": "桃園市",
-    "district": "大溪區",
-    "name": "百吉系統－百吉隧道",
-    "description": "桃園市水務局特色污水孔蓋；將百吉隧道納入圖騰設計。",
-    "themes": [
-      "歷史建築",
-      "交通",
-      "地方特色"
-    ],
-    "elements": [
-      "歷史建築",
-      "交通工具"
-    ],
-    "image": null,
-    "image_status": "official_design_verified_photo_pending",
-    "source_ids": [
-      "taoyuan-local-covers-2020",
-      "moenv-baiji"
-    ],
-    "display_area": "桃園市 大溪區",
-    "official_location_scope": "石門水庫上游百吉地區／大溪區。",
-    "verification": "桃園市水務局說明＋環境部場址資料",
-    "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed"
-  },
-  {
-    "id": "TY-XWL-001",
-    "city": "桃園市",
-    "district": "復興區",
-    "name": "小烏來系統－新溪口吊橋與原民圖騰",
-    "description": "桃園市水務局說明：小烏來系統融合新溪口吊橋及原民圖騰。",
-    "themes": [
-      "橋梁",
-      "傳統圖騰"
-    ],
-    "elements": [
-      "橋梁",
-      "其他圖案"
-    ],
-    "image": null,
-    "image_status": "official_design_verified_photo_pending",
-    "source_ids": [
-      "taoyuan-local-covers-2020"
-    ],
-    "display_area": "桃園市 復興區",
-    "verification": "桃園市水務局說明經新聞採訪確認",
-    "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed"
-  },
-  {
-    "id": "TY-YM-001",
-    "city": "桃園市",
-    "district": "楊梅區",
-    "name": "楊梅系統－楊梅與牧場",
-    "description": "桃園市水務局特色污水孔蓋；圖樣結合地方植物楊梅與牧場景觀。",
-    "themes": [
-      "植物",
-      "動物",
-      "地方特色"
-    ],
-    "elements": [
-      "植物",
-      "動物"
-    ],
-    "image": null,
-    "image_status": "official_design_verified_photo_pending",
-    "source_ids": [
-      "taoyuan-local-covers-2020"
-    ],
-    "display_area": "桃園市 楊梅區",
-    "official_location_scope": "楊梅區污水系統；媒體實拍指出新農街後巷可見。",
-    "verification": "桃園市水務局說明經新聞採訪確認",
-    "display_processing": "placeholder",
-    "photo_authenticity": "photo_needed"
-  },
-  {
-    "id": "TY-GS-001",
-    "city": "桃園市",
-    "district": "龜山區",
-    "name": "龜山系統－酒廠與壽山巖觀音寺",
-    "description": "桃園市水務局說明：龜山系統將觀光酒廠與壽山巖觀音寺結合於孔蓋圖樣。",
-    "themes": [
-      "歷史建築",
-      "名物品"
-    ],
-    "elements": [
-      "歷史建築",
-      "名物品"
-    ],
-    "image": "assets/images/covers/TY-GS-001-user.png",
-    "image_status": "user_provided_reference_visual",
-    "source_ids": [
-      "taoyuan-local-covers-2020"
-    ],
-    "display_area": "桃園市 龜山區",
-    "verification": "桃園市水務局說明經新聞採訪確認",
-    "image_source": "使用者提供／本對話提供之圖像",
-    "image_kind": "user_provided_reference_visual",
-    "photo_authenticity": "user_provided_reference_visual",
-    "cover_only": true,
-    "cover_shape": "round",
-    "cover_scale": 1.0,
-    "cover_pos_x": "50%",
-    "cover_pos_y": "50%"
-  },
-  {
-    "id": "TY-GS-001-COLOR",
-    "city": "桃園市",
-    "district": "龜山區",
-    "name": "龜山系統－酒廠與壽山巖觀音寺－彩色版",
-    "description": "桃園市水務局說明：龜山系統將觀光酒廠與壽山巖觀音寺結合於孔蓋圖樣。",
-    "themes": [
-      "歷史建築",
-      "名物品"
-    ],
-    "elements": [
-      "歷史建築",
-      "名物品"
-    ],
-    "image": "assets/images/covers/TY-GS-001-color.jpg",
-    "image_status": "user_provided_original_color_visual",
-    "source_ids": [
-      "taoyuan-local-covers-2020"
-    ],
-    "display_area": "桃園市 龜山區",
-    "verification": "桃園市水務局說明經新聞採訪確認",
-    "image_source": "使用者提供／本對話提供之彩色圖",
-    "image_kind": "user_provided_reference_visual",
-    "photo_authenticity": "user_provided_reference_visual",
-    "cover_only": true,
-    "cover_shape": "round",
-    "cover_scale": 1.0,
-    "cover_pos_x": "50%",
-    "cover_pos_y": "50%",
-    "display_title": "龜山系統－酒廠與壽山巖觀音寺－彩色版",
-    "display_processing": "preserve_original_color_no_recolor",
-    "image_storage": "local_project_asset"
-  },
-  {
     "id": "TC-003",
     "name": "綠川水岸品牌",
     "city": "臺中市",
@@ -2135,8 +1974,8 @@
     ],
     "location_mode": "official_search_area",
     "description": "臺南市政府官方特色污水孔蓋，屬普濟殿七角頭主題。",
-    "image": "https://news.housefun.com.tw/images/news/2020/12/28/160912580075282403.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-PJ-02.jpg",
+    "image_status": "user_provided_reference_visual",
     "image_kind": "verified_cover_photo",
     "official_photo_page": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
     "official_photo_verified": true,
@@ -2329,8 +2168,8 @@
       "owlting-tainan-yeshitao"
     ],
     "location_mode": "official_search_area",
-    "image": "https://d1b8dyiuti31bx.cloudfront.net/NewsPhotos/20230725/15_070109276348.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-009.jpg",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8560859",
@@ -2377,8 +2216,8 @@
       "merit-times-tainan-shijingkou"
     ],
     "location_mode": "official_search_area",
-    "image": "https://www.merit-times.com.tw/news_pic/20201227/1481413_1048317.jpg",
-    "image_status": "verified_web_photo",
+    "image": "assets/images/covers/TN-001.jpg",
+    "image_status": "user_provided_reference_visual",
     "official_visual": {
       "visual_type": "official_real_photo_page",
       "source_url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8798155",
