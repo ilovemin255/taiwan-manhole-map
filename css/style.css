@@ -513,3 +513,25 @@ footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:
 #staticCards:not([hidden]), #cards:not([hidden]){
   display:grid!important;
 }
+
+/* V2.3 — unified manhole diameter: every card gets the same circular display viewport. */
+.coverWrap{
+  width:100%!important;
+  aspect-ratio:1/1!important;
+  box-sizing:border-box!important;
+  display:grid!important;
+  place-items:center!important;
+}
+.coverWrap.roundCover,
+.coverWrap.coverOnly.roundCover{
+  border-radius:50%!important;
+  clip-path:circle(50% at 50% 50%)!important;
+}
+/* Original files stay untouched; scale is display-only and normalizes the visible outer diameter. */
+.coverWrap.coverOnly.roundCover img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  transform:scale(var(--cover-scale,1))!important;
+  transform-origin:center center!important;
+}
