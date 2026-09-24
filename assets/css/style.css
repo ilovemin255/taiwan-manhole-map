@@ -535,3 +535,7 @@ footer{margin-top:40px;background:#233238;color:white;text-align:center;padding:
   transform:scale(var(--cover-scale,1))!important;
   transform-origin:center center!important;
 }
+
+/* V2.3.1 FIX — unified visible manhole diameter; source image files remain untouched. */
+.coverWrap.coverOnly.roundCover{padding:0!important;background:transparent!important;overflow:hidden!important;border-radius:50%!important;clip-path:circle(50% at 50% 50%)!important;}
+.coverWrap.coverOnly.roundCover img{display:block!important;width:100%!important;height:100%!important;object-fit:contain!important;object-position:var(--cover-pos-x,50%) var(--cover-pos-y,50%)!important;transform:scale(var(--cover-scale,1))!important;transform-origin:center!important;}
